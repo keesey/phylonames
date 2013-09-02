@@ -1,0 +1,49 @@
+{
+	"site-title": "International Society for Phylogenetic Nomenclature",
+	"site-title-abbr": "ISPN",
+	"year": 2013,
+	"navbar": [
+		{
+			"label": "About the ISPN",
+			"href": "/about",
+			"glyphicon": "question-sign"
+		},
+		{
+			"label": "How to Join",
+			"href": "/membership",
+			"glyphicon": "log-in"
+
+		},
+		{
+			"label": "Literature",
+			"href": "/literature",
+			"glyphicon": "book"
+
+		},
+		{
+			"label": "News",
+			"href": "/news",
+			"glyphicon": "bullhorn"
+		}
+	],
+	"news": [
+		{
+			"id": "2012-02-01",
+			"title": "1 Feb 2012",
+			"summary": "Philip Cantino reports on the progress of the <strong><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</strong>.",
+			"action": "Read the Report"
+		},
+		{
+			"id": "2011-11-16",
+			"title": "16 Nov 2011",
+			"summary": "A proposal to amend the <strong><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></strong> with respect to species has been posted.",
+			"action": "More Information"
+		},
+		{
+			"id": "2011-09-06",
+			"title": "6 Sep 2011",
+			"summary": "Kevin de Queiroz reports on the progress of the <strong><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</strong>.",
+			"action": "Read the Report"
+		}
+	]
+}
