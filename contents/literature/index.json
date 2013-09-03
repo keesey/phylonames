@@ -1,0 +1,63 @@
+{
+	"description": "A list of publications dealing with phylogenetic nomenclature.",
+	"literature": [
+		{
+			"id": "reportsoverviews",
+			"title": "News Reports and Overviews",
+			"citations": [
+				{
+					"authors": "Cantino, P. D.",
+					"date": 2001,
+					"title": "Nomenclature, phylogenetic",
+					"pageA": 242, "pageB": 244,
+					"in": {
+						"title": "McGraw-Hill Yearbook of Science and Technology 2002",
+						"publisher": "New York: McGraw-Hill"
+					}
+				},
+				{
+					"authors": "Foer, J.",
+					"date": 2005,
+					"title": "Pushing PhyloCode",
+					"journal": "Discover",
+					"issue": "April 2005",
+					"pageA": 46, "pageB": 51
+				},
+				{
+					"authors": "Härlin, M.",
+					"date": 2004,
+					"title": "Classification nomenclature",
+					"pageA": 52, "pageB": 54,
+					"in": {
+						"title": "McGraw-Hill Yearbook of Science and Technology 2004",
+						"publisher": "New York: McGraw-Hill"
+					}
+				},
+				{
+					"authors": "Harris, R.",
+					"date": 2005,
+					"title": "Attacks on taxonomy",
+					"journal": "Amer. Scientist",
+					"volume": 93,
+					"pageA": 311, "pageB": 312
+				},
+				{
+					"authors": "Holmes, B.",
+					"date": 2004,
+					"title": "Time for Linnaeus to leave the stage",
+					"journal": "New Scientist",
+					"issue": "11 Sep 2004",
+					"pageA": 12, "pageB": 13
+				},
+				{
+					"authors": "Laurin, M. & H. N. Bryant",
+					"date": 2009,
+					"title": "Third meeting of the International Society for Phylogenetic Nomenclature: a report",
+					"journal": "Zool. Scripta",
+					"volume": 38,
+					"pageA": 333, "pageB": 337
+				}
+			]
+		}
+	]
+}

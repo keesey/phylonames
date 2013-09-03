@@ -6,5 +6,6 @@ section{padding-top:50px}
 #news{padding:3em 3em 100px}
 #news h2{font-size:18px;margin:0 0 1.5em;color:#dd9040}
 #news .btn-default{color:#dd9040}
+.list-unstyled li{margin-bottom:0.5em}
 .navbar-inverse{background:#444}
 .scientific{font-style:italic}

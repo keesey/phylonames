@@ -1,3 +1,75 @@
 {
-	"description": "How to join the International Society for Phylogenetic Nomenclature."
+	"description": "How to join the International Society for Phylogenetic Nomenclature.",
+	"types": [
+		{
+			"id": "regular",
+			"name": "Regular Member",
+			"amount": 40,
+			"item_name": "Regular membership",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "family",
+			"name": "Regular Family Member",
+			"description": "Spouse or domestic partner of a <a href=\"#regular\">Regular</a>, <a href=\"#sustaining\">Sustaining</a>, Founding, or <a href=\"#life\">Life Member</a>.",
+			"amount": 10,
+			"item_name": "Regular family membership",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "student",
+			"name": "Student Member",
+			"description": "Any full-time (degree-seeking) student.",
+			"amount": 20,
+			"item_name": "Student membership",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF",
+			"note": "Student membership requires the signature of the faculty advisor confirming that the applicant is a student."
+		},
+		{
+			"id": "studentfamily",
+			"name": "Student Family Member",
+			"description": "Spouse or domestic partner of a <a href=\"#student\">Student Member</a>.",
+			"amount": 5,
+			"item_name": "Student family membership",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "sustaining",
+			"name": "Sustaining Member",
+			"amount": 80,
+			"item_name": "Sustaining membership",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "life",
+			"name": "Life Member",
+			"description": "One-time payment.",
+			"amount": 1000,
+			"item_name": "Life membership",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "lifefamily",
+			"name": "Life Family Member",
+			"description": "Spouse or domestic partner of a <a href=\"#life\">Life Member</a> &mdash; one-time payment. Or $10 each year &mdash; see <a href=\"#regularfamily\">Regular Family Member</a>.",
+			"amount": 250,
+			"item_name": "Life family membership",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "donation",
+			"name": "Donation",
+			"description": "Make a donation to the Society.",
+			"item_name": "Donation",
+			"btn": "btn_donate_SM",
+			"bn": "PP-DonationsBF"
+		}
+	]
 }
