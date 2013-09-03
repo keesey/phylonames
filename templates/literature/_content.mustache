@@ -27,13 +27,13 @@
 		<li>
 			<strong>{{#upcase}}{{authors}}{{/upcase}}</strong>
 			({{date}}).
-			{{^journal}}<em>{{/journal}}{{title}}{{^journal}}</em>{{/journal}}.
+			{{^journal}}<em>{{/journal}}{{title}}{{^journal}}</em>{{/journal}}
 			{{#journal}}
-			<em>{{journal}}</em> <strong>{{volume}}</strong>{{#issue}}({{issue}}){{/issue}}:{{pageA}}&ndash;{{pageB}}.
+			<em>{{journal}}</em> <strong>{{volume}}</strong>{{#issue}}({{issue}}){{/issue}}: {{pageA}}&ndash;{{pageB}}.
 			{{/journal}}
 			{{#in}}
 			Pages {{pageA}}&ndash;{{pageB}} in
-			<em>{{title}}</em>.
+			<em>{{title}}</em>
 			{{publisher}}.
 			{{/in}}
 		</li>

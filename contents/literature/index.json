@@ -8,17 +8,17 @@
 				{
 					"authors": "Cantino, P. D.",
 					"date": 2001,
-					"title": "Nomenclature, phylogenetic",
+					"title": "Nomenclature, phylogenetic.",
 					"pageA": 242, "pageB": 244,
 					"in": {
-						"title": "McGraw-Hill Yearbook of Science and Technology 2002",
+						"title": "McGraw-Hill Yearbook of Science and Technology 2002.",
 						"publisher": "New York: McGraw-Hill"
 					}
 				},
 				{
 					"authors": "Foer, J.",
 					"date": 2005,
-					"title": "Pushing PhyloCode",
+					"title": "Pushing PhyloCode.",
 					"journal": "Discover",
 					"issue": "April 2005",
 					"pageA": 46, "pageB": 51
@@ -26,17 +26,17 @@
 				{
 					"authors": "Härlin, M.",
 					"date": 2004,
-					"title": "Classification nomenclature",
+					"title": "Classification nomenclature.",
 					"pageA": 52, "pageB": 54,
 					"in": {
-						"title": "McGraw-Hill Yearbook of Science and Technology 2004",
+						"title": "McGraw-Hill Yearbook of Science and Technology 2004.",
 						"publisher": "New York: McGraw-Hill"
 					}
 				},
 				{
 					"authors": "Harris, R.",
 					"date": 2005,
-					"title": "Attacks on taxonomy",
+					"title": "Attacks on taxonomy.",
 					"journal": "Amer. Scientist",
 					"volume": 93,
 					"pageA": 311, "pageB": 312
@@ -44,7 +44,7 @@
 				{
 					"authors": "Holmes, B.",
 					"date": 2004,
-					"title": "Time for Linnaeus to leave the stage",
+					"title": "Time for Linnaeus to leave the stage.",
 					"journal": "New Scientist",
 					"issue": "11 Sep 2004",
 					"pageA": 12, "pageB": 13
@@ -52,10 +52,107 @@
 				{
 					"authors": "Laurin, M. & H. N. Bryant",
 					"date": 2009,
-					"title": "Third meeting of the International Society for Phylogenetic Nomenclature: a report",
+					"title": "Third meeting of the International Society for Phylogenetic Nomenclature: a report.",
 					"journal": "Zool. Scripta",
 					"volume": 38,
 					"pageA": 333, "pageB": 337
+				},
+				{
+					"authors": "Laurin, M. & A. de Ricqlès",
+					"date": 2004,
+					"title": "Compte rendu sur le premier congrès international de nomenclature phylogénétique: 6–9 juillet 2004, MNHN.",
+					"journal": "Paris. Bull. Soc. Française Syst.",
+					"volume": 32,
+					"pageA": 9, "pageB": 10
+				},
+				{
+					"authors": "Laurin, M. & P. D. Cantino",
+					"date": 2006,
+					"title": "Second Congrès International de la Société de Nomenclature Phylogénétique: 28 juin–2 juillet, 2006, Université de Yale, USA.",
+					"journal": "Journal de l'Association Paléontologique Française",
+					"volume": 50,
+					"pageA": 18, "pageB": 21
+				},
+				{
+					"authors": "Laurin, M. & P. D. Cantino",
+					"date": 2007,
+					"title": "Second meeting of the International Society for Phylogenetic Nomenclature: a report.",
+					"journal": "Zool. Scripta",
+					"volume": 36,
+					"pageA": 109, "pageB": 117
+				},
+				{
+					"authors": "Laurin, M. & P. D. Cantino",
+					"date": 2004,
+					"title": "First International Phylogenetic Nomenclature Meeting: a report.",
+					"journal": "Zool. Scripta",
+					"volume": 33,
+					"pageA": 475, "pageB": 479
+				},
+				{
+					"authors": "Milius, S.",
+					"date": 1999,
+					"title": "Should we junk Linnaeus?",
+					"journal": "Science News",
+					"volume": 156,
+					"pageA": 268, "pageB": 270
+				},
+				{
+					"authors": "Nyffeler, R.",
+					"date": 1999,
+					"title": "A new ordinal classification of the flowering plants.",
+					"journal": "Trends Ecol. Evol.",
+					"volume": 14,
+					"pageA": 168, "pageB": 170
+				},
+				{
+					"authors": "Pennisi, E.",
+					"date": 2001,
+					"title": "Linnaeus's last stand?",
+					"journal": "Science",
+					"volume": 291,
+					"pageA": 2304, "pageB": 2307
+				},
+				{
+					"authors": "Pleijel, F.",
+					"date": 2000,
+					"title": "Nomenclature linnéenne et nomenclature phylogénétique.",
+					"journal": "Bull. Soc. Fran. Syst.",
+					"volume": 24,
+					"pageA": 25, "pageB": 28
+				},
+				{
+					"authors": "Pleijel, F. & B. Dayrat",
+					"date": 2000,
+					"title": "De l'évolution dans la nomenclature?",
+					"journal": "La Recherche",
+					"volume": 333,
+					"pageA": 48, "pageB": 50
+				},
+				{
+
+					"authors": "Soares, C.",
+					"date": 2004,
+					"title": "What's in a name?",
+					"journal": "Scientific American",
+					"issue": "Nov 2004",
+					"pageA": 36, "pageB": 37
+				},
+				{
+					"authors": "Spooner, D., W. L. A. Hetterscheid, R. G. van den Berg & W. Brandenburg",
+					"date": 2003,
+					"title": "Plant nomenclature and taxonomy: an horticultural and agronomic perspective",
+					"journal": "Horticultural Reviews",
+					"volume": 28,
+					"pageA": 1, "pageB": 60
+				},
+				{
+					"authors": "Withgott, J.",
+					"date": 2000,
+					"title": "Is it \"So long, Linnaeus\"?",
+					"journal": "BioScience",
+					"volume": 50,
+					"pageA": 646, "pageB": 651
 				}
 			]
 		}
