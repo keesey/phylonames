@@ -1,3 +1,98 @@
 {
-	"description": "About the International Society for Phylogenetic Nomenclature."
+	"description": "About the International Society for Phylogenetic Nomenclature.",
+	"membershiptypes":
+	[
+		{
+			"id": "donation",
+			"name": "Donation",
+			"description": "The Society welcomes donations!",
+			"item_name": "Donation",
+			"btn": "btn_donate_SM",
+			"bn": "PP-DonationsBF"
+		}
+	],
+	"council":
+	{
+		"officers":
+		[
+			{
+				"title": "President",
+				"name": "Nico Cellinese",
+				"organization": "University of Florida",
+				"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
+			},
+			{
+				"title": "Past-President",
+				"name": "Julia Clarke",
+				"organization": "University of Texas",
+				"email": { "name": "Julia_Clarke", "domain": "jsg.utexas.edu" }
+			},
+			{
+				"title": "President-Elect",
+				"name": "Kevin Padian",
+				"organization": "University of California, Berkeley",
+				"email": { "name": "kpadian", "domain": "berkeley.edu" }
+			},
+			{
+				"title": "Secretary",
+				"name": "Michel Laurin",
+				"organization": "CNRS, Paris",
+				"email": { "name": "michel.laurin", "domain": "upmc.fr" }
+			},
+			{
+				"title": "Treasurer",
+				"name": "Michael Keesey",
+				"email": { "name": "keesey", "domain": "gmail.com" }
+			},
+			{
+				"title": "Program Director"
+			}
+		],
+		"atlarge":
+		[
+			{
+				"year": 2012,
+				"members":
+				[
+					{
+						"name": "Sean Graham",
+						"organization": "University of British Columbia",
+						"email": { "name": "swgraham", "domain": "interchange.ubc.ca" }
+					}
+				]
+			},
+			{
+				"year": 2013,
+				"members":
+				[
+					{
+						"name": "David Cannatella",
+						"organization": "University of Texas",
+						"email": { "name": "catfish", "domain": "mail.utexas.edu" }
+					},
+					{
+						"name": "Micah Dunthorn",
+						"organization": "University of Kaiserslautern",
+						"email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
+					}
+				]
+			},
+			{
+				"year": 2014,
+				"members":
+				[
+					{
+						"name": "Philip Cantino",
+						"organization": "Onio University",
+						"email": { "name": "cantino", "domain": "ohio.edu" }
+					},
+					{
+						"name": "Mieczyslaw Wolsan",
+						"organization": "Polish Academy of Sciences",
+						"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
+					}
+				]
+			}
+		]
+	}
 }

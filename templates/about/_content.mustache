@@ -22,22 +22,28 @@
 					<p>
 						Anyone who is interested in phylogenetic nomenclature is encouraged to <strong><a href="/membership">join</a></strong> the ISPN.
 					</p>
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_xclick" />
-						<input type="hidden" name="business" value="ncellinese@ufl.edu" />
-						<input type="hidden" name="item_name" value="Make a donation to the Society" />
-						<input type="hidden" name="no_shipping" value="0" />
-						<input type="hidden" name="no_note" value="1" />
-						<input type="hidden" name="currency_code" value="USD" />
-						<input type="hidden" name="tax" value="0" />
-						<input type="hidden" name="lc" value="US" />
-						<input type="hidden" name="bn" value="PP-DonationsBF" />
-						<p>
-							<strong>The Society welcomes donations!</strong>
-							<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make a donation to the Society through PayPal" title="Make a donation to the Society through PayPal" align="middle" />
-							<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-						</p>
-					</form>
+					{{#membershiptypes}}
+					<p>
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" role="form" class="form-inline">
+							<input type="hidden" name="cmd" value="_xclick">
+							<input type="hidden" name="business" value="ncellinese@ufl.edu">
+							<input type="hidden" name="item_name" value="{{item_name}}">
+							{{#amount}}
+							<input type="hidden" name="amount" value="{{amount}}">
+							{{/amount}}
+							<input type="hidden" name="no_shipping" value="0">
+							<input type="hidden" name="no_note" value="1">
+							<input type="hidden" name="currency_code" value="USD">
+							<input type="hidden" name="lc" value="US">
+							<input type="hidden" name="bn" value="{{bn}}">
+							{{#description}}
+							<strong>{{description}}</strong>
+							{{/description}}
+							<input type="image" src="https://www.paypal.com/en_US/i/btn/{{btn}}.gif" border="0" name="submit" title="Pay through PayPal" alt="Pay through PayPal" align="middle">
+							<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form>
+					</p>
+					{{/membershiptypes}}
 				</section>
 				<section id="council">
 					<h2>Members of the ISPN Council</h2>
@@ -46,29 +52,32 @@
 					</p>
 					<h3>Officers</h3>
 					<dl class="dl-horizontal">
-						<dt>President</dt>
-						<dd>Nico Cellinese (University of Florida), <script type="text/javascript">befuddle_epadr("ncellinese","flmnh.ufl.edu");</script></dd>
-						<dt>Past-President</dt>
-						<dd>Julia Clarke (University of Texas), <script type="text/javascript">befuddle_epadr("Julia_Clarke","jsg.utexas.edu");</script></dd>
-						<dt>President-elect</dt>
-						<dd>Kevin Padian (University of California, Berkeley), <script type="text/javascript">befuddle_epadr("kpadian","berkeley.edu");</script></dd>
-						<dt>Secretary</dt>
-						<dd>Michel Laurin (CNRS, Paris),  <script type="text/javascript">befuddle_epadr("michel.laurin","upmc.fr");</script></dd>
-						<dt>Treasurer</dt>
-						<dd>Michael Keesey, <script type="text/javascript">befuddle_epadr("keesey","gmail.com");</script></dd>
-						<dt>Program Director</dt>
-						<dd class="muted">none currently appointed</dd>
+						{{#council.officers}}
+						<dt>{{title}}</dt>
+						<dd>
+							{{#name}}{{name}}{{#organization}} ({{organization}}){{/organization}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}{{/name}}
+							{{^name}}
+							<span class="muted">none currently appointed</span>
+							{{/name}}
+						</dd>
+						{{/council.officers}}
 					</dl>
 					<h3>Council Members at Large</h3>
 					<dl class="dl-horizontal">
-						<dt>2012</dt>
-						<dd>Sean Graham (University of British Columbia), <script type="text/javascript">befuddle_epadr("swgraham","interchange.ubc.ca");</script></dd>
-						<dt>2013</dt>
-						<dd>David Cannatella (University of Texas), <script type="text/javascript">befuddle_epadr("catfish","mail.utexas.edu");</script></dd>
-						<dd>Micah Dunthorn (University of Kaiserslautern), <script type="text/javascript">befuddle_epadr("dunthorn","rhrk.uni-kl.de");</script></dd>
-						<dt>2014</dt>
-						<dd>Philip Cantino (Ohio University), <script type="text/javascript">befuddle_epadr("cantino","ohio.edu");</script></dd>
-						<dd>Mieczyslaw Wolsan (Polish Academy of Sciences), <script type="text/javascript">befuddle_epadr("wolsan","miiz.waw.pl");</script></dd>
+						{{#council.atlarge}}
+						<dt>{{year}}</dt>
+						{{#members}}
+						<dd>
+							{{name}}
+							{{#organization}}
+							({{organization}})
+							{{/organization}}
+							{{#email}}
+							<script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>
+							{{/email}}
+						</dd>
+						{{/members}}
+						{{/council.atlarge}}
 					</dl>
 				</section>
 				<section id="committees">
