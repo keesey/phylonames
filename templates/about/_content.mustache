@@ -68,13 +68,7 @@
 						<dt>{{year}}</dt>
 						{{#members}}
 						<dd>
-							{{name}}
-							{{#organization}}
-							({{organization}})
-							{{/organization}}
-							{{#email}}
-							<script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>
-							{{/email}}
+							{{name}}{{#organization}} ({{organization}}){{/organization}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}
 						</dd>
 						{{/members}}
 						{{/council.atlarge}}
@@ -82,14 +76,18 @@
 				</section>
 				<section id="committees">
 					<h2>ISPN Committees</h2>
-					<section id="cpn">
-						<h3>Committee on Phylogenetic Nomenclature</h3>
+					{{#committees}}
+					<section id="{{code}}">
+						<h3>{{name}}</h3>
 						<dl class="dl-horizontal">
-							<dt>2012</dt>
-							<dd>Brian Andres (University of South Florida), <script language="JavaScript" type="text/javascript">befuddle_epadr("brian.andres","aya.yale.edu");</script></dd>
-							<dd>Walter Joyce (Universit&auml;t T&uuml;bingen), <script language="JavaScript" type="text/javascript">befuddle_epadr("walter.joyce","uni-tuebingen.de");</script></dd>
-							<dd>Michael Keesey, <script language="JavaScript" type="text/javascript">befuddle_epadr("keesey","gmail.com");</script></dd>
-							<dd>David Tank (University of Idaho), <script language="JavaScript" type="text/javascript">befuddle_epadr("dtank","uidaho.edu");</script></dd>
+							{{#years}}
+							<dt>{{year}}</dt>
+							{{#members}}
+							<dd>
+								{{name}}{{#organization}} ({{organization}}){{/organization}}{{#title}}, <strong>{{title}}</strong>{{/title}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}
+							</dd>
+							{{/members}}
+							{{/years}}
 							<dt>2013</dt>
 							<dd>Kevin de Queiroz (Smithsonian Institution), <script language="JavaScript" type="text/javascript">befuddle_epadr("dequeirozk","si.edu");</script></dd>
 							<dd>Jacques A. Gauthier (Yale University), <script language="JavaScript" type="text/javascript">befuddle_epadr("jacques.gauthier","yale.edu");</script></dd>
@@ -102,6 +100,7 @@
 							<dd>David Marjanovi&#263; (&Eacute;quipe Squelette des Vert&eacute;br&eacute;s, UMR7179, Paris), <script language="JavaScript" type="text/javascript">befuddle_epadr("david.marjanovic","gmx.at");</script></dd>
 						</dl>
 					</section>
+					{{/committees}}
 					<section id="reg">
 						<h3>Registration Committee</h3>
 						<dl class="dl-horizontal">
