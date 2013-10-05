@@ -5,9 +5,14 @@ function befuddle_epadr(n, d)
 	document.write('<a href="mailto:' + n + '@' + d + '">' + n + '@' + d + '</a>');
 }
 
-$(window).ready(function()
+$(document).ready(function()
 {
 	var names = RANDOM_IMAGE_FILENAMES,
 		n = names[Math.floor(Math.random() * names.length)];
-	document.querySelector('style').textContent += '@media screen and (min-width:768px){body{background-image: url("/images/random/' + n + '.jpg")}}';
+	$('<style type="text/css">@media screen and (min-width:768px){body{background-image:url("/images/random/' + n + '.jpg")}}</style>')
+		.appendTo($('head'));
 });
+window.onhashchange = function()
+{
+	// :TODO: offset scroll
+}
