@@ -4,6 +4,7 @@
 		{
 			"id": "regular",
 			"name": "Regular Member",
+			"description": "",
 			"amount": 40,
 			"item_name": "Regular membership",
 			"btn": "btn_paynow_SM",
@@ -40,6 +41,7 @@
 		{
 			"id": "sustaining",
 			"name": "Sustaining Member",
+			"description": "",
 			"amount": 80,
 			"item_name": "Sustaining membership",
 			"btn": "btn_paynow_SM",
