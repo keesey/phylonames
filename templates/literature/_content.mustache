@@ -1,6 +1,6 @@
 <section>
 	<h1>
-		Literature on Phylogenetic Nomenclature
+		Literature on Phylogenetic Nomenclature<br>
 		<small>Philip D. Cantino and Kevin de Queiroz</small>
 	</h1>
 	<p>
@@ -16,7 +16,7 @@
 	</p>
 	<p>
 		We intend to update the list as new information becomes available.
-		If you notice omissions or feel that a paper has been assigned to the wrong category (or should be listed under additional categories), please contact Phil Cantino (<a href="mailto:cantino@ohio.edu">cantino@ohio.edu</a>) or Kevin de Queiroz (<a href="dequeirk@si.edu">dequeirk@si.edu</a>).
+		If you notice omissions or feel that a paper has been assigned to the wrong category (or should be listed under additional categories), please contact Phil Cantino (<script type="text/javascript">befuddle_epadr('cantino','ohio.edu');</script>) or Kevin de Queiroz (<script type="text/javascript">befuddle_epadr('dequeirk','si.edu');</script>).
 	</p>
 </section>
 {{#literature}}
@@ -33,6 +33,8 @@
 			{{/journal}}
 			{{#in}}
 			Pages {{pageA}}&ndash;{{pageB}} in
+			{{#editors}}{{editors}} (eds.){{/editors}}
+			{{#editor}}{{editor}} (ed.){{/editor}}
 			<em>{{title}}</em>
 			{{publisher}}.
 			{{/in}}

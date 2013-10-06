@@ -142,7 +142,7 @@
 				{
 					"authors": "Spooner, D., W. L. A. Hetterscheid, R. G. van den Berg & W. Brandenburg",
 					"date": 2003,
-					"title": "Plant nomenclature and taxonomy: an horticultural and agronomic perspective",
+					"title": "Plant nomenclature and taxonomy: an horticultural and agronomic perspective.",
 					"journal": "Horticultural Reviews",
 					"volume": 28,
 					"pageA": 1, "pageB": 60
@@ -155,6 +155,112 @@
 					"volume": 50,
 					"pageA": 646, "pageB": 651
 				}
+			]
+		},
+		{
+			"id": "formative",
+			"title": "Formative Early Publications",
+			"citations": [
+				{
+					"authors": "de Queiroz, K.",
+					"date": 1988,
+					"title": "Systematics and the Darwinian revolution.",
+					"journal": "Philos. Sci.",
+					"volume": 55,
+					"pageA": 238, "pageB": 259
+				},
+				{
+					"authors": "de Queiroz, K. & J. Gauthier",
+					"date": 1990,
+					"title": "Phylogeny as a central principle in taxonomy: Phylogenetic definitions of taxon names.",
+					"journal": "Syst. Zool.",
+					"volume": 39,
+					"pageA": 307, "pageB": 322
+				},
+				{
+					"authors": "de Queiroz, K. & J. Gauthier",
+					"date": 1992,
+					"title": "Phylogenetic taxonomy.",
+					"journal": "Annu. Rev. Ecol. Syst.",
+					"volume": 23,
+					"pageA": 449, "pageB": 480
+				},
+				{
+					"authors": "de Queiroz, K. & J. Gauthier",
+					"date": 1994,
+					"title": "Toward a phylogenetic system of biological nomenclature.",
+					"journal": "Trends Ecol. Evol.",
+					"volume": 9,
+					"pageA": 27, "pageB": 31
+				},
+				{
+					"authors": "Estes, R., K. de Queiroz & J. Gauthier",
+					"date": 1988,
+					"title": "Phylogenetic relationships within Squamata.",
+					"pageA": 119, "pageB": 281,
+					"in": {
+						"editors": "R. Estes & G. K. Pregill",
+						"title": "Phylogenetic Relationships of the Lizard Families: Essays Commemorating Charles L. Camp.",
+						"publisher": "Stanford, Calif.: Stanford Univ. Press"
+					}
+				},
+				{
+					"authors": "Gauthier, J., K. de Queiroz & R. Estes",
+					"date": 1988,
+					"title": "A phylogenetic analysis of Lepidosauromorpha.",
+					"pageA": 15, "pageB": 98,
+					"in": {
+						"editors": "R. Estes & G. K. Pregill",
+						"title": "Phylogenetic Relationships of the Lizard Families: Essays Commemorating Charles L. Camp.",
+						"publisher": "Stanford, Calif.: Stanford Univ. Press"
+					}
+				},
+				{
+					"authors": "Ghiselin, M. T.",
+					"date": 1984,
+					"title": "\"Definition,\" \"character,\" and other equivocal terms.",
+					"journal": "Syst. Zool.",
+					"volume": 33,
+					"pageA": 104, "pageB": 110
+				},
+				{
+					"authors": "Rowe, T.",
+					"date": 1987,
+					"title": "Definition and diagnosis in the phylogenetic system.",
+					"journal": "Syst. Zool.",
+					"volume": 36,
+					"pageA": 208, "pageB": 211
+				}
+			]
+		},
+		{
+			"id": "othertheorypractice",
+			"title": "Other Publications on the Theory and Practice of Phylogenetic Nomenclature",
+			"citations": [
+			]
+		},
+		{
+			"id": "species",
+			"title": "Phylogenetic Nomenclature of Species",
+			"citations": [
+			]
+		},
+		{
+			"id": "otherapplications",
+			"title": "Other Applications of Phylogenetic Nomenclature ",
+			"citations": [
+			]
+		},
+		{
+			"id": "critiques",
+			"title": "Critiques of Phylogenetic Nomenclature",
+			"citations": [
+			]
+		},
+		{
+			"id": "replies",
+			"title": "Replies to Critiques",
+			"citations": [
 			]
 		}
 	]
