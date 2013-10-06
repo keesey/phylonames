@@ -6,7 +6,7 @@
     <head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>{{{site-title}}}</title>
+		<title>{{{page-title}}}</title>
 		<meta name="author" content="T. Michael Keesey">
 		<meta name="description" content="{{description}}">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,27 +20,26 @@
 		{{#javascript_bundle}}/js/all.js{{/javascript_bundle}} 
 	</head>
 {{> body_start}}
-    	<div id="wrap">
-			<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-				<div class="container">
-					<div class="navbar-header">
-		         		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-		         			<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand" href="/">
-							<img src="/images/ispn-logo.png" width="16" heigh="16" alt="" class="inline">
-							{{#upcase}}{{site-title-abbr}}{{/upcase}}
-						</a>
-					</div>
-					<div class="navbar-collapse collapse">
-						<ul class="nav navbar-nav">
-						{{#navbar}}
-							<li><a href="{{href}}"><i class="glyphicon glyphicon-{{glyphicon}}"></i> {{label}}</a>
-						{{/navbar}}
-						</ul>
-					</div>
+		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+	         		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	         			<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/">
+						<img src="/images/ispn-logo.png" width="16" heigh="16" alt="" class="inline">
+						{{#upcase}}{{site-title-abbr}}{{/upcase}}
+					</a>
 				</div>
-			</nav>
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+					{{#navbar}}
+						<li><a href="{{href}}"><i class="glyphicon glyphicon-{{glyphicon}}"></i> {{label}}</a>
+					{{/navbar}}
+					</ul>
+				</div>
+			</div>
+		</nav>

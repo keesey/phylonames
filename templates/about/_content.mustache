@@ -2,22 +2,22 @@
 					<h1>About the ISPN</h1>
 					<p>
 						The <strong>International Society for Phylogenetic Nomenclature</strong> was established to encourage and facilitate the development and use of, and communication about, phylogenetic nomenclature.
-						Toward this end, the ISPN organizes periodic <strong>scientific meetings</strong> and is overseeing the completion and implementation of a <strong>code of rules</strong> to govern phylogenetic nomenclature &mdash; the <a href="http://phylocode.org" class="title">PhyloCode</a>.
+						Toward this end, the ISPN organizes periodic <strong>scientific meetings</strong> and is overseeing the completion and implementation of a <strong>code of rules</strong> to govern phylogenetic nomenclature &mdash; the <a href="http://phylocode.org"><i>PhyloCode</i></a>.
 					</p>
 					<p>
 						The ISPN is governed by a <strong><a href="#council">Council</a></strong>, of which all members except the Program Director are elected.
 						For more information, see the <a href="/pdf/ISPN_bylaws.pdf">Bylaws</a>.
 					</p>
 					<p>
-						The ISPN maintains two <strong>committees</strong> whose responsibilities pertain directly to the functioning of the <span class="title">PhyloCode</span>: the <a href="#cpn">Committee on Phylogenetic Nomenclature</a> (CPN) and the <a href="#reg">Registration Committee</a>.
+						The ISPN maintains two <strong>committees</strong> whose responsibilities pertain directly to the functioning of the <i>PhyloCode</i>: the <a href="#cpn">Committee on Phylogenetic Nomenclature</a> (CPN) and the <a href="#reg">Registration Committee</a>.
 						The members of both committees are elected by the ISPN membership.
 					</p>
 					<p>
-						The CPN is responsible for reviewing and approving changes in the draft <span class="title">PhyloCode</span>, leading to its implementation.
+						The CPN is responsible for reviewing and approving changes in the draft <i>PhyloCode</i>, leading to its implementation.
 						After implementation of the code, the CPN will rule on proposals for conservation or suppression of names, resolve ambiguities in the provisions of the code, amend the provisions of the code, and produce future editions of it.
 					</p>
 					<p>
-						The Registration Committee is responsible for managing the online registration database for names governed by the <span class="title">PhyloCode</span>.
+						The Registration Committee is responsible for managing the online registration database for names governed by the <i>PhyloCode</i>.
 					</p>
 					<p>
 						Anyone who is interested in phylogenetic nomenclature is encouraged to <strong><a href="/membership">join</a></strong> the ISPN.
@@ -48,14 +48,14 @@
 				<section id="council">
 					<h2>Members of the ISPN Council</h2>
 					<p>
-						List per year as a PDF file: <a href="./pdf/ispn_council_cpn_members.pdf" class="btn btn-info">Download <i class="glyphicon glyphicon-download"></i></a>
+						List per year as a <abbr class="initialism">PDF</abbr> file: <a href="./pdf/ispn_council_cpn_members.pdf" class="btn btn-info">Download <i class="glyphicon glyphicon-download"></i></a>
 					</p>
 					<h3>Officers</h3>
 					<dl class="dl-horizontal">
 						{{#council.officers}}
 						<dt>{{title}}</dt>
 						<dd>
-							{{#name}}{{name}}{{#organization}} ({{organization}}){{/organization}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}{{/name}}
+							{{#name}}<strong>{{name}}</strong>{{#organization}} ({{organization}}){{/organization}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}{{/name}}
 							{{^name}}
 							<span class="muted">none currently appointed</span>
 							{{/name}}
@@ -68,7 +68,7 @@
 						<dt>{{year}}</dt>
 						{{#members}}
 						<dd>
-							{{name}}{{#organization}} ({{organization}}){{/organization}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}
+							<strong>{{name}}</strong>{{#organization}} ({{organization}}){{/organization}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}
 						</dd>
 						{{/members}}
 						{{/council.atlarge}}
@@ -80,54 +80,15 @@
 					<section id="{{code}}">
 						<h3>{{name}}</h3>
 						<dl class="dl-horizontal">
-							{{#years}}
-							<dt>{{year}}</dt>
+							{{#sections}}
+							<dt>{{name}}</dt>
 							{{#members}}
 							<dd>
-								{{name}}{{#organization}} ({{organization}}){{/organization}}{{#title}}, <strong>{{title}}</strong>{{/title}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}
+								<strong>{{name}}</strong>{{#organization}} ({{organization}}){{/organization}}{{#title}}, <strong>{{title}}</strong>{{/title}}{{#email}}, <script type="text/javascript">befuddle_epadr("{{email.name}}","{{email.domain}}");</script>{{/email}}
 							</dd>
 							{{/members}}
-							{{/years}}
-							<dt>2013</dt>
-							<dd>Kevin de Queiroz (Smithsonian Institution), <script language="JavaScript" type="text/javascript">befuddle_epadr("dequeirozk","si.edu");</script></dd>
-							<dd>Jacques A. Gauthier (Yale University), <script language="JavaScript" type="text/javascript">befuddle_epadr("jacques.gauthier","yale.edu");</script></dd>
-							<dd>Richard Olmstead (University of Washington), <script language="JavaScript" type="text/javascript">befuddle_epadr("olmstead","u.washington.edu");</script></dd>
-							<dd>Kevin Padian (University of California, Berkeley), <script language="JavaScript" type="text/javascript">befuddle_epadr("kpadian","berkeley.edu");</script></dd>
-							<dt>2014</dt>
-							<dd>Frank (Andy) Anderson (Southern Illinois University), <script language="JavaScript" type="text/javascript">befuddle_epadr("feander","siu.edu");</script></dd>
-							<dd>Philip D. Cantino (Ohio University), <script language="JavaScript" type="text/javascript">befuddle_epadr("cantino","ohio.edu");</script></dd>
-							<dd>Michel Laurin (CNRS, Paris), <script language="JavaScript" type="text/javascript">befuddle_epadr("michel.laurin","upmc.fr");</script></dd>
-							<dd>David Marjanovi&#263; (&Eacute;quipe Squelette des Vert&eacute;br&eacute;s, UMR7179, Paris), <script language="JavaScript" type="text/javascript">befuddle_epadr("david.marjanovic","gmx.at");</script></dd>
+							{{/sections}}
 						</dl>
 					</section>
 					{{/committees}}
-					<section id="reg">
-						<h3>Registration Committee</h3>
-						<dl class="dl-horizontal">
-							<dt>2011</dt>
-							<dd>Nico Cellinese (University of Florida), Chair, <script language="JavaScript" type="text/javascript">befuddle_epadr("ncellinese","flmnh.ufl.edu");</script></dd>
-							<dd>Torsten Eriksson (Swedish Museum of Natural History), <script language="JavaScript" type="text/javascript">befuddle_epadr("torsten.eriksson","nrm.se");</script></dd>
-							<dd>Michael Keesey, <script language="JavaScript" type="text/javascript">befuddle_epadr("keesey","gmail.com");</script></dd>
-							<dd>William Piel (Yale University), <script language="JavaScript" type="text/javascript">befuddle_epadr("william.piel","yale.edu");</script></dd>
-						</dl>
-					</section>
-					<section id="publicity">
-						<h3>Publicity Committee</h3>
-						<dl class="dl-horizontal">
-							<dt>2011</dt>
-							<dd>Torsten Eriksson (Swedish Museum of Natural History), <script language="JavaScript" type="text/javascript">befuddle_epadr("torsten.eriksson","nrm.se");</script></dd>
-							<dd>Michael Keesey, <script language="JavaScript" type="text/javascript">befuddle_epadr("keesey","gmail.com");</script></dd>
-							<dd>David Marjanovi&#263; (&Eacute;quipe Squelette des Vert&eacute;br&eacute;s, UMR7179, Paris), <script language="JavaScript" type="text/javascript">befuddle_epadr("david.marjanovic","gmx.at");</script></dd>
-						</dl>
-					</section>
-					<section id="nominations">
-						<h3>Nominations Committee</h3>
-						<dl class="dl-horizontal">
-							<dt>2011</dt>
-							<dd>Tom Artois (University of Hasselt), <script language="JavaScript" type="text/javascript">befuddle_epadr("tom.artois","uhasselt.be");</script></dd>
-							<dd>Philip D. Cantino (Ohio University), <script language="JavaScript" type="text/javascript">befuddle_epadr("cantino","ohio.edu");</script></dd>
-							<dd>Julia Clarke (University of Texas), <script type="text/javascript">befuddle_epadr("Julia_Clarke","jsg.utexas.edu");</script></dd>
-							<dd>Mikael Thollesson (Uppsala University), <script language="JavaScript" type="text/javascript">befuddle_epadr("mikael.thollesson","ebc.uu.se");</script></dd>
-						</dl>
-					</section>
 				</section>

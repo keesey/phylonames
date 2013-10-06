@@ -1,5 +1,5 @@
 				<section id="news" class="col-sm-4">
-					<h2>News</h2>
+					<h2>Latest News</h2>
 					{{#news}}
 					{{#featured}}
 					<div class="panel panel-default">
@@ -19,10 +19,7 @@
 					</div>
 					{{/featured}}
 					{{/news}}
-					<div class="text-right">
-						<a href="/news" class="btn btn-default">
-							Archived News Items
-							<i class="glyphicon glyphicon-arrow-right"></i>
-						</a>
-					</div>
+					<ul class="pager">
+					  <li class="next"><a href="/news">News Archive <i class="glyphicon glyphicon-arrow-right"></i></a></li>
+					</ul>
 				</section>

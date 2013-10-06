@@ -1,4 +1,5 @@
 {
+	"page-title": "About the ISPN",
 	"description": "About the International Society for Phylogenetic Nomenclature.",
 	"membershiptypes":
 	[
@@ -17,21 +18,21 @@
 		[
 			{
 				"title": "President",
-				"name": "Nico Cellinese",
-				"organization": "University of Florida",
-				"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
+				"name": "Mieczyslaw Wolsan",
+				"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
+				"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
 			},
 			{
 				"title": "Past-President",
-				"name": "Julia Clarke",
-				"organization": "University of Texas",
-				"email": { "name": "Julia_Clarke", "domain": "jsg.utexas.edu" }
-			},
-			{
-				"title": "President-Elect",
 				"name": "Kevin Padian",
 				"organization": "University of California, Berkeley",
 				"email": { "name": "kpadian", "domain": "berkeley.edu" }
+			},
+			{
+				"title": "President-Elect",
+				"name": "Michael Donoghue",
+				"organization": "Yale University",
+				"email": { "name": "michael.donoghue", "domain": "yale.edu" }
 			},
 			{
 				"title": "Secretary",
@@ -45,51 +46,61 @@
 				"email": { "name": "keesey", "domain": "gmail.com" }
 			},
 			{
+				"title": "Webmaster",
+				"name": "Michael Keesey",
+				"email": { "name": "keesey", "domain": "gmail.com" }
+			},
+			{
 				"title": "Program Director"
 			}
 		],
 		"atlarge":
 		[
 			{
-				"year": 2012,
-				"members":
-				[
-					{
-						"name": "Sean Graham",
-						"organization": "University of British Columbia",
-						"email": { "name": "swgraham", "domain": "interchange.ubc.ca" }
-					}
-				]
-			},
-			{
-				"year": 2013,
-				"members":
-				[
-					{
-						"name": "David Cannatella",
-						"organization": "University of Texas",
-						"email": { "name": "catfish", "domain": "mail.utexas.edu" }
-					},
-					{
-						"name": "Micah Dunthorn",
-						"organization": "University of Kaiserslautern",
-						"email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
-					}
-				]
-			},
-			{
 				"year": 2014,
 				"members":
 				[
 					{
 						"name": "Philip Cantino",
-						"organization": "Onio University",
+						"organization": "Ohio University",
 						"email": { "name": "cantino", "domain": "ohio.edu" }
 					},
 					{
-						"name": "Mieczyslaw Wolsan",
-						"organization": "Polish Academy of Sciences",
-						"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
+						"name": "David Marjanović",
+						"organization": "Museum für Naturkunde, Berlin",
+						"email": { "name": "david.marjanovic", "domain": "mfn-berlin.de" }
+					}
+				]
+			},
+			{
+				"year": 2015,
+				"members":
+				[
+					{
+						"name": "Pamela Soltis",
+						"organization": "Florida Museum of Natural History",
+						"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
+					},
+					{
+						"name": "David Hillis",
+						"organization": "University of Texas",
+						"email": { "name": "dhillis", "domain": "mail.utexas.edu" }
+					}
+				]
+			},
+			{
+				"year": 2016,
+				"members":
+				[
+					{
+						"name": "Sina Adl",
+						"organization": "University of Saskatchewan",
+						"email": { "name": "sina.adl", "domain": "usask.ca" }
+					},
+					{
+						"name": "David Tank",
+						"organization": "University of Idaho",
+						"email": { "name": "dtank", "domain": "uidaho.edu" }
 					}
 				]
 			}
@@ -100,10 +111,36 @@
 		{
 			"name": "Committee on Phylogenetic Nomenclature",
 			"code": "cpn",
-			"years":
+			"sections":
 			[
 				{
-					"year": 2012,
+					"name": 2014,
+					"members":
+					[
+						{
+							"name": "Frank (Andy) Anderson",
+							"organization": "Southern Illinois University",
+							"email": { "name": "feander", "domain": "siu.edu" }
+						},
+						{
+							"name": "Philip Cantino",
+							"organization": "Ohio University",
+							"email": { "name": "cantino", "domain": "ohio.edu" }
+						},
+						{
+							"name": "Michel Laurin",
+							"organization": "CNRS, Paris",
+							"email": { "name": "michel.laurin", "domain": "upmc.fr" }
+						},
+						{
+							"name": "David Marjanović",
+							"organization": "Museum für Naturkunde, Berlin",
+							"email": { "name": "david.marjanovic", "domain": "mfn-berlin.de" }
+						}
+					]
+				},
+				{
+					"name": 2015,
 					"members":
 					[
 						{
@@ -112,13 +149,100 @@
 							"email": { "name": "brian.andres", "domain": "aya.yale.edu" }
 						},
 						{
-							"name": "Walter Joyce",
-							"organization": "Universität Tübingen",
-							"email": { "name": "walter.joyce", "domain": "uni-tuebingen.de" }
+							"name": "Nico Cellinese",
+							"organization": "Florida Museum of Natural History",
+							"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
 						},
+						{
+							"name": "James A. Doyle",
+							"organization": "University of California, Davis",
+							"email": { "name": "jadoyle", "domain": "ucdavis.edu" }
+						},
+						{
+							"name": "David Hillis",
+							"organization": "University of Texas",
+							"email": { "name": "dhillis", "domain": "mail.utexas.edu" }
+						}
+					]
+				},
+				{
+					"name": 2016,
+					"members":
+					[
+						{
+							"name": "Sean Graham",
+							"organization": "University of British Columbia",
+							"email": { "name": "sean.graham", "domain": "ubc.ca" }
+						},
+						{
+							"name": "Richard Olmstead",
+							"organization": "University of Washington",
+							"email": { "name": "olmstead", "domain": "u.washington.edu" }
+						},
+						{
+							"name": "Kevin de Queiroz",
+							"organization": "Smithsonian Institution",
+							"email": { "name": "dequeirozk", "domain": "si.edu" }
+						},
+						{
+							"name": "Mieczyslaw Wolsan",
+							"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
+							"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Registration Committee",
+			"code": "reg",
+			"sections":
+			[
+				{
+					"name": "Chair",
+					"members":
+					[
+						{
+							"name": "Nico Cellinese",
+							"organization": "Florida Museum of Natural History",
+							"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
+						}
+					]
+				},
+				{
+					"name": "Members",
+					"members":
+					[
 						{
 							"name": "Michael Keesey",
 							"email": { "name": "keesey", "domain": "gmail.com" }
+						},
+						{
+							"name": "William Piel",
+							"organization": "Yale University",
+							"email": { "name": "william.piel", "domain": "yale.edu" }
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Publicity Committee",
+			"code": "publicity",
+			"sections":
+			[
+				{
+					"name": "Members",
+					"members":
+					[
+						{
+							"name": "Michael Keesey",
+							"email": { "name": "keesey", "domain": "gmail.com" }
+						},
+						{
+							"name": "David Marjanović",
+							"organization": "Museum für Naturkunde, Berlin",
+							"email": { "name": "david.marjanovic", "domain": "mfn-berlin.de" }
 						}
 					]
 				}

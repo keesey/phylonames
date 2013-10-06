@@ -40,7 +40,7 @@
 		{
 			"id": "2012-02-01",
 			"date": "1 Feb 2012",
-			"title": "Progress Report",
+			"title": "Companion Volume: Progress Report",
 			"summary": "Philip Cantino reports on the progress of the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</i>.",
 			"action": "Read the Report",
 			"href": "/news/items/2012-02-01",
@@ -58,7 +58,7 @@
 		{
 			"id": "2011-09-06",
 			"date": "6 Sep 2011",
-			"title": "Progress Report",
+			"title": "Companion Volume: Progress Report",
 			"summary": "Kevin de Queiroz reports on the progress of the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</i>.",
 			"action": "Read the Report",
 			"href": "/news/items/2011-09-06",
@@ -78,7 +78,7 @@
 			"date": "23 July 2008",
 			"title": "Third Meeting",
 			"summary": "The third meeting of the <abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> was held at Dalhousie University in Halifax, Nova Scotia, 20&ndash;22 July 2008.",
-			"action": "Programme (PDF)",
+			"action": "Programme (<abbr class=\"initialism\">PDF</abbr>)",
 			"href": "/pdf/ISPN3.pdf",
 			"featured": false
 		},
@@ -87,7 +87,7 @@
 			"date": "3 Jul 2006",
 			"title": "Second Meeting",
 			"summary": "The second meeting of the <abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> was held at Yale University in New Haven, Connecticut, 28 June&ndash;2 July 2006.",
-			"action": "Programme and Abstracts (PDF)",
+			"action": "Programme and Abstracts (<abbr class=\"initialism\">PDF</abbr>)",
 			"href": "/pdf/ISPN2.pdf",
 			"featured": false
 		},
@@ -96,7 +96,7 @@
 			"date": "10 Jul 2004",
 			"title": "First Meeting",
 			"summary": "The first meeting of the <abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> was held at Muséum National d'Histoire Naturelle in Paris, France 6&ndash;9 July 2004.",
-			"action": "Programme and Abstracts (PDF)",
+			"action": "Programme and Abstracts (<abbr class=\"initialism\">PDF</abbr>)",
 			"href": "/pdf/ISPN1.pdf",
 			"featured": false
 		}
