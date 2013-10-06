@@ -25,18 +25,20 @@
 	<ul class="list-unstyled">
 	{{#citations}}
 		<li>
-			<strong>{{#upcase}}{{authors}}{{/upcase}}</strong>
+			<strong>{{#upcase}}{{{authors}}}{{/upcase}}</strong>
 			({{date}}).
-			{{^journal}}<em>{{/journal}}{{title}}{{^journal}}</em>{{/journal}}
+			{{^journal}}<em>{{/journal}}{{{title}}}{{^journal}}</em>{{/journal}}
+			{{#publisher}}{{publisher}}.{{/publisher}}
 			{{#journal}}
-			<em>{{journal}}</em> <strong>{{volume}}</strong>{{#issue}}({{issue}}){{/issue}}: {{pageA}}&ndash;{{pageB}}.
+			<em>{{journal}}</em> <strong>{{volume}}</strong>{{#issue}}({{issue}}){{/issue}}: {{pageA}}{{#pageB}}&ndash;{{pageB}}{{/pageB}}.
 			{{/journal}}
 			{{#in}}
-			Pages {{pageA}}&ndash;{{pageB}} in
-			{{#editors}}{{editors}} (eds.){{/editors}}
-			{{#editor}}{{editor}} (ed.){{/editor}}
-			<em>{{title}}</em>
-			{{publisher}}.
+			Page{{#pageB}}s{{/pageB}} {{pageA}}{{#pageB}}&ndash;{{pageB}}{{/pageB}} in
+			{{#editor}}{{{editor}}} (ed.){{/editor}}
+			{{#editors}}{{{editors}}} (eds.){{/editors}}
+			<em>{{{title}}}</em>
+			{{#publisher}}{{publisher}}.{{/publisher}}
+			{{#url}}[<a href="{{url}}">{{url}}</a>]{{/url}}
 			{{/in}}
 		</li>
 	{{/citations}}

@@ -51,15 +51,15 @@
 					"pageA": 12, "pageB": 13
 				},
 				{
-					"authors": "Laurin, M. & H. N. Bryant",
+					"authors": "Laurin, M., &amp; H. N. Bryant",
 					"date": 2009,
 					"title": "Third meeting of the International Society for Phylogenetic Nomenclature: a report.",
-					"journal": "Zool. Scripta",
+					"journal": "Zool. Scr.",
 					"volume": 38,
 					"pageA": 333, "pageB": 337
 				},
 				{
-					"authors": "Laurin, M. & A. de Ricqlès",
+					"authors": "Laurin, M., &amp; A. de Ricqlès",
 					"date": 2004,
 					"title": "Compte rendu sur le premier congrès international de nomenclature phylogénétique: 6–9 juillet 2004, MNHN.",
 					"journal": "Paris. Bull. Soc. Française Syst.",
@@ -67,7 +67,7 @@
 					"pageA": 9, "pageB": 10
 				},
 				{
-					"authors": "Laurin, M. & P. D. Cantino",
+					"authors": "Laurin, M., &amp; P. D. Cantino",
 					"date": 2006,
 					"title": "Second Congrès International de la Société de Nomenclature Phylogénétique: 28 juin–2 juillet, 2006, Université de Yale, USA.",
 					"journal": "Journal de l'Association Paléontologique Française",
@@ -75,18 +75,18 @@
 					"pageA": 18, "pageB": 21
 				},
 				{
-					"authors": "Laurin, M. & P. D. Cantino",
+					"authors": "Laurin, M., &amp; P. D. Cantino",
 					"date": 2007,
 					"title": "Second meeting of the International Society for Phylogenetic Nomenclature: a report.",
-					"journal": "Zool. Scripta",
+					"journal": "Zool. Scr.",
 					"volume": 36,
 					"pageA": 109, "pageB": 117
 				},
 				{
-					"authors": "Laurin, M. & P. D. Cantino",
+					"authors": "Laurin, M., &amp; P. D. Cantino",
 					"date": 2004,
 					"title": "First International Phylogenetic Nomenclature Meeting: a report.",
-					"journal": "Zool. Scripta",
+					"journal": "Zool. Scr.",
 					"volume": 33,
 					"pageA": 475, "pageB": 479
 				},
@@ -123,7 +123,7 @@
 					"pageA": 25, "pageB": 28
 				},
 				{
-					"authors": "Pleijel, F. & B. Dayrat",
+					"authors": "Pleijel, F., &amp; B. Dayrat",
 					"date": 2000,
 					"title": "De l'évolution dans la nomenclature?",
 					"journal": "La Recherche",
@@ -140,7 +140,7 @@
 					"pageA": 36, "pageB": 37
 				},
 				{
-					"authors": "Spooner, D., W. L. A. Hetterscheid, R. G. van den Berg & W. Brandenburg",
+					"authors": "Spooner, D., W. L. A. Hetterscheid, R. G. van den Berg, &amp; W. Brandenburg",
 					"date": 2003,
 					"title": "Plant nomenclature and taxonomy: an horticultural and agronomic perspective.",
 					"journal": "Horticultural Reviews",
@@ -170,7 +170,7 @@
 					"pageA": 238, "pageB": 259
 				},
 				{
-					"authors": "de Queiroz, K. & J. Gauthier",
+					"authors": "de Queiroz, K., &amp; J. Gauthier",
 					"date": 1990,
 					"title": "Phylogeny as a central principle in taxonomy: Phylogenetic definitions of taxon names.",
 					"journal": "Syst. Zool.",
@@ -178,7 +178,7 @@
 					"pageA": 307, "pageB": 322
 				},
 				{
-					"authors": "de Queiroz, K. & J. Gauthier",
+					"authors": "de Queiroz, K., &amp; J. Gauthier",
 					"date": 1992,
 					"title": "Phylogenetic taxonomy.",
 					"journal": "Annu. Rev. Ecol. Syst.",
@@ -186,7 +186,7 @@
 					"pageA": 449, "pageB": 480
 				},
 				{
-					"authors": "de Queiroz, K. & J. Gauthier",
+					"authors": "de Queiroz, K., &amp; J. Gauthier",
 					"date": 1994,
 					"title": "Toward a phylogenetic system of biological nomenclature.",
 					"journal": "Trends Ecol. Evol.",
@@ -194,23 +194,23 @@
 					"pageA": 27, "pageB": 31
 				},
 				{
-					"authors": "Estes, R., K. de Queiroz & J. Gauthier",
+					"authors": "Estes, R., K. de Queiroz, &amp; J. Gauthier",
 					"date": 1988,
 					"title": "Phylogenetic relationships within Squamata.",
 					"pageA": 119, "pageB": 281,
 					"in": {
-						"editors": "R. Estes & G. K. Pregill",
+						"editors": "R. Estes &amp; G. K. Pregill",
 						"title": "Phylogenetic Relationships of the Lizard Families: Essays Commemorating Charles L. Camp.",
 						"publisher": "Stanford, Calif.: Stanford Univ. Press"
 					}
 				},
 				{
-					"authors": "Gauthier, J., K. de Queiroz & R. Estes",
+					"authors": "Gauthier, J., K. de Queiroz, &amp; R. Estes",
 					"date": 1988,
 					"title": "A phylogenetic analysis of Lepidosauromorpha.",
 					"pageA": 15, "pageB": 98,
 					"in": {
-						"editors": "R. Estes & G. K. Pregill",
+						"editors": "R. Estes &amp; G. K. Pregill",
 						"title": "Phylogenetic Relationships of the Lizard Families: Essays Commemorating Charles L. Camp.",
 						"publisher": "Stanford, Calif.: Stanford Univ. Press"
 					}
@@ -237,6 +237,448 @@
 			"id": "othertheorypractice",
 			"title": "Other Publications on the Theory and Practice of Phylogenetic Nomenclature",
 			"citations": [
+				{
+					"authors": "Anderson, J. S.",
+					"date": 2002,
+					"title": "Use of well-known names in phylogenetic nomenclature: a reply to Laurin.",
+					"journal": "Syst. Biol.",
+					"volume": 51,
+					"pageA": 822, "pageB": 827
+				},
+				{
+					"authors": "Bertrand, Y., &amp; M. Härlin",
+					"date": 2006,
+					"title": "Stability and universality in the application of taxon names in phylogenetic nomenclature.",
+					"journal": "Syst. Biol.",
+					"volume": 55,
+					"pageA": 848, "pageB": 858
+				},
+				{
+					"authors": "Brochu, C. A., &amp; C. D. Sumrall",
+					"date": 2001,
+					"title": "Phylogenetic nomenclature and paleontology.",
+					"journal": "J. Paleont.",
+					"volume": 75,
+					"pageA": 754, "pageB": 757
+				},
+				{
+					"authors": "Bryant, H. N.",
+					"date": 1994,
+					"title": "Comments on the phylogenetic definition of taxon names and conventions regarding the naming of crown clades.",
+					"journal": "Syst. Biol.",
+					"volume": 43,
+					"pageA": 124, "pageB": 130
+				},
+				{
+					"authors": "Bryant, H. N.", "date": 1996, "title": "Explicitness, stability, &amp; universality in the phylogenetic definition and usage of taxon names: a case study of the phylogenetic taxonomy of the <i>Carnivora</i> (<i>Mammalia</i>).", "journal": "Syst. Biol.", "volume": 45, "pageA": 174, "pageB": 189
+				},
+				{
+					"authors": "Bryant, H. N.",
+					"date": 1997,
+					"title": "Cladistic information in phylogenetic definitions and designated phylogenetic contexts for the use of taxon names.",
+					"journal": "Biol. J. Linn. Soc.",
+					"volume": 62,
+					"pageA": 495, "pageB": 503
+				},
+				{
+					"authors": "Bryant, H. N., &amp; P. D. Cantino.",
+					"date": 2002,
+					"title": "A review of criticisms of phylogenetic nomenclature: is taxonomic freedom the fundamental issue?",
+					"journal": "Biol. Rev.",
+					"volume": 77,
+					"pageA": 39, "pageB": 55
+				},
+				{
+					"authors": "Cantino, P. D.",
+					"date": 2000,
+					"title": "Phylogenetic nomenclature: addressing some concerns.",
+					"journal": "Taxon",
+					"volume": 49,
+					"pageA": 85, "pageB": 93
+				},
+				{
+					"authors": "Cantino, P. D.",
+					"date": 2004,
+					"title": "Classifying species versus naming clades.",
+					"journal": "Taxon",
+					"volume": 53,
+					"pageA": 795, "pageB": 798
+				},
+				{
+					"authors": "Cantino, P. D., &amp; R. G. Olmstead",
+					"date": 2008,
+					"title": "Application of phylogenetically defined names does not require that every specifier be present on a tree.",
+					"journal": "Syst. Biol.",
+					"volume": 57, "pageA": 157, "pageB": 160
+				},
+				{
+					"authors": "Cantino, P. D., R. G. Olmstead, &amp; S. J. Wagstaff.",
+					"date": 1997,
+					"title": "A comparison of phylogenetic nomenclature with the current system: a botanical case study.",
+					"journal": "Syst. Biol.",
+					"volume": 46, "pageA": 313, "pageB": 331
+				},
+				{
+					"authors": "Christofferson, M. L.",
+					"date": 1995,
+					"title": "Cladistic taxonomy, phylogenetic systematics, &amp; evolutionary ranking.",
+					"journal": "Syst. Biol.",
+					"volume": 44, "pageA": 440, "pageB": 454
+				},
+				{
+					"authors": "de Queiroz, K.",
+					"date": 1992,
+					"title": "Phylogenetic definitions and taxonomic philosophy.",
+					"journal": "Biol. Phil.",
+					"volume": 7, "pageA": 295, "pageB": 313
+				},
+				{
+					"authors": "de Queiroz, K.",
+					"date": 1994,
+					"title": "Replacement of an essentialistic perspective on taxonomic definitions as exemplified by the definition of &quot;<i>Mammalia</i>&quot;.",
+					"journal": "Syst. Biol.",
+					"volume": 43, "pageA": 497, "pageB": 510
+				},
+				{
+					"authors": "de Queiroz, K.",
+					"date": 1997,
+					"title": "The Linnaean hierarchy and the evolutionization of taxonomy, with emphasis on the problem of nomenclature.",
+					"journal": "Aliso",
+					"volume": 15, "pageA": 125, "pageB": 144
+				},
+				{
+					"authors": "de Queiroz, K.",
+					"date": 2005,
+					"title": "Linnaean, rank-based, &amp; phylogenetic nomenclature: Restoring primacy to the link between names and taxa.",
+					"journal": "Symb. Bot. Ups.",
+					"volume": 33, "pageA": 127, "pageB": 140
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 2006,
+					"title": "The PhyloCode and the distinction between taxonomy and nomenclature.",
+					"journal": "Syst. Biol.", "volume": 55, "pageA": 160, "pageB": 162
+				},
+				{
+					"authors": "de Queiroz, K.",
+					"date": 2007,
+					"title": "Toward an integrated system of clade names.",
+					"journal": "Syst. Biol.", "volume": 56, "pageA": 956, "pageB": 974
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 2009,
+					"title": "[Untitled].",
+					"pageA": 199, "pageB": 203,
+					"in": {
+						"title": "Letters to Linnaeus.",
+						"editors": "S. Knapp &amp; Q. Wheeler",
+						"publisher": "London: Linnean Society of London"
+					}
+				},
+				{
+					"authors": "de Queiroz, K., &amp; P. D. Cantino", "date": 2001,
+					"title": "Phylogenetic nomenclature and the PhyloCode.",
+					"journal": "Bull. Zool. Nom.", "volume": 58, "pageA": 254, "pageB": 271
+				},
+				{
+					"authors": "Donoghue, M. J.", "date": 2004,
+					"title": "Immeasurable progress on the tree of life.",
+					"pageA": 548, "pageB": 552,
+					"in": {
+						"editors": "J. Cracraft &amp; M. J. Donoghue",
+						"title": "Assembling the Tree of Life.",
+						"publisher": "Oxford: Oxford University Press"
+					}
+				},
+				{
+					"authors": "Donoghue, P. C. J.",
+					"date": 2005,
+					"title": "Saving the stem group&mdash;a contradiction in terms?",
+					"journal": "Paleobiology", "volume": 31, "pageA": 553, "pageB": 558
+				},
+				{
+					"authors": "Ereshefsky, M.", "date": 1997, "title": "The evolution of the Linnaean hierarchy.", "journal": "Biol. Phil.", "volume": 12, "pageA": 493, "pageB": 519
+				},
+				{
+					"authors": "Ereshefsky, M.", "date": 2001,
+					"title": "The Poverty of the Linnaean Hierarchy: a Philosophical Study of Biological Taxonomy.",
+					"publisher": "Cambridge: Cambridge University Press"
+				},
+				{
+					"authors": "Ereshefsky, M.", "date": 2002,
+					"title": "Linnaean ranks: vestiges of a bygone era.",
+					"journal": "Philos. Sci.", "volume": 69, "pageA": "S305", "pageB": "S315"
+				},
+				{
+					"authors": "Ereshefsky, M.",
+					"date": 2007,
+					"title": "Foundational issues concerning taxa and taxon names.",
+					"journal": "Syst. Biol.", "volume": 56, "pageA": 295, "pageB": 301
+				},
+				{
+					"authors": "Gauthier, J., &amp; K. de Queiroz",
+					"date": 2001,
+					"title": "Feathered dinosaurs, flying dinosaurs, crown dinosaurs, &amp; the name &quot;<i>Aves</i>&quot;.",
+					"pageA": 7, "pageB": 41,
+					"in":
+					{
+						"editors": "J. Gauthier &amp; L. F. Gall",
+						"title": "New Perspectives on the Origin and Early Evolution of Birds: Proceedings of the International Symposium in Honor of John H. Ostrom.",
+						"publisher": "New Haven: Peabody Mus. Nat. Hist., Yale University"
+					}
+				},
+				{
+					"authors": "Härlin, M.", "date": 1996,
+					"title": "Tree-thinking and nemertean systematics. Ph.D. thesis, Göteborg University."
+				},
+				{
+					"authors": "Härlin, M.", "date": 1998,
+					"title": "Taxonomic names and phylogenetic trees.",
+					"journal": "Zool. Scr.", "volume": 27, "pageA": 381, "pageB": 390
+				},
+				{
+					"authors": "Härlin, M.", "date": 1999,
+					"title": "Phylogenetic approaches to nomenclature: a comparison based on a nemertean case study.",
+					"journal": "Proc. Royal Soc. London, Ser. B", "volume": 266, "pageA": 2201, "pageB": 2207
+				},
+				{
+					"authors": "Härlin, M.", "date": 1999,
+					"title": "The logical priority of the tree over characters and some of its consequences for taxonomy.",
+					"journal": "Biol. J. Linn. Soc.", "volume": 68, "pageA": 497, "pageB": 503
+				},
+				{
+					"authors": "Härlin, M.", "date": 2001,
+					"title": "Towards a new biological taxonomy&mdash;let us give up the Linnean hierarchy! [Review of Ereshefsky, M. (2001). The poverty of the Linnean hierarchy].",
+					"journal": "Zool. Scr.", "volume": 30, "pageA": 337, "pageB": 339
+				},
+				{
+					"authors": "Härlin, M.", "date": 2003,
+					"title": "Taxon names as paradigms: the structure of nomenclatural revolutions.",
+					"journal": "Cladistics", "volume": 19, "pageA": 138, "pageB": 143
+				},
+				{
+					"authors": "Härlin, M.", "date": 2003,
+					"title": "On the relationship between content, ancestor, and ancestry in phylogenetic nomenclature.",
+					"journal": "Cladistics", "volume": 19, "pageA": 144, "pageB": 147
+				},
+				{
+					"authors": "Härlin, M.", "date": 2005,
+					"title": "Definitions and phylogenetic nomenclature.",
+					"journal": "Proc. California Acad. Sci.", "volume": 56, "pageA": 216, "pageB": 224
+				},
+				{
+					"authors": "Härlin, M., &amp; M. Thollesson",
+					"date": 2005,
+					"title": "Fundamentals of phylogenetic nomenclatures: an exchange of views.",
+					"journal": "Symb. Bot. Ups.", "volume": 33, "pageA": 141, "pageB": 151
+				},
+				{
+					"authors": "Härlin, M., &amp; P. Sundberg",
+					"date": 1998,
+					"title": "Taxonomy and philosophy of names.",
+					"journal": "Biol. & Philos.",
+					"volume": 13, "pageA": 233, "pageB": 244
+				},
+				{
+					"authors": "Hibbett, D. S., &amp; M. J. Donoghue", "date": 1998,
+					"title": "Integrating phylogenetic analysis and classification in fungi.",
+					"journal": "Mycologia", "volume": 90, "pageA": 347, "pageB": 356
+				},
+				{
+					"authors": "Hibbett, D. S., R. H. Nilsson, M. Snyder, M. Fonseca, J. Costanzo, &amp; M. Shonfeld",
+					"date": 2005,
+					"title": "Automated phylogenetic taxonomy: an example in the <i>Homobasidiomycetes</i> (mushroom-forming fungi).",
+					"journal": "Syst. Biol.", "volume": 54, "pageA": 660, "pageB": 668
+				},
+				{
+					"authors": "Joyce, W. G., J. F. Parham, &amp; J. A. Gauthier",
+					"date": 2004, "title":
+					"Developing a protocol for the conversion of rank-based taxon names to phylogenetically defined clade names, as exemplified by turtles.",
+					"journal": "J. Paleontol.", "volume": 78, "pageA": 989, "pageB": 1013
+				},
+				{
+					"authors": "Keesey, T. M.", "date": 2007,
+					"title": "A mathematical approach to defining clade names, with potential applications to computer storage and processing.",
+					"journal": "Zool. Scr.", "volume": 36, "pageA": 607, "pageB": 621
+				},
+				{
+					"authors": "Kron, K. A.", "date": 1997,
+					"title": "Exploring alternative systems of classification.",
+					"journal": "Aliso", "volume": 15, "pageA": 105, "pageB": 112
+				},
+				{
+					"authors": "Kuntner, M. and I. Agnarsson",
+					"date": 2006,
+					"title": "Are the Linnean and phylogenetic nomenclatural systems combinable? Recommendations for biological nomenclature.",
+					"journal": "Syst. Biol.", "volume": 55, "pageA": 774, "pageB": 784
+				},
+				{
+					"authors": "LANGER, M. C.", "date": 2001,
+					"title": "Linnaeus and the <i>PhyloCode</i>: where are the differences?",
+					"journal": "Taxon", "volume": 50, "pageA": 1091, "pageB": 1096
+				},
+				{
+					"authors": "LaPorte, J.", "date": 2004,
+					"title": "Natural kinds and conceptual change.",
+					"publisher": "Cambridge: Cambridge University Press"
+				},
+				{
+					"authors": "Laurin, M.", "date": 2001,
+					"title": "L'utilisation de la taxonomie phylogénétique en paléontologie: avantages et inconvénients.",
+					"journal": "Biosystema (Systématique et Paléontologie)",
+					"volume": 19, "pageA": 197, "pageB": 211
+				},
+				{
+					"authors": "Laurin, M.", "date": 2002,
+					"title": "Tetrapod phylogeny, amphibian origins, and the definition of the name <i>Tetrapoda</i>.",
+					"journal": "Syst. Biol.", "volume": 51, "pageA": 364, "pageB": 369
+				},
+				{
+					"authors": "Laurin, M.", "date": 2005,
+					"title": "The advantages of phylogenetic nomenclature over Linnean nomenclature.",
+					"pageA": 67, "pageB": 97,
+					"in": {
+						"editors": "A. Minelli, G. Ortalli, &amp; G. Sanga",
+						"title": "Animal Names.",
+						"publisher": "Venice, Italy: Instituto Veneto di Scienze, Lettere ed Arti"
+					} 
+				},
+				{
+					"authors": "Laurin, M.", "date": 2008,
+					"title": "The splendid isolation of biological nomenclature.",
+					"journal": "Zool. Scr.", "volume": 37, "pageA": 223, "pageB": 233
+				},
+				{
+					"authors": "Laurin, M.", "date": 2008,
+					"title": "Le <i>PhyloCode</i>.",
+					"pageA": 411, "pageB": 420,
+					"in": {
+						"editors": "D. Prat, A. Raynal-Roques, &amp; A. Roguenant",
+						"title": "Peut-on Classer le Vivant? Linné et la Systématique Aujourd'hui.",
+						"publisher": "Paris: Editions Berlin"
+					}
+				},
+				{
+					"authors": "Laurin, M.", "date": 2009,
+					"title": "La nomenclature biologique aujourd’hui: que reste-t-il de Linné?",
+					"pageA": 1, "pageB": 16,
+					"in": {
+						"editor": "Roche, C.",
+						"title": "TOTh 2009.",
+						"publisher": "Annecy, France: Institut Porphyre",
+						"url": "http://www.porphyre.org/toth/actes"
+					}
+				},
+				{
+					"authors": "Laurin, M.",
+					"date": 2010,
+					"title": "The subjective nature of Linnaean categories and its impact in evolutionary biology and biodiversity studies.",
+					"journal": "Contributions to Zoology", "volume": 79, "pageA": 131, "pageB": 146
+				},
+				{
+					"authors": "Laurin, M., &amp; J. S. Anderson.",
+					"date": 2004,
+					"title": "Meaning of the name <i>Tetrapoda</i> in the scientific literature: an exchange.",
+					"journal": "Syst. Biol.", "volume": 53, "pageA": 68, "pageB": 80
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 1996,
+					"title": "The phylogenetic approach to biological taxonomy: practical aspects.",
+					"journal": "Zool. Scr.", "volume": 25, "pageA": 187, "pageB": 190
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 1996,
+					"title": "Stability in meaning and content of taxon names: an evaluation of crown-clade definitions.",
+					"journal": "Proc. R. Soc. Lond. B. Biol. Sci.", "volume": 263, "pageA": 1103, "pageB": 1109
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 1998,
+					"title": "Phylogenetic uncertainty, molecular sequences, and the definition of taxon names.",
+					"journal": "Syst. Biol.", "volume": 47, "pageA": 719, "pageB": 726
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 1998, "title": "Ancestors and taxonomy.",
+					"journal": "Trends Ecol. Evol.",
+					"volume": 13, "pageA": 26
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 1999,
+					"title": "Reference taxa and phylogenetic nomenclature.",
+					"journal": "Taxon", "volume": 48, "pageA": 31, "pageB": 34
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 1999,
+					"title": "Stability of higher taxa in phylogenetic nomenclature&mdash;some comments on Moore (1998).",
+					"journal": "Zool. Scr.", "volume": 28, "pageA": 361, "pageB": 366
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 2001,
+					"title": "On recent arguments for phylogenetic nomenclature.",
+					"journal": "Taxon", "volume": 50, "pageA": 175, "pageB": 180
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 2005,
+					"title": "Choosing reference taxa in phylogenetic nomenclature.",
+					"journal": "Zool. Scr.", "volume": 34, "pageA": 329, "pageB": 331
+				},
+				{
+					"authors": "Lee, M. S. Y., &amp; A. Skinner", "date": 2007,
+					"title": "Stability, ranks, and the <i>PhyloCode</i>.",
+					"journal": "Acta Palaeontol. Pol.", "volume": 52, "pageA": 643, "pageB": 650
+				},
+				{
+					"authors": "Lee, M. S. Y., &amp; A. Skinner", "date": 2008,
+					"title": "Hierarchy and clade definitions in phylogenetic taxonomy.",
+					"journal": "Organisms, Diversity & Evol.", "volume": 8, "pageA": 17, "pageB": 20
+				},
+				{
+					"authors": "Lucas, S. G.", "date": 1992, "title": "Extinction and the definition of Class <i>Mammalia</i>.",
+					"journal": "Syst. Biol.", "volume": 41, "pageA": 370, "pageB": 371
+				},
+				{
+					"authors": "Minelli, A.", "date": 1995, "title": "The changing paradigms of biological systematics: new challenges to the principles and practice of biological nomenclature.", "journal": "Bull. Zool. Nomen.", "volume": 52, "pageA": 303, "pageB": 309
+				},
+				{
+					"authors": "Moore, G.", "date": 1998, "title": "A comparison of traditional and phylogenetic nomenclature.", "journal": "Taxon", "volume": 47, "pageA": 561, "pageB": 579
+				},
+				{
+					"authors": "Pleijel, F., & G. W. Rouse", "date": 2003, "title": "Ceci n'est pas une pipe: names, clades and phylogenetic nomenclature.", "journal": "J. Zool. Syst. Evol. Research", "volume": 41, "pageA": 162, "pageB": 174
+				},
+				{
+					"authors": "Pleijel, F., & M. Härlin", "date": 2004, "title": "Phylogenetic nomenclature is compatible with diverse philosophical perspectives.", "journal": "Zool. Scr.", "volume": 33, "pageA": 587, "pageB": 591
+				},
+				{
+					"authors": "Rowe, T., &amp; J. Gauthier", "date": 1992, "title": "Ancestry, paleontology and definition of the name <i>Mammalia</i>.", "journal": "Syst. Biol.", "volume": 41, "pageA": 372, "pageB": 378
+				},
+				{
+					"authors": "Schander, C.", "date": 1998, "title": "Mandatory categories and impossible hierarchies&mdash;a reply to Sosef.", "journal": "Taxon", "volume": 47, "pageA": 407, "pageB": 410
+				},
+				{
+					"authors": "Schander, C., &amp; M. Thollesson.", "date": 1995, "title": "Phylogenetic taxonomy&mdash;some comments.", "journal": "Zool. Scr.", "volume": 24, "pageA": 263, "pageB": 268
+				},
+				{
+					"authors": "Sereno, P. C.", "date": 1998, "title": "A rationale for phylogenetic definitions, with application to the higher-level taxonomy of <i>Dinosauria</i>.", "journal": "N. Jb. Geol. Paläont. Abh.", "volume": 210, "pageA": 41, "pageB": 83
+				},
+				{
+					"authors": "Sereno, P. C.", "date": 1999, "title": "Definitions in phylogenetic taxonomy: critique and rationale.", "journal": "Syst. Biol.", "volume": 48, "pageA": 329, "pageB": 351
+				},
+				{
+					"authors": "Sereno, P. C.", "date": 2005, "title": "The logical basis of phylogenetic taxonomy.", "journal": "Syst. Biol.", "volume": 54, "pageA": 595, "pageB": 619
+				},
+				{
+					"authors": "Stevens, P. F.", "date": 2002, "title": "Why do we name organisms?", "journal": "Some reminders from the past.", "journal": "Taxon", "volume": 51, "pageA": 11, "pageB": 26
+				},
+				{
+					"authors": "Sundberg, P., &amp; F. PLEIJEL.", "date": 1994, "title": "Phylogenetic classification and the definition of taxon names.", "journal": "Zool. Scr.", "volume": 23, "pageA": 19, "pageB": 25
+				},
+				{
+					"authors": "Taylor, M. P.", "date": 2007, "title": "Phylogenetic definitions in the pre-<i>PhyloCode</i> era; implications for naming clades under the <i>PhyloCode</i>.", "journal": "PaleoBios", "volume": 27, "pageA": 1, "pageB": 6
+				},
+				{
+					"authors": "Wilkinson, M.", "date": 2006, "title": "Identifying stable reference taxa for phylogenetic nomenclature.", "journal": "Zool. Scr.", "volume": 35, "pageA": 109, "pageB": 112
+				},
+				{
+					"authors": "Wyss, A. R., &amp; J. Meng.", "date": 1996, "title": "Application of phylogenetic taxonomy to poorly resolved crown clades: a stem-modified node-based definition of <i>Rodentia</i>.", "journal": "Syst. Biol.", "volume": 45, "pageA": 559, "pageB": 568
+				}
 			]
 		},
 		{
