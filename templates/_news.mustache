@@ -1,18 +1,23 @@
 				<section id="news" class="col-sm-4">
 					<h2>News</h2>
 					{{#news}}
+					{{#featured}}
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<span class="panel-title">{{{title}}}</span>
 						</div>
 						<div class="panel-body">{{{summary}}}</div>
-						<div class="panel-footer text-right">
-							<a href="news/{{id}}">
+						<div class="panel-footer">
+							<span class="label label-default">{{date}}</span>
+							{{#href}}
+							<a href="{{href}}" class="pull-right">
 								{{{action}}}
 								<i class="glyphicon glyphicon-arrow-right"></i>
 							</a>
+							{{/href}}
 						</div>
 					</div>
+					{{/featured}}
 					{{/news}}
 					<div class="text-right">
 						<a href="/news" class="btn btn-default">

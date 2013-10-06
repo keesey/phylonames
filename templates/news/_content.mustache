@@ -1,24 +1,24 @@
-<section id="intro">
+<section>
 	<h1>
 		News
 		<small>Latest and Archived</small>
 	</h1>
-	{{#items}}
-	<section id="{{id}}" class="panel">
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<span class="panel-title">{{{title}}}</span>
-			</div>
-			<div class="panel-body">{{{summary}}}</div>
-			{{#href}}
-			<div class="panel-footer text-right">
-				<a href="{{href}}">
+	<table class="table">
+		{{#news}}
+		<tr id="{{id}}">
+			<td style="white-space: nowrap">
+				<small>{{date}}</small>
+			</td>
+			<td>
+				<h4 style="display: inline">{{{title}}} <small>&mdash; {{{summary}}}</small></h4>
+				{{#href}}
+				<a href="{{href}}" class="btn btn-primary btn-sm pull-right">
 					{{{action}}}
 					<i class="glyphicon glyphicon-arrow-right"></i>
 				</a>
-			</div>
-			{{/href}}
-		</div>
-	</section>
-	{{/items}}
+				{{/href}}
+			</td>
+		</tr>
+		{{/news}}
+	</table>
 </section>
