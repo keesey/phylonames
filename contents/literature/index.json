@@ -428,7 +428,8 @@
 				},
 				{
 					"authors": "Härlin, M.", "date": 1996,
-					"title": "Tree-thinking and nemertean systematics. Ph.D. thesis, Göteborg University."
+					"title": "Tree-thinking and nemertean systematics.",
+					"note": "Ph.D. thesis, Göteborg University."
 				},
 				{
 					"authors": "Härlin, M.", "date": 1998,
@@ -668,7 +669,7 @@
 					"authors": "Stevens, P. F.", "date": 2002, "title": "Why do we name organisms?", "journal": "Some reminders from the past.", "journal": "Taxon", "volume": 51, "pageA": 11, "pageB": 26
 				},
 				{
-					"authors": "Sundberg, P., &amp; F. PLEIJEL.", "date": 1994, "title": "Phylogenetic classification and the definition of taxon names.", "journal": "Zool. Scr.", "volume": 23, "pageA": 19, "pageB": 25
+					"authors": "Sundberg, P., &amp; F. Pleijel.", "date": 1994, "title": "Phylogenetic classification and the definition of taxon names.", "journal": "Zool. Scr.", "volume": 23, "pageA": 19, "pageB": 25
 				},
 				{
 					"authors": "Taylor, M. P.", "date": 2007, "title": "Phylogenetic definitions in the pre-<i>PhyloCode</i> era; implications for naming clades under the <i>PhyloCode</i>.", "journal": "PaleoBios", "volume": 27, "pageA": 1, "pageB": 6
@@ -685,24 +686,660 @@
 			"id": "species",
 			"title": "Phylogenetic Nomenclature of Species",
 			"citations": [
+				{
+					"authors": "Artois, T.", "date": 2001,
+					"title": "Phylogenetic nomenclature: the end of binomial nomenclature?",
+					"journal": "Belg. J. Zool.", "volume": 131, "pageA": 87, "pageB": 89
+				},
+				{
+					"authors": "Bethoux, O.", "date": 2008,
+					"title": "Revision and phylogenetic affinities of the Lobeattid species <i>bronsoni</i> Dana, 1864 and <i>silvatica</i> Laurentiaux &amp; Laurentiaux-Vieira, 1980 (Pennsylvanian: <i>Archaeorthoptera</i>).",
+					"journal": "Arthropod Systematics &amp; Phylogeny", "volume": 66, "pageA": 145, "pageB": 163
+				},
+				{
+					"authors": "Bethoux, O., R. de la Horra, M. I. Benito, J. F. Barrenechea, A. B. Galan, &amp; J. Lopez-Gomez",
+					"date": 2009,
+					"title": "A new triadotypomorphan insect from the Anisian (Middle Triassic), Buntsandstein facies, Spain.",
+					"journal": "J. Iberian Geol.",
+					"volume": 35, "pageA": 179, "pageB": 184
+				},
+				{
+					"authors": "Brandley, M. C., &amp; K. de Queiroz", "date": 2004,
+					"title": "Phylogeny, ecomorphological evolution, and historical biogeography of the <i>Anolis cristatellus</i> series.",
+					"journal": "Herpetol. Monogr.", "volume": 18, "pageA": 90, "pageB": 126
+				},
+				{
+					"authors": "Cantino, P. D.", "date": 1998,
+					"title": "Binomials, hyphenated uninomials, and phylogenetic nomenclature.",
+					"journal": "Taxon", "volume": 47, "pageA": 425, "pageB": 429
+				},
+				{
+					"authors": "Cantino, P. D., H. N. Bryant, K. de Queiroz, M. J. Donoghue, T. Eriksson, D. M. Hillis, &amp; M. S. Y. Lee",
+					"date": 1999, "title": "Species names in phylogenetic nomenclature.",
+					"journal": "Syst. Biol.", "volume": 48, "pageA": 790, "pageB": 807
+				},
+				{
+					"authors": "Cantino, P. D., S. J. Wagstaff, &amp; R. G. Olmstead", "date": 1999,
+					"title": "<i>Caryopteris</i> (<i>Lamiaceae</i>) and the conflict between phylogenetic and pragmatic considerations in botanical nomenclature.",
+					"journal": "Syst. Bot.", "volume": 23, "pageA": 369, "pageB": 386
+				},
+				{
+					"authors": "Clarke J. A.", "date": 2004,
+					"title": "The morphology, phylogenetic taxonomy and systematics of <i>Ichthyornis</i> and <i>Apatornis</i> (<i>Avialae</i>: <i>Ornithurae</i>).",
+					"journal": "Bull. Am. Mus. Nat. Hist.", "volume": 286, "pageA": 1, "pageB": 179
+				},
+				{
+					"authors": "Dayrat, B.", "date": 2005,
+					"title": "Advantages of naming species under the <i>PhyloCode</i>: an example of how a new species of <i>Discodorididae</i> (<i>Mollusca</i>, <i>Gastropoda</i>, <i>Euthyneura</i>, <i>Nudibranchia</i>, <i>Doridina</i>) may be named.",
+					"journal": "Marine Biol. Res.", "volume": 1, "pageA": 216, "pageB": 232
+				},
+				{
+					"authors": "Dayrat, B., &amp; T. M. Gosliner", "date": 2005,
+					"title": "Species names and metaphyly: a case study in <i>Discodorididae</i> (<i>Mollusca</i>, <i>Gastropoda</i>, <i>Euthyneura</i>, <i>Nudibranchia</i>, <i>Doridina</i>).",
+					"journal": "Zool. Scr.", "volume": 34, "pageA": 199, "pageB": 224
+				},
+				{
+					"authors": "Dayrat, B., C. Schander, &amp; K. D. Angielczyk",
+					"date": 2004,
+					"title": "Suggestions for a new species nomenclature.",
+					"journal": "Taxon", "volume": 53, "pageA": 485, "pageB": 591
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 1992,
+					"title": "Phylogenetic definitions and taxonomic philosophy.",
+					"journal": "Biol. Phil.", "volume": 7, "pageA": 295, "pageB": 313
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 1995,
+					"title": "The definitions of species and clade names: A reply to Ghiselin.",
+					"journal": "Biol. Phil.", "volume": 10, "pageA": 223, "pageB": 228
+				},
+				{
+					"authors": "de Queiroz, K., &amp; J. Gauthier", "date": 1992,
+					"title": "Phylogenetic taxonomy.",
+					"journal": "Annu. Rev. Ecol. Syst.", "volume": 23, "pageA": 449, "pageB": 480
+				},
+				{
+					"authors": "Fisher, K.", "date": 2006,
+					"title": "Rank-free monography: a practical example from the moss clade <i>Leucophanella</i> (<i>Calymperaceae</i>).",
+					"journal": "Syst. Bot.", "volume": 31, "pageA": 13, "pageB": 30
+				},
+				{
+					"authors": "Ghiselin, M. T.", "date": 1995,
+					"title": "Ostensive definitions of the names of species and clades.",
+					"journal": "Biol. Phil.", "volume": 10, "pageA": 219, "pageB": 222
+				},
+				{
+					"authors": "Hillis, D. M., D. A. Chamberlain, T. P. Wilcox, &amp; P. T. Chippindale",
+					"date": 2001,
+					"title": "A new species of subterranean blind salamander (<i>Plethodontidae</i>: <i>Hemidactyliini</i>: <i>Eurycea</i>: <i>Typhlomolge</i>) from Austin, Texas, and a systematic revision of central Texas paedomorphic salamanders.",
+					"journal": "Herpetologica", "volume": 57, "pageA": 266, "pageB": 280
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 2002,
+					"title": "Species and phylogenetic nomenclature.",
+					"journal": "Taxon", "volume": 51, "pageA": 507, "pageB": 510
+				},
+				{
+					"authors": "Mishler, B. D.", "date": 1999,
+					"title": "Getting rid of species?",
+					"pageA": 307, "pageB": 315,
+					"in":
+					{
+						"editor": "R. Wilson",
+						"title": "Species: New Interdisciplinary Essays.",
+						"publisher": "Cambridge, Mass.: MIT Press"
+					}
+				},
+				{
+					"authors": "Nicholson, K. E.", "date": 2002,
+					"title": "Phylogenetic analysis and a test of the current infrageneric classification of <i>Norops</i> (beta <i>Anolis</i>).",
+					"journal": "Herpetol. Monogr.", "volume": 16, "pageA": 93, "pageB": 120
+				},
+				{
+					"authors": "Pleijel, F.", "date": 1999,
+					"title": "Phylogenetic taxonomy, a farewell to species, and a revision of <i>Heteropodarke</i> (<i>Hesionidae</i>, <i>Polychaeta</i>, <i>Annelida</i>).",
+					"journal": "Syst. Biol.", "volume": 48, "pageA": 755, "pageB": 789
+				},
+				{
+					"authors": "Pleijel, F., &amp; G. W. Rouse", "date": 2000,
+					"title": "A new taxon, <i>capricornia</i> (<i>Hesionidae</i>, <i>Polychaeta</i>), illustrating the LITU ('least-inclusive taxonomic unit') concept.",
+					"journal": "Zool. Scr.", "volume": 29, "pageA": 157, "pageB": 168
+				},
+				{
+					"authors": "Pleijel, F., &amp; G. W. Rouse", "date": 2000,
+					"title": "Least-inclusive taxonomic unit: a new taxonomic concept for biology.",
+					"journal": "Proc. R. Soc. London B", "volume": 267, "pageA": 627, "pageB": 630
+				},
+				{
+					"authors": "Spangler, R. E.", "date": 2003,
+					"title": "Taxonomy of <i>Sarga</i>, <i>Sorghum</i> and <i>Vacoparis</i> (<i>Poaceae</i>: <i>Andropogoneae</i>).",
+					"journal": "Australian Syst. Bot.", "volume": 16, "pageA": 279, "pageB": 299
+				},
+				{
+					"authors": "Wolsan, M.", "date": 2007,
+					"title": "Naming species in phylogenetic nomenclature.",
+					"journal": "Syst. Biol.", "volume": 56, "pageA": 1011, "pageB": 1021
+				},
+				{
+					"authors": "Wolsan, M.", "date": 2007,
+					"title": "Impracticality and instability of species names under Lanham's method.",
+					"journal": "Taxon", "volume": 56, "pageA": 292, "pageB": 294
+				},
+				{
+					"authors": "Wolsan, M.", "date": 2007,
+					"title": "Naming species in phylogenetic nomenclature.",
+					"journal": "Syst. Biol.", "volume": 56, "pageA": 1011, "pageB": 1021
+				}
 			]
 		},
 		{
 			"id": "otherapplications",
 			"title": "Other Applications of Phylogenetic Nomenclature ",
 			"citations": [
+				{
+					"authors": "Aguinaldo, A. M., J. M. Turbeville, L. S. Linford, M. C. Rivera, J. R. Garey, R. A. Raf., &amp; J. S. Lake",
+					"date": 1997,
+					"title": "Evidence for a clade of nematodes, arthropods, and other moulting animals.",
+					"journal": "Nature", "volume": 387, "pageA": 489, "pageB": 493
+				},
+				{
+					"authors": "Alverson, W. S., B. A. Whitlock, R. Nyffeler, C. Bayer, &amp; D. A. Baum", "date": 1999,
+					"title": "Phylogeny of the core <i>Malvales</i>: evidence from ndhF sequence data.",
+					"journal": "Amer. J. Bot.", "volume": 86, "pageA": 1474, "pageB": 1486
+				},
+				{
+					"authors": "Archibald, J. D.", "date": 1996,
+					"title": "Fossil evidence for a Late Cretaceous origin of &quot;hoofed&quot; mammals.",
+					"journal": "Science", "volume": 272, "pageA": 1150, "pageB": 1153
+				},
+				{
+					"authors": "Baum, D. A., W. S. Alverson, &amp; R. Nyffeler.", "date": 1998,
+					"title": "A durian by any other name: taxonomy and nomenclature of the core <i>Malvales</i>.",
+					"journal": "Harv. Pap. Bot.", "volume": 3, "pageA": 315, "pageB": 330
+				},
+				{
+					"authors": "Berta, A.", "date": 1994,
+					"title": "What is a whale?",
+					"journal": "Science", "volume": 263, "pageA": 180, "pageB": 181
+				},
+				{
+					"authors": "Bremer, K.", "date": 2000,
+					"title": "Phylogenetic nomenclature and the new ordinal system of the angiosperms.",
+					"pageA": 125, "pageB": 133,
+					"in":
+					{
+						"editors": "B. Nordenstam, G. El-Ghazaly, &amp; M. Kassas",
+						"title": "Plant Systematics for the 21st Century.",
+						"publisher": "London: Portland Press"
+					}
+				},
+				{
+					"authors": "Brochu, C. A.", "date": 1997,
+					"title": "Synonymy, redundancy, and the name of the crocodile stem-group.",
+					"journal": "J. Vertebrate Paleontology", "volume": 17, "pageA": 448, "pageB": 449
+				},
+				{
+					"authors": "Brochu, C. A.", "date": 1999,
+					"title": "Phylogenetics, taxonomy, and historical biogeography of <i>Alligatoroidea</i>.",
+					"journal": "J. Vert. Paleontol.", "volume": 19, "pageA": 9, "pageB": 100
+				},
+				{
+					"authors": "Brochu, C. A.", "date": 2003,
+					"title": "Phylogenetic approaches toward crocodylian history.",
+					"journal": "Annu. Rev. Earth Planet Sci.", "volume": 31, "pageA": 357, "pageB": 397
+				},
+				{
+					"authors": "Bryant, J. D., &amp; M. C. McKenna", "date": 1995,
+					"title": "Cranial anatomy and phylogenetic position of <i>Tsaganomys altaicus</i> (<i>Mammalia</i>: <i>Rodentia</i>) from the Hsanda Gol Formation (Oligocene), Mongolia.",
+					"journal": "Am. Mus. Novit.", "volume": 3156, "pageA": 1, "pageB": 42
+				},
+				{
+					"authors": "Cannatella, D. C., &amp; D. M. Hillis.", "date": 1993,
+					"title": "Amphibian relationships: phylogenetic analysis of morphology and molecules.",
+					"journal": "Herpetol. Monogr.", "volume": 7, "pageA": 1, "pageB": 7
+				},
+				{
+					"authors": "Cantino, P. D., J. A. Doyle, S. W. Graham, W. S. Judd, R. G. Olmstead, D. E. Soltis, P. A. Soltis, &amp; M. J. Donoghue",
+					"date": 2007,
+					"title": "Towards a phylogenetic nomenclature of <i>Tracheophyta</i>.",
+					"journal": "Taxon", "volume": 56, "pageA": 822, "pageB": 846
+				},
+				{
+					"authors": "Caterino, M. S.", "date": 1998,
+					"title": "A phylogenetic revision of <i>Spilodiscus</i> Lewis (<i>Coleoptera</i>: <i>Histeridae</i>).",
+					"journal": "J. Nat. Hist.", "volume": 32, "pageA": 1129, "pageB": 1168
+				},
+				{
+					"authors": "Chiappe, L. M., J. Shu'an, J. Qiang, &amp; M. Norell", "date": 1999,
+					"title": "Anatomy and systematics of the <i>Confuciusornithidae</i> (<i>Theropoda</i>: <i>Aves</i>) from the Late Mesozoic of northeastern China.",
+					"journal": "Bull. Am. Mus. Nat. Hist.", "volume": 242, "pageA": 1, "pageB": 89
+				},
+				{
+					"authors": "Cochrane, S. J.", "date": 2003,
+					"title": "Snowflakes and feather-dusters: some challenges for fanworm systematics.",
+					"journal": "Hydrobiologia", "volume": 496, "pageA": 49, "pageB": 62
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 1985,
+					"title": "Phylogenetic Systematics of Iguanine Lizards: A Comparative Osteological Study.",
+					"note": "Master's thesis, San Diego State University."
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 1987,
+					"title": "Phylogenetic systematics of iguanine lizards: a comparative osteological study.",
+					"journal": "Univ. Calif. Publ. Zool.", "volume": 118, "pageA": 1, "pageB": 203
+				},
+				{
+					"authors": "Deméré, T. A.", "date": 1994,
+					"title": "The family <i>Odobenidae</i>: A phylogenetic analysis of fossil and living taxa.",
+					"journal": "Proc. San Diego Soc. Nat. Hist.", "volume": 29, "pageA": 99, "pageB": 123
+				},
+				{
+					"authors": "Dilkes, D. W.", "date": 1998,
+					"title": "The Early Triassic rhynchosaur <i>Mesosuchus browni</i> and the interrelationships of basal archosauromorph reptiles.",
+					"journal": "Phil. Trans. R. Soc. London B", "volume": 353, "pageA": 501, "pageB": 541
+				},
+				{
+					"authors": "Donoghue, M. J., T. Eriksson, P. A. Reeves, &amp; R. G. Olmstead", "date": 2001,
+					"title": "Phylogeny and phylogenetic taxonomy of <i>Dipsacales</i>, with special reference to <i>Sinadoxa</i> and <i>Tetradoxa</i> (<i>Adoxaceae</i>).",
+					"journal": "Harvard Pap. Bot.", "volume": 6, "pageA": 459, "pageB": 479
+				},
+				{
+					"authors": "Doyle, J. A., &amp; M. J. Donoghue", "date": 1993,
+					"title": "Phylogenies and angiosperm diversification.",
+					"journal": "Paleobiology", "volume": 19, "pageA": 141, "pageB": 167
+				},
+				{
+					"authors": "Eriksson, T., M. J. Donoghue, &amp; M. S. Hibbs", "date": 1998,
+					"title": "Phylogenetic analysis of <i>Potentilla</i> using DNA sequences of nuclear ribosomal internal transcribed spacers (ITS), and implications for the classification of Rosoideae (Rosaceae).",
+					"journal": "Plant Syst. Evol.", "volume": 211, "pageA": 155, "pageB": 179
+				},
+				{
+					"authors": "Estes, R., K. de Queiroz, &amp; J. Gauthier", "date": 1988,
+					"title": "Phylogenetic relationships within <i>Squamata</i>.",
+					"pageA": 119, "pageB": 281,
+					"in":
+					{
+						"editors": "R. Estes &amp; G. K. Pregill",
+						"title": "Phylogenetic Relationships of the Lizard Families: Essays Commemorating Charles L. Camp.",
+						"publisher": "Stanford, Calif.: Stanford Univ. Press."
+					}
+				},
+				{
+					"authors": "Flynn, J. J., J. M. Parrish, B. Rakotosamimanana, W. F. Simpson, &amp; A. R. Wyss.", "date": 1999,
+					"title": "A Middle Jurassic mammal from Madagascar.",
+					"journal": "Nature", "volume": 401, "pageA": 57, "pageB": 60
+				},
+				{
+					"authors": "Flynn, J. J., J. M. Parrish, B. Rakotosamimanana, W. F. Simpson, R. L. Whatley, &amp; A. R. Wyss.",
+					"date": 1999,
+					"title": "A Triassic fauna from Madagascar, including early dinosaurs.",
+					"journal": "Science", "volume": 286, "pageA": 763, "pageB": 765
+				},
+				{
+					"authors": "Ford, L. S., &amp; D. C. Cannatella.",
+					"date": 1993,
+					"title": "The major clades of frogs.",
+					"journal": "Herpetol. Monogr.", "volume": 7, "pageA": 94, "pageB": 117
+				},
+				{
+					"authors": "Gauthier J., A. G. Kluge, &amp; T. Rowe", "date": 1988,
+					"title": "Amniote phylogeny and the importance of fossils.",
+					"journal": "Cladistics", "volume": 4, "pageA": 105, "pageB": 209
+				},
+				{
+					"authors": "Gauthier, J.", "date": 1984,
+					"title": "A Cladistic Analysis of the Higher Systematic Categories of the <i>Diapsida</i>.",
+					"note": "Ph.D. dissertation, University of California at Berkeley."
+				},
+				{
+					"authors": "Gauthier, J.", "date": 1986,
+					"title": "Saurischian monophyly and the origin of birds.",
+					"pageA": 1, "pageB": 55,
+					"in":
+					{
+						"editor": "K. Padian",
+						"title": "The Origin of Birds and the Evolution of Flight.",
+						"publisher": "San Francisco: California Academy of Sciences"
+					}
+				},
+				{
+					"authors": "Gauthier, J. A., A. Kluge, &amp; T. Rowe", "date": 1988,
+					"title": "The early evolution of <i>Amniota</i>.",
+					"pageA": 15, "pageB": 98,
+					"in":
+					{
+						"editor": "M. J. Benton",
+						"title": "The Phylogeny and Classification of the Tetrapods: Volume 1: Amphibians, Reptiles, Birds.",
+						"publisher": "Oxford: Clarendon Press"
+					}
+				},
+				{
+					"authors": "Gauthier, J., &amp; K. Padian", "date": 1985,
+					"title": "Phylogenetic, functional, and aerodynamic analyses of the origin of birds and their flight.",
+					"pageA": 185, "pageB": 197,
+					"in":
+					{
+						"editors": "M. K. Hecht, J. H. Ostrom, G. Viohl, &amp; P. Wellnhofer",
+						"title": "The Beginnings of Birds.",
+						"publisher": "Eichstatt, Germany: Freude des Jura-Museums"
+					}
+				},
+				{
+					"authors": "Gauthier, J., R. Estes, &amp; K. de Queiroz", "date": 1988,
+					"title": "A phylogenetic analysis of <i>Lepidosauromorpha</i>.",
+					"pageA": 15, "pageB": 98,
+					"in":
+					{
+						"editors": "R. Estes &amp; G. K. Pregill",
+						"title": "Phylogenetic Relationships of the Lizard Families: Essays Commemorating Charles L. Camp.",
+						"publisher": "Stanford Calif.: Stanford Univ. Press."
+					}						
+				},
+				{
+					"authors": "Good, D. A.", "date": 1988,
+					"title": "The phylogenetic position of fossils assigned to the <i>Gerrhonotinae</i> (<i>Squamata</i>: <i>Anguidae</i>).",
+					"journal": "J. Vert. Paleontol.", "volume": 8, "pageA": 188, "pageB": 195
+				},
+				{
+					"authors": "Härlin, M.", "date": 1998,
+					"title": "Tree-thinking and nemertean systematics, with a systematization of the eureptantic nemerteans.",
+					"journal": "Hydrobiologia", "volume": 365, "pageA": 33, "pageB": 46
+				},
+				{
+					"authors": "Härlin, M., &amp; C. Härlin", "date": 2001,
+					"title": "Phylogeny of the eureptantic nemerteans revisited.",
+					"journal": "Zool. Scr.", "volume": 30, "pageA": 49, "pageB": 58
+				},
+				{
+					"authors": "Hillis, D. M., &amp; T. P. Wilcox", "date": 2005,
+					"title": "Phylogeny of the New World true frogs (<i>Rana</i>).",
+					"journal": "Mol. Phyl. Evol.", "volume": 34, "pageA": 299, "pageB": 314
+				},
+				{
+					"authors": "Hollingsworth, B. D.", "date": 1998,
+					"title": "The systematics of chuckwallas (<i>Sauromalus</i>) with a phylogenetic analysis of other iguanid lizards.",
+					"journal": "Herpetol. Monogr.", "volume": 12, "pageA": 38, "pageB": 191
+				},
+				{
+					"authors": "Holtz, T. R.", "date": 1994,
+					"title": "The phylogenetic position of the <i>Tyrannosauridae</i>: Implications for theropod systematics.",
+					"journal": "J. Paleontol.", "volume": 68, "pageA": 1100, "pageB": 1117
+				},
+				{
+					"authors": "Holtz, T. R.", "date": 1996,
+					"title": "Phylogenetic taxonomy of the <i>Coelurosauria</i> (<i>Dinosauria</i>: <i>Theropoda</i>).",
+					"journal": "J. Paleontol.", "volume": 70, "pageA": 536, "pageB": 538
+				},
+				{
+					"authors": "Jondelius, U., &amp; M. Thollesson", "date": 1993,
+					"title": "Phylogeny of the <i>Rhabdocoela</i> (<i>Platyhelminthes</i>): a working hypothesis.",
+					"journal": "Can. Jo. Zool.", "volume": 71, "pageA": 298, "pageB": 308
+				},
+				{
+					"authors": "Judd, W. S., R. W. Sanders, &amp; M. J. Donoghue", "date": 1994,
+					"title": "Angiosperm family pairs: preliminary phylogenetic analyses.",
+					"journal": "Harvard Pap. Bot.", "volume": 5, "pageA": 1, "pageB": 51
+				},
+				{
+					"authors": "Judd, W. S., W. L. Stern, &amp; V. I. Cheadle", "date": 1993,
+					"title": "Phylogenetic position of <i>Apostasia</i> and <i>Neuwiedia</i> (<i>Orchidaceae</i>).",
+					"journal": "Bot. J. Linn. Soc.", "volume": 113, "pageA": 87, "pageB": 94
+				},
+				{
+					"authors": "Kay, R. F., &amp; B. A. Williams", "date": 1994,
+					"title": "Cladistics, computers, and character analysis. [Review of W. P. Maddison and D. R. Maddison. 1992. MacClade, version 3].",
+					"journal": "Evol. Anthropol.", "volume": 3, "pageA": 32, "pageB": 35
+				},
+				{
+					"authors": "Keesey, T. M.", "date": 2007,
+					"title": "A mathematical approach to defining clade names, with potential applications to computer storage and processing.",
+					"journal": "Zool. Scr.", "volume": 36, "pageA": 607, "pageB": 621
+				},
+				{
+					"authors": "Laurin, M.", "date": 1991,
+					"title": "The osteology of a Lower Permian eosuchian from Texas and a review of diapsid phylogeny.",
+					"journal": "Zool. J. Linn. Soc.", "volume": 101, "pageA": 59, "pageB": 95
+				},
+				{
+					"authors": "Laurin, M.", "date": 1996,
+					"title": "A redescription of the cranial anatomy of <i>Seymouria baylorensis</i>, the best known seymouriamorph (<i>Vertebrata</i>: <i>Seymouriamorpha</i>).",
+					"journal": "PaleoBios", "volume": 17, "pageA": 1, "pageB": 16
+				},
+				{
+					"authors": "Laurin, M.", "date": 1998,
+					"title": "A reevaluation of the origin of pentadactyly.",
+					"journal": "Evolution", "volume": 52, "pageA": 1476, "pageB": 1482
+				},
+				{
+					"authors": "Laurin, M.",
+					"date": 1998,
+					"title": "The importance of global parsimony and historical bias in understanding tetrapod evolution. Part I&mdash;systematics, middle ear evolution, and jaw suspension.",
+					"journal": "Annales de Sciences Naturelles, Zoologie, 13ème Série",
+					"volume": 19,
+					"pageA": 1, "pageB": 42
+				},
+				{
+					"authors": "Laurin, M.", "date": 2000,
+					"title": "Travaux récents sur l'évolution et la paléoécologie des stégocéphales.",
+					"journal": "Bull. Soc. Herp. France", "volume": 96, "pageA": 25, "pageB": 37
+				},
+				{
+					"authors": "Laurin, M., &amp; R. R. Reisz",
+					"date": 1995, "title": "A reevaluation of early amniote phylogeny.",
+					"journal": "Zool. J. Linn. Soc.", "volume": 113, "pageA": 165, "pageB": 223
+				},
+				{
+					"authors": "Laurin, M., &amp; R. R. Reisz", "date": 1996,
+					"title": "The osteology and relationships of <i>Tetraceratops insignis</i>, the oldest known therapsid.",
+					"journal": "J. Vert. Paleontol.", "volume": 16, "pageA": 95, "pageB": 102
+				},
+				{
+					"authors": "Laurin, M., &amp; R. R. Reisz", "date": 1997,
+					"title": "A new perspective on tetrapod phylogeny.",
+					"pageA": 9, "pageB": 59,
+					"in":
+					{
+						"editors": "S. Sumida &amp; K. Martin",
+						"title": "Amniote Origins: Completing the Transition to Land.",
+						"publisher": "London: Academic Press"
+					}
+				},
+				{
+					"authors": "Laurin, M., &amp; R. R. Reisz", "date": 1999,
+					"title": "A new study of <i>Solenodonsaurus janenschi</i>, and a reconsideration of amniote origins and stegocephalian evolution.",
+					"journal": "Can. J. Earth Sci.", "volume": 36, "pageA": 1239, "pageB": 1255
+				},
+				{
+					"authors": "Laurin, M., &amp; R. Soler-Gijon", "date": 2001,
+					"title": "The oldest stegocephalian from the Iberian Peninsula: evidence that temnospondyls were euryhaline.",
+					"journal": "Comptes Rendus Acad. Sci. Paris, Sciences de la vie/Life sciences",
+					"volume": 324, "pageA": 495, "pageB": 501
+				},
+				{
+					"authors": "Laurin, M., M. Girondot, &amp; A. de Ricqlès.", "date": 2000,
+					"title": "Early tetrapod evolution.",
+					"journal": "Trends Ecol. Evol.", "volume": 15, "pageA": 118, "pageB": 123
+				},
+				{
+					"authors": "Laurin, M., M. Girondot, &amp; A. de Ricqlès.", "date": 2000,
+					"title": "Reply from M. Laurin, M. Girondot and A. de Ricql&egrave;s.",
+					"journal": "Trends Ecol. Evol.", "volume": 15, "pageA": 328
+				},
+				{
+					"authors": "Lee, M. S. Y., &amp; M. W. Caldwell", "date": 1998,
+					"title": "Anatomy and relationships of <i>Pachyrachis problematicus</i>, a primitive snake with hindlimbs.",
+					"journal": "Phil. Trans. R. Soc. London B", "volume": 353, "pageA": 1521, "pageB": 1552
+				},
+				{
+					"authors": "Lucas, S. G.", "date": 1992,
+					"title": "Extinction and the definition of Class <i>Mammalia</i>.",
+					"journal": "Syst. Biol.", "volume": 41, "pageA": 370, "pageB": 371
+				},
+				{
+					"authors": "Maryańska, T., H. Osmólska, &amp; M. Wolsan", "date": 2002,
+					"title": "Avialan status for <i>Oviraptorosauria</i>.",
+					"journal": "Acta Palaeontologica Polonica", "volume": 47, "pageA": 97, "pageB": 116
+				},
+				{
+					"authors": "McGuire, J. A.", "date": 1996,
+					"title": "Phylogenetic systematics of crotaphytid lizards (<i>Reptilia</i>: <i>Iguania</i>: <i>Crotaphytidae</i>).",
+					"journal": "Bull. Carnegie Mus. Nat. Hist.", "volume": 32, "pageA": 1, "pageB": 143
+				},
+				{
+					"authors": "Modesto, S. P., &amp; J. S. Anderson", "date": 2004,
+					"title": "The phylogenetic definition of <i>Reptilia</i>.",
+					"journal": "Syst. Biol.", "volume": 53, "pageA": 815, "pageB": 821
+				},
+				{
+					"authors": "NORELL, M. A., &amp; G. KEQIN.", "date": 1997, "title": "Braincase and phylogenetic relationships of <i>Estesia mongoliensis</i> from the Late Cretaceous of the Gobi Desert and the recognition of a new clade of lizards.", "journal": "Am. Mus. Noviates.", "volume": 3211, "pageA": 1, "pageB": 25
+				},
+				{"authors": "NORELL, M. A., J. M. CLAR., &amp; J. H. HUTCHISON.", "date": 1994, "title": "The Late Cretaceous alligatoroid <i>Brachychampsa montana</i> (<i>Crocodylia</i>): New material and putative relationships.", "journal": "Am. Mus. Novitates", "volume": 3116, "pageA": 1, "pageB": 26
+				},
+				{"authors": "NORELL, M., J. CLAR., &amp; L. Chiappe.", "date": 1993, "title": "Naming names. Nature 366: 518.
+				},
+				{"authors": "NOVAS F.", "date": 1992, "title": "Phylogenetic relationships of the basal dinosaurs, the <i>Herrerasauridae</i>.", "journal": "Palaeontology", "volume": 35, "pageA": 51, "pageB": 62
+				},
+				{"authors": "Olmstead, R. G., C. W. DEPAMPHILIS, A. D. WOLFE, N. D. YOUNG, W. J. ELISON., &amp; P. A. REEVES.", "date": 2001, "title": "Disintegration of the <i>Scrophulariaceae</i>.", "journal": "Amer. J. Bot.", "volume": 88, "pageA": 348, "pageB": 361
+				},
+				{"authors": "Padian, K., &amp; C. L. MAY.", "date": 1993, "title": "The earliest dinosaurs.", "pageA": 379, "pageB": 381, "in": {"S. G. Lucas and M. Morales (eds.), The Nonmarine Triassic. New Mexico Museum of Natural History and Science Bulletin No. 3.
+				},
+				{"authors": "PATTERSON, C.", "date": 1993, "title": "Bird or dinosaur.", "journal": "Nature", "volume": 365, "pageA": 21, "pageB": 22
+				},
+				{"authors": "PATTERSON, C.", "date": 1993, "title": "Naming names. [Reply to Norell &amp; al., 1993.]. Nature 366: 518.
+				},
+				{"authors": "PFEIL, B. E. and M. D. CRISP.", "date": 2005, "title": "What to do with <i>Hibiscus</i>?", "journal": "A proposed nomenclatural resolution for a large and well known genus of <i>Malvaceae</i> and comments on paraphyly.  [This paper applies rankless nomenclature, but not phylogenetic definitions; The PhyloCode is discussed.]. Australian. Syst. Bot.", "volume": 18, "pageA": 49, "pageB": 60
+				},
+				{"authors": "Pleijel, F.", "date": 2001, "title": "Revision of <i>Amphiduros</i> Hartman, 1959 (<i>Polychaeta</i>, <i>Hesionidae</i>, <i>Gyptini</i>).", "journal": "Ophelia", "volume": 54, "pageA": 15, "pageB": 27
+				},
+				{"authors": "PONDER, W. F., &amp; D. R. LINDBERG.", "date": 1997, "title": "Towards a phylogeny of gastropod mollusks: an analysis using morphological characters.", "journal": "Zool. Jo. Linn. Soc.", "volume": 119, "pageA": 83, "pageB": 265
+				},
+				{"authors": "Reisz, R. R.", "date": 1997, "title": "The origin and early evolutionary history of amniotes.", "journal": "Trends Ecol. Evol.", "volume": 12, "pageA": 218, "pageB": 222
+				},
+				{"authors": "Reisz, R. R., D. S. BERMA., &amp; D. SCOTT.", "date": 1992, "title": "The cranial anatomy and relationships of <i>Secodontosaurus</i>, an unusual mammal-like reptile (<i>Synapsida</i>: <i>Sphenacodontidae</i>) from the early Permian of Texas.", "journal": "Zool. Jo. Linn. Soc.", "volume": 104, "pageA": 127, "pageB": 184
+				},
+				{"authors": "RICHARDSON, S. L.", "date": 2001, "title": "Endosymbiont change as a key innovation in the adaptive radiation of <i>Sortida</i> (<i>Foraminifera</i>).", "journal": "Paleobiology", "volume": 27, "pageA": 262, "pageB": 289
+				},
+				{"authors": "RICQL&Egrave;S, A. D., &amp; M. Laurin.", "date": 1999, "title": "The origin of tetrapods.", "pageA": 23, "pageB": 33, "in": {"C. Miaud and R. Guyétan (eds), Current Studies in Herpetology. Le Bourget du Lac, France: Société Herpétologique de France.
+				},
+				{"authors": "ROTH, B.", "date": 1996, "title": "Homoplastic loss of dart apparatus, phylogeny of the gener., &amp; a phylogenetic taxonomy of the <i>Helminthoglyptidae</i> (<i>Gastropoda</i>: <i>Pulmonata</i>).", "journal": "The Veliger", "volume": 39, "pageA": 18, "pageB": 42
+				},
+				{"authors": "Rowe, T.", "date": 1988, "title": "Definition, diagnosi., &amp; origin of <i>Mammalia</i>.", "journal": "J. Vert. Paleontol.", "volume": 8, "pageA": 241, "pageB": 264
+				},
+				{"authors": "RUTA, M., M. I. COATE., &amp; D. L. J. QUICKE.", "date": 2003, "title": "Early tetrapod relationships revisited.", "journal": "Biol. Rev.", "volume": 78, "pageA": 251, "pageB": 345
+				},
+				{"authors": "SANGSTER, G.", "date": 2005, "title": "A name for the clade formed by owlet-nightjars, swifts and hummingbirds (<i>Aves</i>).", "journal": "Zootaxa", "volume": 799, "pageA": 1, "pageB": 6
+				},
+				{"authors": "Schander, C.", "date": 1997, "title": "Taxonomy and phylogeny of the <i>Pyramidellidae</i> (<i>Mollusca</i>, <i>Gastropoda</i>, <i>Heterobranchia</i>). Ph. D. dissertation, Department of Zoology, G&ouml;teborg University.
+				},
+				{"authors": "SCHWENK K.", "date": 1994, "title": "Systematics and subjectivity: The phylogeny and classification of iguanian lizards revisited.", "journal": "Herpetol. Rev.", "volume": 24, "pageA": 53, "pageB": 57
+				},
+				{"authors": "SENTER, P.", "date": 2005, "title": "Phylogenetic taxonomy and the names of the major archosaurian (<i>Reptilia</i>) clades. PaleoBios 25:1-7.
+				},
+				{"authors": "SERENO, P. C.", "date": 1991, "title": "Basal archosaurs: Phylogenetic relationships and functional implications. Jo. Vert. Paleontol. 11(supplement): 1-53.
+				},
+				{"authors": "SMEDMARK, J. E. E. and T. Eriksson.", "date": 2002, "title": "Phylogenetic relationships of <i>Geum</i> (<i>Rosaceae</i>) and relatives inferred from the nrITS and trnL-trnF regions.", "journal": "Syst. Bot.", "volume": 27, "pageA": 303, "pageB": 317
+				},
+				{"authors": "STEFANOVIC, S., D. F. AUSTI., &amp; R. G. Olmstead.", "date": 2003, "title": "Classification of <i>Convolvulaceae</i>: a phylogenetic approach.", "journal": "Syst. Bot.", "volume": 28, "pageA": 791, "pageB": 806
+				},
+				{"authors": "SWANN, E. C., E. M. FRIEDER., &amp; D. J. MCLAUGHLIN.", "date": 1999, "title": "<i>Microbotryum</i>, <i>Kriegeria</i> and the changing paradigm in basidiomycete classification.", "journal": "Mycologia", "volume": 91, "pageA": 51, "pageB": 66
+				},
+				{"authors": "TAYLOR, M. P., &amp; D. NAISH.", "date": 2005, "title": "The phylogenetic taxonomy of <i>Diplodocoidea</i> (<i>Dinosauria</i>: <i>Sauropoda</i>).", "journal": "PaleoBios", "volume": 25, "pageA": 1, "pageB": 7
+				},
+				{"authors": "VALLIN, G., &amp; M. Laurin.", "date": 2004, "title": "Cranial morphology and affinities of <i>Microbrachis</i., &amp; a reappraisal of the phylogeny and lifestyle of the first amphibians.", "journal": "J. Vert. Paleontol.", "volume": 24, "pageA": 56, "pageB": 72
+				},
+				{"authors": "WADDELL P. J., Y. CAO, J. HAU., &amp; M. HASEGAWA.", "date": 1999, "title": "Using novel phylogenetic methods to evaluate mammalian mtDNA, including amino acid-invariant sites-LogDet plus site stripping, to detect internal conflicts in the data, with special reference to the positions of hedgehog, armadill., &amp; elephant.", "journal": "Syst. Biol.", "volume": 48, "pageA": 31, "pageB": 53
+				},
+				{"authors": "WARHEIT, K. I.", "date": 1992, "title": "The role of morphometrics and cladistics in the taxonomy of fossils: A paleornithological example.", "journal": "Syst. Biol.", "volume": 41, "pageA": 345, "pageB": 369
+				},
+				{"authors": "W&icirc;JCIK, J. M., &amp; M. Wolsan.", "date": 1998, "title": "Evolution of shrews. Bialowieza, Poland: Mammal Research Institute, Polish Academy of Sciences.
+				},
+				{"authors": "WILLEMS, W. R., A. WALLBERG, U. JONDELIUS, D. T. J. LITTLEWOOD, T. BACKELJAU, E. R. SCHOCKAER., &amp; T. J. Artois.", "date": 2006, "title": "Filling a gap in the phylogeny of flatworms: relationships within the <i>Rhabdocoela</i> (<i>Platyhelminthes</i>), inferred from 18S ribosomal DNA sequences.", "journal": "Zool. Scr.", "volume": 35, "pageA": 1, "pageB": 17
+				},
+				{"authors": "WILLIAMS, B. A., &amp; R. F. KAY.", "date": 1995, "title": "The taxon <i>Anthropoidea</i> and the crown clade concept.", "journal": "Evol. Anthropol.", "volume": 3, "pageA": 188, "pageB": 190
+				},
+				{"authors": "WILSON, J. A., &amp; P. C. SERENO.", "date": 1998, "title": "Early evolution and higher-level phylogeny of sauropod dinosaurs. Jo. Vert. Paleontol. 18 (supplement): 1-68.
+				},
+				{"authors": "WOLFE, A. D., S. L. DATWYLE., &amp; C. P. RANDLE.", "date": 2002, "title": "A phylogenetic and biogeographic analysis of the <i>Cheloneae</i> (<i>Scrophulariaceae</i>) based on ITS and matK sequence data.", "journal": "Syst. Bot.", "volume": 27, "pageA": 138, "pageB": 148
+				},
+				{"authors": "Wolsan, M.", "date": 1993, "title": "Phylogeny and classification of early European <i>Mustelida</i> (<i>Mammalia</i>: <i>Carnivora</i>).", "journal": "Acta Theriol.", "volume": 38, "pageA": 345, "pageB": 384
+				},
+				{"authors": "Wyss, A. R.", "date": 2001, "title": "Digging up fresh clues about the origin of mammals.", "journal": "Science", "volume": 292, "pageA": 1496, "pageB": 1497
+				},
+				{"authors": "Wyss, A. R., &amp; J. J. FLYNN.", "date": 1993, "title": "A phylogentic analysis and definition of the <i>Carnivora</i>.", "pageA": 32, "pageB": 52, "in": {"F. S. Szalay, M. J. Novace., &amp; M. C. McKenna (eds.), Mammal phylogeny: placentals. Springer-Verlag, New York.
+				},
+				{"authors": "Wyss, A. R., &amp; J. J. FLYNN.", "date": 1995, "title": "&quot;<i>Anthropoidea</i>:&quot; a name, not an entity.", "journal": "Evol. Anthropol.", "volume": 3, "pageA": 187, "pageB": 188			
+				}
 			]
 		},
 		{
 			"id": "critiques",
 			"title": "Critiques of Phylogenetic Nomenclature",
 			"citations": [
+				{"authors": "BARKLEY, T. M., P. DEPRIEST, V. FUNK, R. W. KIGER, W. J. KRES., &amp; G. MOORE.", "date": 2004, "title": "Linnaean nomenclature in the 21st Century: a report from a workshop on integrating traditional nomenclature and phylogenetic classification.", "journal": "Taxon", "volume": 53, "pageA": 153, "pageB": 158
+				},{"authors": "BENTON, M. J.", "date": 2000, "title": "Stems, nodes, crown clade., &amp; rank-free lists: is Linnaeus dead?", "journal": "Biol. Rev.", "volume": 75, "pageA": 633, "pageB": 648
+				},{"authors": "BENTON, M. J.", "date": 2007, "title": "The Phylocode: Beating a dead horse?", "journal": "Acta Palaeontol. Pol.", "volume": 52, "pageA": 651, "pageB": 655
+				},{"authors": "BERRY, P. E.", "date": 2002, "title": "Biological inventories and the PhyloCode.", "journal": "Taxon", "volume": 51, "pageA": 27, "pageB": 29
+				},{"authors": "CARPENTER, J. M.", "date": 2003, "title": "Critique of pure folly.", "journal": "Bot. Rev.", "volume": 69, "pageA": 79, "pageB": 92
+				},{"authors": "DOMINGUEZ, E. and Q. D. WHEELER.", "date": 1997, "title": "Taxonomic stability is ignorance.", "journal": "Cladistics", "volume": 13, "pageA": 367, "pageB": 372
+				},{"authors": "DUBOIS, A.", "date": 2005, "title": "Proposed rules for the incorporation of nomina of higher-ranked zoological taxa in the <i>International Code of Zoological Nomenclature</i>. 1. Some general questions, concepts and terms of biological nomenclature. Zoosystema, 27, 365-426.
+				},{"authors": "DUBOIS, A.", "date": 2007, "title": "Naming taxa from cladograms: a cautionary tale.", "journal": "Molec. Phyl. Evol.", "volume": 42, "pageA": 317, "pageB": 330
+				},{"authors": "DYKE, G. J.", "date": 2002, "title": "Should paleontologists use &quot;phylogenetic&quot; nomenclature?", "journal": "J. Paleontol.", "volume": 76, "pageA": 793, "pageB": 796
+				},{"authors": "FOREY, P. L.", "date": 2001, "title": "The PhyloCode: description and commentary.", "journal": "Bull. Zool. Nom.", "volume": 58, "pageA": 81, "pageB": 96
+				},{"authors": "FOREY, P. L.", "date": 2002, "title": "PhyloCode--pain, no gain.", "journal": "Taxon", "volume": 51, "pageA": 43, "pageB": 54
+				},{"authors": "GAO, K. Q., &amp; Y. L. SUN.", "date": 2003, "title": "Is the PhyloCode better than Linnaean system?", "journal": "New development and debate on biological nomenclatural issues. Chinese Sci. Bull.", "volume": 48, "pageA": 308, "pageB": 312
+				},{"authors": "Ghiselin, M. T.", "date": 1995, "title": "Ostensive definitions of the names of species and clades.", "journal": "Biol. Phil.", "volume": 10, "pageA": 219, "pageB": 222
+				},{"authors": "GREUTER, W.", "date": 2004, "title": "Recent developments in international biological nomenclature.", "journal": "Turk. Jo. Bot.", "volume": 28, "pageA": 17, "pageB": 26
+				},{"authors": "JANOVEC, J. P., L. G. CLAR., &amp; S. A. MORI.", "date": 2003, "title": "Is the neotropical flora ready for the PhyloCode?", "journal": "Bot. Rev.", "volume": 69, "pageA": 22, "pageB": 43
+				},{"authors": "J&Oslash;RGENSEN, P. M.", "date": 2002, "title": "Two nomenclatural systems? Taxon 51: 737.
+				},{"authors": "J&Oslash;RGENSEN, P. M.", "date": 2004, "title": "Rankless names in the Code? Taxon 53: 162.
+				},{"authors": "KELLER, R. A., R. N. BOY., &amp; Q. D. WHEELER.", "date": 2003, "title": "The illogical basis of phylogenetic nomenclature.", "journal": "Bot. Rev.", "volume": 69, "pageA": 93, "pageB": 110
+				},{"authors": "KOJIMA, J.", "date": 2003, "title": "Apomorphy-based definition also pinpoints a nod., &amp; PhyloCode names prevent effective communication.", "journal": "Bot. Rev.", "volume": 69, "pageA": 44, "pageB": 58
+				},{"authors": "LID&Eacute;N, M. and B. OXELMAN.", "date": 1996, "title": "Do we need phylogenetic taxonomy?", "journal": "Zool. Scr.", "volume": 25, "pageA": 183, "pageB": 185
+				},{"authors": "LID&Eacute;N, M., B. OXELMAN, A. BACKLUND, L. ANDERSSON, B. Bremer, R. Eriksson, R. MOBERG, I. NORDAL, K. PERSSON, M. THULI., &amp; B. ZIMMER.", "date": 1997, "title": "Charlie is our darling.", "journal": "Taxon", "volume": 46, "pageA": 735, "pageB": 738
+				},{"authors": "LOBL, I.", "date": 2001, "title": "Les nomenclatures &quot;linéenne&quot; et &quot;phylogénetique&quot;, et d'autres probl&egrave;mes artificiels.", "journal": "Bull. Soc. Fr. Syst.", "volume": 26, "pageA": 16, "pageB": 21
+				},{"authors": "MONSCH, K. A.", "date": 2003, "title": "The use of apomorphies in taxonomic defining.", "journal": "Taxon", "volume": 52, "pageA": 105, "pageB": 107
+				},{"authors": "MONSCH, K. A.", "date": 2006, "title": "The PhyloCode, or alternative nomenclature: Why it is not beneficial to palaeontology, either.", "journal": "Acta Palaeontol. Pol.", "volume": 51, "pageA": 521, "pageB": 524
+				},{"authors": "MOORE, G.", "date": 2003, "title": "Should taxon names be explicitly defined?", "journal": "Bot. Rev.", "volume": 69, "pageA": 2, "pageB": 21
+				},{"authors": "NIXON, K. C., &amp; J. M. CARPENTER.", "date": 2000, "title": "On the other &quot;phylogenetic systematics&quot;. Cladistics 16:298-318.
+				},{"authors": "NIXON, K. C., J. M. CARPENTE., &amp; D. W. STEVENSON.", "date": 2003, "title": "The PhyloCode is fatally flawe., &amp; the &quot;Linnaean&quot; system can easily be fixed.", "journal": "Bot. Rev.", "volume": 69, "pageA": 111, "pageB": 120
+				},{"authors": "PICKETT, K. M.", "date": 2005, "title": "The new and improved PhyloCode, now with types, rank., &amp; even polyphyly: a conference report from the First International Phylogenetic Nomenclature Meeting.", "journal": "Cladistics", "volume": 21, "pageA": 79, "pageB": 82
+				},{"authors": "POLASZEK, A. and E. O. WILSON.", "date": 2005, "title": "Sense and stability in animal names.", "journal": "Trends Ecol. Evol.", "volume": 20, "pageA": 421, "pageB": 422
+				},{"authors": "RIEPPEL, O.", "date": 2006, "title": "The PhyloCode: a critical discussion of its theoretical foundation.", "journal": "Cladistics", "volume": 22, "pageA": 186, "pageB": 197
+				},{"authors": "SCHUH, R. T.", "date": 2003, "title": "The Linnaean system and its 250-year persistence.", "journal": "Bot. Rev.", "volume": 69, "pageA": 59, "pageB": 78
+				},{"authors": "SLUYS, R., K. MARTEN., &amp; F. R. SCHRAM.", "date": 2004, "title": "The PhyloCode: naming of biodiversity at a crossroads.", "journal": "Trends Ecol. Evol.", "volume": 19, "pageA": 280, "pageB": 281
+				},{"authors": "STEVENS, P. F.", "date": 2006, "title": "An end to all things?--plants and their names.", "journal": "Australian Syst. Bot.", "volume": 19, "pageA": 115, "pageB": 133
+				},{"authors": "STUESSY, T. F.", "date": 2000, "title": "Taxon names are not defined.", "journal": "Taxon", "volume": 49, "pageA": 231, "pageB": 233
+				},{"authors": "STUESSY, T. F.", "date": 2001, "title": "Taxon names are still not defined.", "journal": "Taxon", "volume": 50, "pageA": 185, "pageB": 186
+				},{"authors": "TANG, Y.-C., &amp; A.-M. LU.", "date": 2005, "title": "Paraphyletic group, PhyloCode and phylogenetic species--the current debate and a preliminary commentary.", "journal": "Acta Phytotax. Sin.", "volume": 43, "pageA": 403, "pageB": 419
+				},{"authors": "WENZEL, J. W., K. C. NIXO., &amp; G. CUCCODORO.", "date": 2004, "title": "Dites non au PhyloCode! Bull.", "journal": "Soc. Fr. Syst.", "volume": 31, "pageA": 19, "pageB": 23	
 			]
 		},
 		{
 			"id": "replies",
 			"title": "Replies to Critiques",
 			"citations": [
+				{"authors": "BERTRAND, Y. and F. Pleijel.", "date": 2003, "title": "Nomenclature phylogénétique: une reponse.", "journal": "Bull. Soc. Fr. Syst.", "volume": 29, "pageA": 25, "pageB": 28
+				},{"authors": "Bryant, H. N., &amp; P. D. Cantino.", "date": 2002, "title": "A review of criticisms of phylogenetic nomenclature: is taxonomic freedom the fundamental issue?", "journal": "Biol. Rev.", "volume": 77, "pageA": 39, "pageB": 55
+				},{"authors": "Cantino, P. D.", "date": 2000, "title": "Phylogenetic nomenclature: addressing some concerns.", "journal": "Taxon", "volume": 49, "pageA": 85, "pageB": 93
+				},{"authors": "Cantino, P. D.", "date": 2004, "title": "Classifying species versus naming clades.", "journal": "Taxon", "volume": 53, "pageA": 795, "pageB": 798
+				},{"authors": "de Queiroz, K.", "date": 1995, "title": "The definitions of species and clade names: A reply to Ghiselin.", "journal": "Biol. Phil.", "volume": 10, "pageA": 223, "pageB": 228
+				},{"authors": "de Queiroz, K.", "date": 1997, "title": "Misunderstandings about the phylogenetic approach to biological nomenclature: a reply to Lidén and Oxelman.", "journal": "Zool. Scr.", "volume": 26, "pageA": 67, "pageB": 70
+				},{"authors": "de Queiroz, K.", "date": 2000, "title": "The definitions of taxon names: a reply to Stuessy. Taxon 49:533-536.
+				},{"authors": "de Queiroz, K.", "date": 2006, "title": "The PhyloCode and the distinction between taxonomy and nomenclature.", "journal": "Syst. Biol.", "volume": 55, "pageA": 160, "pageB": 162
+				},{"authors": "de Queiroz, K., AND M. J. Donoghue.", "date": 2011, "title": "Phylogenetic nomenclature, three-taxon statement., &amp; unnecessary name changes. Systematic Biology 60: 887–892.
+				},{"authors": "de Queiroz, K., &amp; P. D. Cantino.", "date": 2001, "title": "Phylogenetic nomenclature and the PhyloCode.", "journal": "Bull. Zool. Nom.", "volume": 58, "pageA": 254, "pageB": 271
+				},{"authors": "de Queiroz, K., &amp; P. D. Cantino.", "date": 2001, "title": "Taxon names, not taxa, are defined.", "journal": "Taxon", "volume": 50, "pageA": 821, "pageB": 826
+				},{"authors": "Donoghue, M. J. and J. A. Gauthier.", "date": 2004, "title": "Implementing the PhyloCode.", "journal": "Trends Ecol. Evol.", "volume": 19, "pageA": 281, "pageB": 282
+				},{"authors": "Hillis, D. M.", "date": 2007, "title": "Constraints in naming parts of the tree of life.", "journal": "Molec. Phyl. Evol.", "volume": 42, "pageA": 331, "pageB": 338
+				},{"authors": "Laurin, M.", "date": 2005, "title": "Dites oui au PhyloCode.", "journal": "Bull. Soc. Fr. Syst.", "volume": 34, "pageA": 25, "pageB": 31
+				},{"authors": "Laurin, M., K. DE QUEIRO., &amp; P. D. Cantino.", "date": 2006, "title": "Sense and stability of taxon names.", "journal": "Zool. Scr.", "volume": 35, "pageA": 113, "pageB": 114
+				},{"authors": "Laurin, M., K. de Queiroz, P. Cantino, N. CELLINES., &amp; R. Olmstead.", "date": 2005, "title": "The PhyloCode, types, rank., &amp; monophyly: a response to Pickett.", "journal": "Cladistics", "volume": 21, "pageA": 605, "pageB": 607
+				},{"authors": "Lee, M. S. Y.", "date": 1996, "title": "The phylogenetic approach to biological taxonomy: practical aspects.", "journal": "Zool. Scr.", "volume": 25, "pageA": 187, "pageB": 190
+				},{"authors": "Lee, M. S. Y.", "date": 2001, "title": "On recent arguments for phylogenetic nomenclature.", "journal": "Taxon", "volume": 50, "pageA": 175, "pageB": 180
+				},{"authors": "Lee, M. S. Y., &amp; A. SKINNER.", "date": 2007, "title": "Stability, rank., &amp; the PhyloCode.", "journal": "Acta Palaeontol. Pol.", "volume": 52, "pageA": 643, "pageB": 650
+				},{"authors": "Schander, C.", "date": 1998, "title": "Types, emendations and names -- a reply to Lidén et al.", "journal": "Taxon", "volume": 47, "pageA": 401, "pageB": 406
 			]
 		}
 	]
