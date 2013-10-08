@@ -1414,69 +1414,302 @@
 			"id": "critiques",
 			"title": "Critiques of Phylogenetic Nomenclature",
 			"citations": [
-				{"authors": "BARKLEY, T. M., P. DEPRIEST, V. FUNK, R. W. KIGER, W. J. KRES., &amp; G. MOORE.", "date": 2004, "title": "Linnaean nomenclature in the 21st Century: a report from a workshop on integrating traditional nomenclature and phylogenetic classification.", "journal": "Taxon", "volume": 53, "pageA": 153, "pageB": 158
-				},{"authors": "BENTON, M. J.", "date": 2000, "title": "Stems, nodes, crown clade., &amp; rank-free lists: is Linnaeus dead?", "journal": "Biol. Rev.", "volume": 75, "pageA": 633, "pageB": 648
-				},{"authors": "BENTON, M. J.", "date": 2007, "title": "The Phylocode: Beating a dead horse?", "journal": "Acta Palaeontol. Pol.", "volume": 52, "pageA": 651, "pageB": 655
-				},{"authors": "BERRY, P. E.", "date": 2002, "title": "Biological inventories and the PhyloCode.", "journal": "Taxon", "volume": 51, "pageA": 27, "pageB": 29
-				},{"authors": "CARPENTER, J. M.", "date": 2003, "title": "Critique of pure folly.", "journal": "Bot. Rev.", "volume": 69, "pageA": 79, "pageB": 92
-				},{"authors": "DOMINGUEZ, E. and Q. D. WHEELER.", "date": 1997, "title": "Taxonomic stability is ignorance.", "journal": "Cladistics", "volume": 13, "pageA": 367, "pageB": 372
-				},{"authors": "DUBOIS, A.", "date": 2005, "title": "Proposed rules for the incorporation of nomina of higher-ranked zoological taxa in the <i>International Code of Zoological Nomenclature</i>. 1. Some general questions, concepts and terms of biological nomenclature. Zoosystema, 27, 365-426.
-				},{"authors": "DUBOIS, A.", "date": 2007, "title": "Naming taxa from cladograms: a cautionary tale.", "journal": "Molec. Phyl. Evol.", "volume": 42, "pageA": 317, "pageB": 330
-				},{"authors": "DYKE, G. J.", "date": 2002, "title": "Should paleontologists use &quot;phylogenetic&quot; nomenclature?", "journal": "J. Paleontol.", "volume": 76, "pageA": 793, "pageB": 796
-				},{"authors": "FOREY, P. L.", "date": 2001, "title": "The PhyloCode: description and commentary.", "journal": "Bull. Zool. Nom.", "volume": 58, "pageA": 81, "pageB": 96
-				},{"authors": "FOREY, P. L.", "date": 2002, "title": "PhyloCode--pain, no gain.", "journal": "Taxon", "volume": 51, "pageA": 43, "pageB": 54
-				},{"authors": "GAO, K. Q., &amp; Y. L. SUN.", "date": 2003, "title": "Is the PhyloCode better than Linnaean system?", "journal": "New development and debate on biological nomenclatural issues. Chinese Sci. Bull.", "volume": 48, "pageA": 308, "pageB": 312
-				},{"authors": "Ghiselin, M. T.", "date": 1995, "title": "Ostensive definitions of the names of species and clades.", "journal": "Biol. Phil.", "volume": 10, "pageA": 219, "pageB": 222
-				},{"authors": "GREUTER, W.", "date": 2004, "title": "Recent developments in international biological nomenclature.", "journal": "Turk. J. Bot.", "volume": 28, "pageA": 17, "pageB": 26
-				},{"authors": "JANOVEC, J. P., L. G. CLAR., &amp; S. A. MORI.", "date": 2003, "title": "Is the neotropical flora ready for the PhyloCode?", "journal": "Bot. Rev.", "volume": 69, "pageA": 22, "pageB": 43
-				},{"authors": "J&Oslash;RGENSEN, P. M.", "date": 2002, "title": "Two nomenclatural systems? Taxon 51: 737.
-				},{"authors": "J&Oslash;RGENSEN, P. M.", "date": 2004, "title": "Rankless names in the Code? Taxon 53: 162.
-				},{"authors": "KELLER, R. A., R. N. BOY., &amp; Q. D. WHEELER.", "date": 2003, "title": "The illogical basis of phylogenetic nomenclature.", "journal": "Bot. Rev.", "volume": 69, "pageA": 93, "pageB": 110
-				},{"authors": "KOJIMA, J.", "date": 2003, "title": "Apomorphy-based definition also pinpoints a nod., &amp; PhyloCode names prevent effective communication.", "journal": "Bot. Rev.", "volume": 69, "pageA": 44, "pageB": 58
-				},{"authors": "LID&Eacute;N, M. and B. OXELMAN.", "date": 1996, "title": "Do we need phylogenetic taxonomy?", "journal": "Zool. Scr.", "volume": 25, "pageA": 183, "pageB": 185
-				},{"authors": "LID&Eacute;N, M., B. OXELMAN, A. BACKLUND, L. ANDERSSON, B. Bremer, R. Eriksson, R. MOBERG, I. NORDAL, K. PERSSON, M. THULI., &amp; B. ZIMMER.", "date": 1997, "title": "Charlie is our darling.", "journal": "Taxon", "volume": 46, "pageA": 735, "pageB": 738
-				},{"authors": "LOBL, I.", "date": 2001, "title": "Les nomenclatures &quot;linéenne&quot; et &quot;phylogénetique&quot;, et d'autres probl&egrave;mes artificiels.", "journal": "Bull. Soc. Fr. Syst.", "volume": 26, "pageA": 16, "pageB": 21
-				},{"authors": "MONSCH, K. A.", "date": 2003, "title": "The use of apomorphies in taxonomic defining.", "journal": "Taxon", "volume": 52, "pageA": 105, "pageB": 107
-				},{"authors": "MONSCH, K. A.", "date": 2006, "title": "The PhyloCode, or alternative nomenclature: Why it is not beneficial to palaeontology, either.", "journal": "Acta Palaeontol. Pol.", "volume": 51, "pageA": 521, "pageB": 524
-				},{"authors": "MOORE, G.", "date": 2003, "title": "Should taxon names be explicitly defined?", "journal": "Bot. Rev.", "volume": 69, "pageA": 2, "pageB": 21
-				},{"authors": "NIXON, K. C., &amp; J. M. CARPENTER.", "date": 2000, "title": "On the other &quot;phylogenetic systematics&quot;. Cladistics 16:298-318.
-				},{"authors": "NIXON, K. C., J. M. CARPENTE., &amp; D. W. STEVENSON.", "date": 2003, "title": "The PhyloCode is fatally flawe., &amp; the &quot;Linnaean&quot; system can easily be fixed.", "journal": "Bot. Rev.", "volume": 69, "pageA": 111, "pageB": 120
-				},{"authors": "PICKETT, K. M.", "date": 2005, "title": "The new and improved PhyloCode, now with types, rank., &amp; even polyphyly: a conference report from the First International Phylogenetic Nomenclature Meeting.", "journal": "Cladistics", "volume": 21, "pageA": 79, "pageB": 82
-				},{"authors": "POLASZEK, A. and E. O. WILSON.", "date": 2005, "title": "Sense and stability in animal names.", "journal": "Trends Ecol. Evol.", "volume": 20, "pageA": 421, "pageB": 422
-				},{"authors": "RIEPPEL, O.", "date": 2006, "title": "The PhyloCode: a critical discussion of its theoretical foundation.", "journal": "Cladistics", "volume": 22, "pageA": 186, "pageB": 197
-				},{"authors": "SCHUH, R. T.", "date": 2003, "title": "The Linnaean system and its 250-year persistence.", "journal": "Bot. Rev.", "volume": 69, "pageA": 59, "pageB": 78
-				},{"authors": "SLUYS, R., K. MARTEN., &amp; F. R. SCHRAM.", "date": 2004, "title": "The PhyloCode: naming of biodiversity at a crossroads.", "journal": "Trends Ecol. Evol.", "volume": 19, "pageA": 280, "pageB": 281
-				},{"authors": "STEVENS, P. F.", "date": 2006, "title": "An end to all things?--plants and their names.", "journal": "Australian Syst. Bot.", "volume": 19, "pageA": 115, "pageB": 133
-				},{"authors": "STUESSY, T. F.", "date": 2000, "title": "Taxon names are not defined.", "journal": "Taxon", "volume": 49, "pageA": 231, "pageB": 233
-				},{"authors": "STUESSY, T. F.", "date": 2001, "title": "Taxon names are still not defined.", "journal": "Taxon", "volume": 50, "pageA": 185, "pageB": 186
-				},{"authors": "TANG, Y.-C., &amp; A.-M. LU.", "date": 2005, "title": "Paraphyletic group, PhyloCode and phylogenetic species--the current debate and a preliminary commentary.", "journal": "Acta Phytotax. Sin.", "volume": 43, "pageA": 403, "pageB": 419
-				},{"authors": "WENZEL, J. W., K. C. NIXO., &amp; G. CUCCODORO.", "date": 2004, "title": "Dites non au PhyloCode! Bull.", "journal": "Soc. Fr. Syst.", "volume": 31, "pageA": 19, "pageB": 23	
+				{
+					"authors": "Barkley, T. M., P. DePriest, V. Funk, R. W. Kiger, W. J. Kress, &amp; G. Moore",
+					"date": 2004,
+					"title": "Linnaean nomenclature in the 21st Century: a report from a workshop on integrating traditional nomenclature and phylogenetic classification.",
+					"journal": "Taxon", "volume": 53, "pageA": 153, "pageB": 158
+				},
+				{
+					"authors": "Benton, M. J.", "date": 2000,
+					"title": "Stems, nodes, crown clades, and rank-free lists: is Linnaeus dead?",
+					"journal": "Biol. Rev.", "volume": 75, "pageA": 633, "pageB": 648
+				},
+				{
+					"authors": "Benton, M. J.", "date": 2007,
+					"title": "The Phylocode: beating a dead horse?",
+					"journal": "Acta Palaeontol. Pol.",
+					"volume": 52, "pageA": 651, "pageB": 655
+				},
+				{
+					"authors": "Berry, P. E.", "date": 2002,
+					"title": "Biological inventories and the PhyloCode.",
+					"journal": "Taxon", "volume": 51, "pageA": 27, "pageB": 29
+				},
+				{
+					"authors": "Carpenter, J. M.", "date": 2003,
+					"title": "Critique of pure folly.",
+					"journal": "Bot. Rev.", "volume": 69, "pageA": 79, "pageB": 92
+				},
+				{
+					"authors": "Dominguez, E., &amp; Q. D. Wheeler", "date": 1997,
+					"title": "Taxonomic stability is ignorance.",
+					"journal": "Cladistics", "volume": 13, "pageA": 367, "pageB": 372
+				},
+				{
+					"authors": "Dubois, A.", "date": 2005,
+					"title": "Proposed rules for the incorporation of nomina of higher-ranked zoological taxa in the <i>International Code of Zoological Nomenclature</i>. 1. Some general questions, concepts and terms of biological nomenclature.",
+					"journal": "Zoosystema", "volume": 27, "pageA": 365, "pageB": 426
+				},
+				{
+					"authors": "Dubois, A.", "date": 2007,
+					"title": "Naming taxa from cladograms: a cautionary tale.",
+					"journal": "Molec. Phyl. Evol.", "volume": 42, "pageA": 317, "pageB": 330
+				},
+				{
+					"authors": "Dyke, G. J.", "date": 2002,
+					"title": "Should paleontologists use &quot;phylogenetic&quot; nomenclature?",
+					"journal": "J. Paleontol.", "volume": 76, "pageA": 793, "pageB": 796
+				},
+				{
+					"authors": "Forey, P. L.", "date": 2001,
+					"title": "The PhyloCode: description and commentary.",
+					"journal": "Bull. Zool. Nom.", "volume": 58, "pageA": 81, "pageB": 96
+				},
+				{
+					"authors": "Forey, P. L.", "date": 2002,
+					"title": "PhyloCode&mdash;pain, no gain.",
+					"journal": "Taxon", "volume": 51, "pageA": 43, "pageB": 54
+				},
+				{
+					"authors": "Gao, K. Q., &amp; Y. L. Sun", "date": 2003,
+					"title": "Is the PhyloCode better than Linnaean system? New development and debate on biological nomenclatural issues.",
+					"journal": "Chinese Sci. Bull.", "volume": 48, "pageA": 308, "pageB": 312
+				},
+				{
+					"authors": "Ghiselin, M. T.", "date": 1995,
+					"title": "Ostensive definitions of the names of species and clades.",
+					"journal": "Biol. Phil.", "volume": 10, "pageA": 219, "pageB": 222
+				},
+				{
+					"authors": "Greuter, W.", "date": 2004,
+					"title": "Recent developments in international biological nomenclature.",
+					"journal": "Turk. J. Bot.", "volume": 28, "pageA": 17, "pageB": 26
+				},
+				{
+					"authors": "Janovec, J. P., L. G. Clark, &amp; S. A. Mori", "date": 2003,
+					"title": "Is the neotropical flora ready for the PhyloCode?",
+					"journal": "Bot. Rev.", "volume": 69, "pageA": 22, "pageB": 43
+				},
+				{
+					"authors": "Jörgensen, P. M.", "date": 2002,
+					"title": "Two nomenclatural systems?",
+					"journal": "Taxon", "volume": 51, "pageA": 737
+				},
+				{
+					"authors": "Jörgensen, P. M.", "date": 2004,
+					"title": "Rankless names in the Code?",
+					"journal": "Taxon", "volume": 53, "pageA": 162
+				},
+				{
+					"authors": "Keller, R. A., R. N. Boyd, &amp; Q. D. Wheeler", "date": 2003,
+					"title": "The illogical basis of phylogenetic nomenclature.",
+					"journal": "Bot. Rev.", "volume": 69, "pageA": 93, "pageB": 110
+				},
+				{
+					"authors": "Kojima, J.", "date": 2003,
+					"title": "Apomorphy-based definition also pinpoints a node, and PhyloCode names prevent effective communication.",
+					"journal": "Bot. Rev.", "volume": 69, "pageA": 44, "pageB": 58
+				},
+				{
+					"authors": "Lidén, M., &amp; B. Oxelman", "date": 1996,
+					"title": "Do we need phylogenetic taxonomy?",
+					"journal": "Zool. Scr.", "volume": 25, "pageA": 183, "pageB": 185
+				},
+				{
+					"authors": "Lidén, M., B. Oxelman, A. Backlund, L. Andersson, B. Bremer, R. Eriksson, R. Moberg, I. Nordal, K. Persson, M. Thulin, &amp; B. Zimmer",
+					"date": 1997,
+					"title": "Charlie is our darling.",
+					"journal": "Taxon", "volume": 46, "pageA": 735, "pageB": 738
+				},
+				{
+					"authors": "Lobl, I.", "date": 2001,
+					"title": "Les nomenclatures &quot;linéenne&quot; et &quot;phylogénetique&quot;, et d'autres problèmes artificiels.",
+					"journal": "Bull. Soc. Fr. Syst.", "volume": 26, "pageA": 16, "pageB": 21
+				},
+				{
+					"authors": "Monsch, K. A.", "date": 2003,
+					"title": "The use of apomorphies in taxonomic defining.",
+					"journal": "Taxon", "volume": 52, "pageA": 105, "pageB": 107
+				},
+				{
+					"authors": "Monsch, K. A.", "date": 2006,
+					"title": "The PhyloCode, or alternative nomenclature: why it is not beneficial to palaeontology, either.",
+					"journal": "Acta Palaeontol. Pol.", "volume": 51, "pageA": 521, "pageB": 524
+				},
+				{
+					"authors": "Moore, G.", "date": 2003,
+					"title": "Should taxon names be explicitly defined?",
+					"journal": "Bot. Rev.", "volume": 69, "pageA": 2, "pageB": 21
+				},
+				{
+					"authors": "Nixon, K. C., &amp; J. M. Carpenter",
+					"date": 2000, "title": "On the other &quot;phylogenetic systematics&quot;.",
+					"journal": "Cladistics", "volume": 16, "pageA": 298, "pageB": 318
+				},
+				{
+					"authors": "Nixon, K. C., J. M. Carpenter, &amp; D. W. Stevenson.",
+					"date": 2003,
+					"title": "The PhyloCode is fatally flawed, and the &quot;Linnaean&quot; system can easily be fixed.",
+					"journal": "Bot. Rev.", "volume": 69, "pageA": 111, "pageB": 120
+				},
+				{
+					"authors": "Pickett, K. M.", "date": 2005,
+					"title": "The new and improved PhyloCode, now with types, ranks, and even polyphyly: a conference report from the First International Phylogenetic Nomenclature Meeting.",
+					"journal": "Cladistics", "volume": 21, "pageA": 79, "pageB": 82
+				},
+				{
+					"authors": "Polaszek, A., &amp; E. O. Wilson", "date": 2005,
+					"title": "Sense and stability in animal names.",
+					"journal": "Trends Ecol. Evol.", "volume": 20, "pageA": 421, "pageB": 422
+				},
+				{
+					"authors": "Rieppel, O.", "date": 2006,
+					"title": "The PhyloCode: a critical discussion of its theoretical foundation.",
+					"journal": "Cladistics", "volume": 22, "pageA": 186, "pageB": 197
+				},
+				{
+					"authors": "Schuh, R. T.", "date": 2003,
+					"title": "The Linnaean system and its 250-year persistence.",
+					"journal": "Bot. Rev.", "volume": 69, "pageA": 59, "pageB": 78
+				},
+				{
+					"authors": "Sluys, R., K. Martens, &amp; F. R. Schram", "date": 2004,
+					"title": "The PhyloCode: naming of biodiversity at a crossroads.",
+					"journal": "Trends Ecol. Evol.", "volume": 19, "pageA": 280, "pageB": 281
+				},
+				{
+					"authors": "Stevens, P. F.", "date": 2006,
+					"title": "An end to all things?&mdash;plants and their names.",
+					"journal": "Australian Syst. Bot.", "volume": 19, "pageA": 115, "pageB": 133
+				},
+				{
+					"authors": "Stuessy, T. F.",
+					"date": 2000, "title": "Taxon names are not defined.",
+					"journal": "Taxon", "volume": 49, "pageA": 231, "pageB": 233
+				},
+				{
+					"authors": "Stuessy, T. F.", "date": 2001,
+					"title": "Taxon names are still not defined.",
+					"journal": "Taxon", "volume": 50, "pageA": 185, "pageB": 186
+				},
+				{
+					"authors": "Tang, Y.-C., &amp; A.-M. Lu", "date": 2005,
+					"title": "Paraphyletic group, PhyloCode and phylogenetic species&mdash;the current debate and a preliminary commentary.",
+					"journal": "Acta Phytotax. Sin.", "volume": 43, "pageA": 403, "pageB": 419
+				},
+				{
+					"authors": "Wenzel, J. W., K. C. Nixon, &amp; G. Cuccodoro", "date": 2004,
+					"title": "Dites non au PhyloCode!",
+					"journal": "Bull. Soc. Fr. Syst.",
+					"volume": 31, "pageA": 19, "pageB": 23
+				}
 			]
 		},
 		{
 			"id": "replies",
 			"title": "Replies to Critiques",
 			"citations": [
-				{"authors": "BERTRAND, Y. and F. Pleijel.", "date": 2003, "title": "Nomenclature phylogénétique: une reponse.", "journal": "Bull. Soc. Fr. Syst.", "volume": 29, "pageA": 25, "pageB": 28
-				},{"authors": "Bryant, H. N., &amp; P. D. Cantino.", "date": 2002, "title": "A review of criticisms of phylogenetic nomenclature: is taxonomic freedom the fundamental issue?", "journal": "Biol. Rev.", "volume": 77, "pageA": 39, "pageB": 55
-				},{"authors": "Cantino, P. D.", "date": 2000, "title": "Phylogenetic nomenclature: addressing some concerns.", "journal": "Taxon", "volume": 49, "pageA": 85, "pageB": 93
-				},{"authors": "Cantino, P. D.", "date": 2004, "title": "Classifying species versus naming clades.", "journal": "Taxon", "volume": 53, "pageA": 795, "pageB": 798
-				},{"authors": "de Queiroz, K.", "date": 1995, "title": "The definitions of species and clade names: A reply to Ghiselin.", "journal": "Biol. Phil.", "volume": 10, "pageA": 223, "pageB": 228
-				},{"authors": "de Queiroz, K.", "date": 1997, "title": "Misunderstandings about the phylogenetic approach to biological nomenclature: a reply to Lidén and Oxelman.", "journal": "Zool. Scr.", "volume": 26, "pageA": 67, "pageB": 70
-				},{"authors": "de Queiroz, K.", "date": 2000, "title": "The definitions of taxon names: a reply to Stuessy. Taxon 49:533-536.
-				},{"authors": "de Queiroz, K.", "date": 2006, "title": "The PhyloCode and the distinction between taxonomy and nomenclature.", "journal": "Syst. Biol.", "volume": 55, "pageA": 160, "pageB": 162
-				},{"authors": "de Queiroz, K., AND M. J. Donoghue.", "date": 2011, "title": "Phylogenetic nomenclature, three-taxon statement., &amp; unnecessary name changes. Systematic Biology 60: 887–892.
-				},{"authors": "de Queiroz, K., &amp; P. D. Cantino.", "date": 2001, "title": "Phylogenetic nomenclature and the PhyloCode.", "journal": "Bull. Zool. Nom.", "volume": 58, "pageA": 254, "pageB": 271
-				},{"authors": "de Queiroz, K., &amp; P. D. Cantino.", "date": 2001, "title": "Taxon names, not taxa, are defined.", "journal": "Taxon", "volume": 50, "pageA": 821, "pageB": 826
-				},{"authors": "Donoghue, M. J. and J. A. Gauthier.", "date": 2004, "title": "Implementing the PhyloCode.", "journal": "Trends Ecol. Evol.", "volume": 19, "pageA": 281, "pageB": 282
-				},{"authors": "Hillis, D. M.", "date": 2007, "title": "Constraints in naming parts of the tree of life.", "journal": "Molec. Phyl. Evol.", "volume": 42, "pageA": 331, "pageB": 338
-				},{"authors": "Laurin, M.", "date": 2005, "title": "Dites oui au PhyloCode.", "journal": "Bull. Soc. Fr. Syst.", "volume": 34, "pageA": 25, "pageB": 31
-				},{"authors": "Laurin, M., K. DE QUEIRO., &amp; P. D. Cantino.", "date": 2006, "title": "Sense and stability of taxon names.", "journal": "Zool. Scr.", "volume": 35, "pageA": 113, "pageB": 114
-				},{"authors": "Laurin, M., K. de Queiroz, P. Cantino, N. CELLINES., &amp; R. Olmstead.", "date": 2005, "title": "The PhyloCode, types, rank., &amp; monophyly: a response to Pickett.", "journal": "Cladistics", "volume": 21, "pageA": 605, "pageB": 607
-				},{"authors": "Lee, M. S. Y.", "date": 1996, "title": "The phylogenetic approach to biological taxonomy: practical aspects.", "journal": "Zool. Scr.", "volume": 25, "pageA": 187, "pageB": 190
-				},{"authors": "Lee, M. S. Y.", "date": 2001, "title": "On recent arguments for phylogenetic nomenclature.", "journal": "Taxon", "volume": 50, "pageA": 175, "pageB": 180
-				},{"authors": "Lee, M. S. Y., &amp; A. SKINNER.", "date": 2007, "title": "Stability, rank., &amp; the PhyloCode.", "journal": "Acta Palaeontol. Pol.", "volume": 52, "pageA": 643, "pageB": 650
-				},{"authors": "Schander, C.", "date": 1998, "title": "Types, emendations and names -- a reply to Lidén et al.", "journal": "Taxon", "volume": 47, "pageA": 401, "pageB": 406
+				{
+					"authors": "Bertrand, Y., &amp; F. Pleijel", "date": 2003,
+					"title": "Nomenclature phylogénétique: une reponse.",
+					"journal": "Bull. Soc. Fr. Syst.", "volume": 29, "pageA": 25, "pageB": 28
+				},
+				{
+					"authors": "Bryant, H. N., &amp; P. D. Cantino", "date": 2002,
+					"title": "A review of criticisms of phylogenetic nomenclature: is taxonomic freedom the fundamental issue?",
+					"journal": "Biol. Rev.", "volume": 77, "pageA": 39, "pageB": 55
+				},
+				{
+					"authors": "Cantino, P. D.", "date": 2000,
+					"title": "Phylogenetic nomenclature: addressing some concerns.",
+					"journal": "Taxon", "volume": 49, "pageA": 85, "pageB": 93
+				},
+				{
+					"authors": "Cantino, P. D.", "date": 2004,
+					"title": "Classifying species versus naming clades.",
+					"journal": "Taxon", "volume": 53, "pageA": 795, "pageB": 798
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 1995,
+					"title": "The definitions of species and clade names: a reply to Ghiselin.",
+					"journal": "Biol. Phil.", "volume": 10, "pageA": 223, "pageB": 228
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 1997,
+					"title": "Misunderstandings about the phylogenetic approach to biological nomenclature: a reply to Lidén and Oxelman.",
+					"journal": "Zool. Scr.", "volume": 26, "pageA": 67, "pageB": 70
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 2000,
+					"title": "The definitions of taxon names: a reply to Stuessy.",
+					"journal": "Taxon", "volume": 49, "pageA": 533, "pageB": 536
+				},
+				{
+					"authors": "de Queiroz, K.", "date": 2006,
+					"title": "The PhyloCode and the distinction between taxonomy and nomenclature.",
+					"journal": "Syst. Biol.", "volume": 55, "pageA": 160, "pageB": 162
+				},
+				{
+					"authors": "de Queiroz, K., &amp; M. J. Donoghue", "date": 2011,
+					"title": "Phylogenetic nomenclature, three-taxon statements, and unnecessary name changes.",
+					"journal": "Systematic Biology", "volume": 60, "pageA": 887, "pageB": 892
+				},
+				{
+					"authors": "de Queiroz, K., &amp; P. D. Cantino", "date": 2001,
+					"title": "Phylogenetic nomenclature and the PhyloCode.",
+					"journal": "Bull. Zool. Nom.", "volume": 58, "pageA": 254, "pageB": 271
+				},
+				{
+					"authors": "de Queiroz, K., &amp; P. D. Cantino", "date": 2001,
+					"title": "Taxon names, not taxa, are defined.",
+					"journal": "Taxon", "volume": 50, "pageA": 821, "pageB": 826
+				},
+				{
+					"authors": "Donoghue, M. J., &amp; J. A. Gauthier",
+					"date": 2004, "title": "Implementing the PhyloCode.",
+					"journal": "Trends Ecol. Evol.", "volume": 19, "pageA": 281, "pageB": 282
+				},
+				{
+					"authors": "Hillis, D. M.", "date": 2007,
+					"title": "Constraints in naming parts of the tree of life.",
+					"journal": "Molec. Phyl. Evol.", "volume": 42, "pageA": 331, "pageB": 338
+				},
+				{
+					"authors": "Laurin, M.", "date": 2005,
+					"title": "Dites oui au PhyloCode.",
+					"journal": "Bull. Soc. Fr. Syst.", "volume": 34, "pageA": 25, "pageB": 31
+				},
+				{
+					"authors": "Laurin, M., K. de Queiroz, &amp; P. D. Cantino", "date": 2006,
+					"title": "Sense and stability of taxon names.",
+					"journal": "Zool. Scr.", "volume": 35, "pageA": 113, "pageB": 114
+				},
+				{
+					"authors": "Laurin, M., K. de Queiroz, P. Cantino, N. Cellinese, &amp; R. Olmstead", "date": 2005,
+					"title": "The PhyloCode, types, ranks, and monophyly: a response to Pickett.",
+					"journal": "Cladistics", "volume": 21, "pageA": 605, "pageB": 607
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 1996,
+					"title": "The phylogenetic approach to biological taxonomy: practical aspects.",
+					"journal": "Zool. Scr.", "volume": 25, "pageA": 187, "pageB": 190
+				},
+				{
+					"authors": "Lee, M. S. Y.", "date": 2001,
+					"title": "On recent arguments for phylogenetic nomenclature.",
+					"journal": "Taxon", "volume": 50, "pageA": 175, "pageB": 180
+				},
+				{
+					"authors": "Lee, M. S. Y., &amp; A. Skinner", "date": 2007,
+					"title": "Stability, ranks, and the PhyloCode.",
+					"journal": "Acta Palaeontol. Pol.", "volume": 52, "pageA": 643, "pageB": 650
+				},
+				{
+					"authors": "Schander, C.", "date": 1998,
+					"title": "Types, emendations and names&mdash;a reply to Lidén et al.",
+					"journal": "Taxon", "volume": 47, "pageA": 401, "pageB": 406
+				}
 			]
 		}
 	]
