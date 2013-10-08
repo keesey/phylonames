@@ -1,24 +1,35 @@
-<section>
-	<h1>
-		Literature on Phylogenetic Nomenclature<br>
-		<small>Philip D. Cantino and Kevin de Queiroz</small>
-	</h1>
-	<p>
-		The following is a list of publications dealing with phylogenetic nomenclature, which is intended to provide access to the literature on that subject.
-		The list is divided into categories emphasizing particular aspects of phylogenetic nomenclature.
-		Because these categories are not always mutually exclusive, some papers are listed under more than one category.
-		The list is undoubtedly incomplete (particularly in the category &quot;Other Applications of Phylogenetic Nomenclature&quot;) but should provide a good starting point for anyone wishing to explore the subject.
-	</p>
-	<p>
-		Because we had to draw the line somewhere, a number of related papers have been excluded.
-		For example, we did not list all papers that used widely known names for crown clades (a convention commonly associated with phylogenetic nomenclature that is neither a necessary component of the approach nor supported by some of its advocates); instead, we only included those papers if they also used explicit phylogenetic definitions.
-		In general, the list contains papers in which explicit phylogenetic definitions are either used or discussed.
-	</p>
-	<p>
-		We intend to update the list as new information becomes available.
-		If you notice omissions or feel that a paper has been assigned to the wrong category (or should be listed under additional categories), please contact Phil Cantino (<script type="text/javascript">befuddle_epadr('cantino','ohio.edu');</script>) or Kevin de Queiroz (<script type="text/javascript">befuddle_epadr('dequeirk','si.edu');</script>).
-	</p>
-</section>
+<div class="row">
+	<section class="col-md-8">
+		<h1>
+			Literature on Phylogenetic Nomenclature<br>
+			<small>Philip D. Cantino and Kevin de Queiroz</small>
+		</h1>
+		<p>
+			The following is a list of publications dealing with phylogenetic nomenclature, which is intended to provide access to the literature on that subject.
+			The list is divided into categories emphasizing particular aspects of phylogenetic nomenclature.
+			Because these categories are not always mutually exclusive, some papers are listed under more than one category.
+			The list is undoubtedly incomplete (particularly in the category &quot;Other Applications of Phylogenetic Nomenclature&quot;) but should provide a good starting point for anyone wishing to explore the subject.
+		</p>
+		<p>
+			Because we had to draw the line somewhere, a number of related papers have been excluded.
+			For example, we did not list all papers that used widely known names for crown clades (a convention commonly associated with phylogenetic nomenclature that is neither a necessary component of the approach nor supported by some of its advocates); instead, we only included those papers if they also used explicit phylogenetic definitions.
+			In general, the list contains papers in which explicit phylogenetic definitions are either used or discussed.
+		</p>
+		<p>
+			We intend to update the list as new information becomes available.
+			If you notice omissions or feel that a paper has been assigned to the wrong category (or should be listed under additional categories), please contact Phil Cantino (<script type="text/javascript">befuddle_epadr('cantino','ohio.edu');</script>) or Kevin de Queiroz (<script type="text/javascript">befuddle_epadr('dequeirk','si.edu');</script>).
+		</p>
+	</section>
+	<section id="subnav" class="col-sm-4">
+		<nav>
+			<ul id="literature-nav" class="nav nav-pills nav-stacked">
+			  {{#literature}}
+			  <li><a href="#{{id}}">{{title}}</a></li>
+			  {{/literature}}
+			</ul>
+		</nav>
+	</section>
+</div>
 {{#literature}}
 <section id="{{id}}">
 	<h2>{{title}}</h2>
