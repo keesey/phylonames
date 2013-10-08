@@ -835,7 +835,7 @@
 		},
 		{
 			"id": "otherapplications",
-			"title": "Other Applications of Phylogenetic Nomenclature ",
+			"title": "Other Applications of Phylogenetic Nomenclature",
 			"citations": [
 				{
 					"authors": "Aguinaldo, A. M., J. M. Turbeville, L. S. Linford, M. C. Rivera, J. R. Garey, R. A. Raf., &amp; J. S. Lake",
@@ -1075,7 +1075,7 @@
 				{
 					"authors": "Jondelius, U., &amp; M. Thollesson", "date": 1993,
 					"title": "Phylogeny of the <i>Rhabdocoela</i> (<i>Platyhelminthes</i>): a working hypothesis.",
-					"journal": "Can. Jo. Zool.", "volume": 71, "pageA": 298, "pageB": 308
+					"journal": "Can. J. Zool.", "volume": 71, "pageA": 298, "pageB": 308
 				},
 				{
 					"authors": "Judd, W. S., R. W. Sanders, &amp; M. J. Donoghue", "date": 1994,
@@ -1193,83 +1193,220 @@
 					"journal": "Syst. Biol.", "volume": 53, "pageA": 815, "pageB": 821
 				},
 				{
-					"authors": "NORELL, M. A., &amp; G. KEQIN.", "date": 1997, "title": "Braincase and phylogenetic relationships of <i>Estesia mongoliensis</i> from the Late Cretaceous of the Gobi Desert and the recognition of a new clade of lizards.", "journal": "Am. Mus. Noviates.", "volume": 3211, "pageA": 1, "pageB": 25
+					"authors": "Norell, M. A., &amp; G. Keqin.", "date": 1997, "title": "Braincase and phylogenetic relationships of <i>Estesia mongoliensis</i> from the Late Cretaceous of the Gobi Desert and the recognition of a new clade of lizards.", "journal": "Am. Mus. Noviates.", "volume": 3211, "pageA": 1, "pageB": 25
 				},
-				{"authors": "NORELL, M. A., J. M. CLAR., &amp; J. H. HUTCHISON.", "date": 1994, "title": "The Late Cretaceous alligatoroid <i>Brachychampsa montana</i> (<i>Crocodylia</i>): New material and putative relationships.", "journal": "Am. Mus. Novitates", "volume": 3116, "pageA": 1, "pageB": 26
+				{
+					"authors": "Norell, M. A., J. M. Clark, &amp; J. H. Hutchison", "date": 1994,
+					"title": "The Late Cretaceous alligatoroid <i>Brachychampsa montana</i> (<i>Crocodylia</i>): new material and putative relationships.",
+					"journal": "Am. Mus. Novitates", "volume": 3116, "pageA": 1, "pageB": 26
 				},
-				{"authors": "NORELL, M., J. CLAR., &amp; L. Chiappe.", "date": 1993, "title": "Naming names. Nature 366: 518.
+				{
+					"authors": "Norell, M., J. Clark, &amp; L. Chiappe.", "date": 1993,
+					"title": "Naming names.",
+					"journal": "Nature", "volume": 366, "pageA": 518
 				},
-				{"authors": "NOVAS F.", "date": 1992, "title": "Phylogenetic relationships of the basal dinosaurs, the <i>Herrerasauridae</i>.", "journal": "Palaeontology", "volume": 35, "pageA": 51, "pageB": 62
+				{
+					"authors": "Novas F.", "date": 1992,
+					"title": "Phylogenetic relationships of the basal dinosaurs, the <i>Herrerasauridae</i>.",
+					"journal": "Palaeontology", "volume": 35, "pageA": 51, "pageB": 62
 				},
-				{"authors": "Olmstead, R. G., C. W. DEPAMPHILIS, A. D. WOLFE, N. D. YOUNG, W. J. ELISON., &amp; P. A. REEVES.", "date": 2001, "title": "Disintegration of the <i>Scrophulariaceae</i>.", "journal": "Amer. J. Bot.", "volume": 88, "pageA": 348, "pageB": 361
+				{
+					"authors": "Olmstead, R. G., C. W. Depamphilis, A. D. Wolfe, N. D. Young, W. J. Elison, &amp; P. A. Reeves",
+					"date": 2001,
+					"title": "Disintegration of the <i>Scrophulariaceae</i>.",
+					"journal": "Amer. J. Bot.", "volume": 88, "pageA": 348, "pageB": 361
 				},
-				{"authors": "Padian, K., &amp; C. L. MAY.", "date": 1993, "title": "The earliest dinosaurs.", "pageA": 379, "pageB": 381, "in": {"S. G. Lucas and M. Morales (eds.), The Nonmarine Triassic. New Mexico Museum of Natural History and Science Bulletin No. 3.
+				{
+					"authors": "Padian, K., &amp; C. L. May", "date": 1993,
+					"title": "The earliest dinosaurs.",
+					"pageA": 379, "pageB": 381,
+					"in":
+					{
+						"editors": "S. G. Lucas &amp; M. Morales",
+						"title": "The Nonmarine Triassic.",
+						"publisher": "New Mexico Museum of Natural History and Science Bulletin No. 3"
+					}
 				},
-				{"authors": "PATTERSON, C.", "date": 1993, "title": "Bird or dinosaur.", "journal": "Nature", "volume": 365, "pageA": 21, "pageB": 22
+				{
+					"authors": "Patterson, C.", "date": 1993,
+					"title": "Bird or dinosaur?",
+					"journal": "Nature", "volume": 365, "pageA": 21, "pageB": 22
 				},
-				{"authors": "PATTERSON, C.", "date": 1993, "title": "Naming names. [Reply to Norell &amp; al., 1993.]. Nature 366: 518.
+				{
+					"authors": "Patterson, C.", "date": 1993,
+					"title": "Naming names. [Reply to Norell &amp; al., 1993.]",
+					"journal": "Nature", "volume": 366, "pageA": 518
 				},
-				{"authors": "PFEIL, B. E. and M. D. CRISP.", "date": 2005, "title": "What to do with <i>Hibiscus</i>?", "journal": "A proposed nomenclatural resolution for a large and well known genus of <i>Malvaceae</i> and comments on paraphyly.  [This paper applies rankless nomenclature, but not phylogenetic definitions; The PhyloCode is discussed.]. Australian. Syst. Bot.", "volume": 18, "pageA": 49, "pageB": 60
+				{
+					"authors": "Pfeil, B. E. &amp; M. D. Crisp", "date": 2005,
+					"title": "What to do with <i>Hibiscus</i>?",
+					"journal": "A proposed nomenclatural resolution for a large and well known genus of <i>Malvaceae</i> and comments on paraphyly.",
+					"journal": "Australian. Syst. Bot.", "volume": 18, "pageA": 49, "pageB": 60,
+					"note": "[This paper applies rankless nomenclature, but not phylogenetic definitions; The <i>PhyloCode</i> is discussed.]"
 				},
-				{"authors": "Pleijel, F.", "date": 2001, "title": "Revision of <i>Amphiduros</i> Hartman, 1959 (<i>Polychaeta</i>, <i>Hesionidae</i>, <i>Gyptini</i>).", "journal": "Ophelia", "volume": 54, "pageA": 15, "pageB": 27
+				{
+					"authors": "Pleijel, F.", "date": 2001,
+					"title": "Revision of <i>Amphiduros</i> Hartman, 1959 (<i>Polychaeta</i>, <i>Hesionidae</i>, <i>Gyptini</i>).",
+					"journal": "Ophelia", "volume": 54, "pageA": 15, "pageB": 27
 				},
-				{"authors": "PONDER, W. F., &amp; D. R. LINDBERG.", "date": 1997, "title": "Towards a phylogeny of gastropod mollusks: an analysis using morphological characters.", "journal": "Zool. Jo. Linn. Soc.", "volume": 119, "pageA": 83, "pageB": 265
+				{
+					"authors": "Ponder, W. F., &amp; D. R. Lindberg", "date": 1997,
+					"title": "Towards a phylogeny of gastropod mollusks: an analysis using morphological characters.",
+					"journal": "Zool. J. Linn. Soc.", "volume": 119, "pageA": 83, "pageB": 265
 				},
-				{"authors": "Reisz, R. R.", "date": 1997, "title": "The origin and early evolutionary history of amniotes.", "journal": "Trends Ecol. Evol.", "volume": 12, "pageA": 218, "pageB": 222
+				{
+					"authors": "Reisz, R. R.", "date": 1997,
+					"title": "The origin and early evolutionary history of amniotes.",
+					"journal": "Trends Ecol. Evol.",
+					"volume": 12, "pageA": 218, "pageB": 222
 				},
-				{"authors": "Reisz, R. R., D. S. BERMA., &amp; D. SCOTT.", "date": 1992, "title": "The cranial anatomy and relationships of <i>Secodontosaurus</i>, an unusual mammal-like reptile (<i>Synapsida</i>: <i>Sphenacodontidae</i>) from the early Permian of Texas.", "journal": "Zool. Jo. Linn. Soc.", "volume": 104, "pageA": 127, "pageB": 184
+				{
+					"authors": "Reisz, R. R., D. S. Berman, &amp; D. Scott", "date": 1992,
+					"title": "The cranial anatomy and relationships of <i>Secodontosaurus</i>, an unusual mammal-like reptile (<i>Synapsida</i>: <i>Sphenacodontidae</i>) from the early Permian of Texas.",
+					"journal": "Zool. J. Linn. Soc.", "volume": 104, "pageA": 127, "pageB": 184
 				},
-				{"authors": "RICHARDSON, S. L.", "date": 2001, "title": "Endosymbiont change as a key innovation in the adaptive radiation of <i>Sortida</i> (<i>Foraminifera</i>).", "journal": "Paleobiology", "volume": 27, "pageA": 262, "pageB": 289
+				{
+					"authors": "Richardson, S. L.", "date": 2001,
+					"title": "Endosymbiont change as a key innovation in the adaptive radiation of <i>Sortida</i> (<i>Foraminifera</i>).",
+					"journal": "Paleobiology", "volume": 27, "pageA": 262, "pageB": 289
 				},
-				{"authors": "RICQL&Egrave;S, A. D., &amp; M. Laurin.", "date": 1999, "title": "The origin of tetrapods.", "pageA": 23, "pageB": 33, "in": {"C. Miaud and R. Guyétan (eds), Current Studies in Herpetology. Le Bourget du Lac, France: Société Herpétologique de France.
+				{
+					"authors": "Ricqlés, A. D., &amp; M. Laurin", "date": 1999,
+					"title": "The origin of tetrapods.",
+					"pageA": 23, "pageB": 33,
+					"in":
+					{
+						"editors": "C. Miaud &amp; R. Guyétan",
+						"title": "Current Studies in Herpetology.",
+						"publisher": "Le Bourget du Lac, France: Société Herpétologique de France"
+					}
 				},
-				{"authors": "ROTH, B.", "date": 1996, "title": "Homoplastic loss of dart apparatus, phylogeny of the gener., &amp; a phylogenetic taxonomy of the <i>Helminthoglyptidae</i> (<i>Gastropoda</i>: <i>Pulmonata</i>).", "journal": "The Veliger", "volume": 39, "pageA": 18, "pageB": 42
+				{
+					"authors": "Roth, B.", "date": 1996, 
+					"title": "Homoplastic loss of dart apparatus, phylogeny of the genera, and a phylogenetic taxonomy of the <i>Helminthoglyptidae</i> (<i>Gastropoda</i>: <i>Pulmonata</i>).",
+					"journal": "Veliger", "volume": 39, "pageA": 18, "pageB": 42
 				},
-				{"authors": "Rowe, T.", "date": 1988, "title": "Definition, diagnosi., &amp; origin of <i>Mammalia</i>.", "journal": "J. Vert. Paleontol.", "volume": 8, "pageA": 241, "pageB": 264
+				{
+					"authors": "Rowe, T.", "date": 1988, "title": "Definition, diagnosis, and origin of <i>Mammalia</i>.",
+					"journal": "J. Vert. Paleontol.", "volume": 8, "pageA": 241, "pageB": 264
 				},
-				{"authors": "RUTA, M., M. I. COATE., &amp; D. L. J. QUICKE.", "date": 2003, "title": "Early tetrapod relationships revisited.", "journal": "Biol. Rev.", "volume": 78, "pageA": 251, "pageB": 345
+				{
+					"authors": "Ruta, M., M. I. Coates, &amp; D. L. J. Quicke",
+					"date": 2003,
+					"title": "Early tetrapod relationships revisited.",
+					"journal": "Biol. Rev.", "volume": 78, "pageA": 251, "pageB": 345
 				},
-				{"authors": "SANGSTER, G.", "date": 2005, "title": "A name for the clade formed by owlet-nightjars, swifts and hummingbirds (<i>Aves</i>).", "journal": "Zootaxa", "volume": 799, "pageA": 1, "pageB": 6
+				{
+					"authors": "Sangster, G.", "date": 2005,
+					"title": "A name for the clade formed by owlet-nightjars, swifts and hummingbirds (<i>Aves</i>).",
+					"journal": "Zootaxa", "volume": 799, "pageA": 1, "pageB": 6
 				},
-				{"authors": "Schander, C.", "date": 1997, "title": "Taxonomy and phylogeny of the <i>Pyramidellidae</i> (<i>Mollusca</i>, <i>Gastropoda</i>, <i>Heterobranchia</i>). Ph. D. dissertation, Department of Zoology, G&ouml;teborg University.
+				{
+					"authors": "Schander, C.", "date": 1997,
+					"title": "Taxonomy and phylogeny of the <i>Pyramidellidae</i> (<i>Mollusca</i>, <i>Gastropoda</i>, <i>Heterobranchia</i>).",
+					"note": "Ph.D. dissertation, Department of Zoology, Göteborg University"
 				},
-				{"authors": "SCHWENK K.", "date": 1994, "title": "Systematics and subjectivity: The phylogeny and classification of iguanian lizards revisited.", "journal": "Herpetol. Rev.", "volume": 24, "pageA": 53, "pageB": 57
+				{
+					"authors": "Schwenk K.", "date": 1994,
+					"title": "Systematics and subjectivity: The phylogeny and classification of iguanian lizards revisited.",
+					"journal": "Herpetol. Rev.", "volume": 24, "pageA": 53, "pageB": 57
 				},
-				{"authors": "SENTER, P.", "date": 2005, "title": "Phylogenetic taxonomy and the names of the major archosaurian (<i>Reptilia</i>) clades. PaleoBios 25:1-7.
+				{
+					"authors": "Senter, P.", "date": 2005,
+					"title": "Phylogenetic taxonomy and the names of the major archosaurian (<i>Reptilia</i>) clades.",
+					"journal": "PaleoBios", "volume": 25, "pageA": 1, "pageB": 7
 				},
-				{"authors": "SERENO, P. C.", "date": 1991, "title": "Basal archosaurs: Phylogenetic relationships and functional implications. Jo. Vert. Paleontol. 11(supplement): 1-53.
+				{
+					"authors": "Sereno, P. C.", "date": 1991,
+					"title": "Basal archosaurs: Phylogenetic relationships and functional implications.",
+					"journal": "J. Vert. Paleontol.", "volume": 11, "issue": "supplement", "pageA": 1, "pageB": 53
 				},
-				{"authors": "SMEDMARK, J. E. E. and T. Eriksson.", "date": 2002, "title": "Phylogenetic relationships of <i>Geum</i> (<i>Rosaceae</i>) and relatives inferred from the nrITS and trnL-trnF regions.", "journal": "Syst. Bot.", "volume": 27, "pageA": 303, "pageB": 317
+				{
+					"authors": "Smedmark, J. E. E., &amp; T. Eriksson", "date": 2002,
+					"title": "Phylogenetic relationships of <i>Geum</i> (<i>Rosaceae</i>) and relatives inferred from the <i>nrITS</i> and <i>trnL-trnF</i> regions.",
+					"journal": "Syst. Bot.", "volume": 27, "pageA": 303, "pageB": 317
 				},
-				{"authors": "STEFANOVIC, S., D. F. AUSTI., &amp; R. G. Olmstead.", "date": 2003, "title": "Classification of <i>Convolvulaceae</i>: a phylogenetic approach.", "journal": "Syst. Bot.", "volume": 28, "pageA": 791, "pageB": 806
+				{
+					"authors": "Stefanovic, S., D. F. Austin, &amp; R. G. Olmstead", "date": 2003,
+					"title": "Classification of <i>Convolvulaceae</i>: a phylogenetic approach.",
+					"journal": "Syst. Bot.", "volume": 28, "pageA": 791, "pageB": 806
 				},
-				{"authors": "SWANN, E. C., E. M. FRIEDER., &amp; D. J. MCLAUGHLIN.", "date": 1999, "title": "<i>Microbotryum</i>, <i>Kriegeria</i> and the changing paradigm in basidiomycete classification.", "journal": "Mycologia", "volume": 91, "pageA": 51, "pageB": 66
+				{
+					"authors": "Swann, E. C., E. M. Frieder., &amp; D. J. McLaughlin", "date": 1999,
+					"title": "<i>Microbotryum</i>, <i>Kriegeria</i> and the changing paradigm in basidiomycete classification.",
+					"journal": "Mycologia", "volume": 91, "pageA": 51, "pageB": 66
 				},
-				{"authors": "TAYLOR, M. P., &amp; D. NAISH.", "date": 2005, "title": "The phylogenetic taxonomy of <i>Diplodocoidea</i> (<i>Dinosauria</i>: <i>Sauropoda</i>).", "journal": "PaleoBios", "volume": 25, "pageA": 1, "pageB": 7
+				{
+					"authors": "Taylor, M. P., &amp; D. Naish", "date": 2005,
+					"title": "The phylogenetic taxonomy of <i>Diplodocoidea</i> (<i>Dinosauria</i>: <i>Sauropoda</i>).",
+					"journal": "PaleoBios", "volume": 25, "pageA": 1, "pageB": 7
 				},
-				{"authors": "VALLIN, G., &amp; M. Laurin.", "date": 2004, "title": "Cranial morphology and affinities of <i>Microbrachis</i., &amp; a reappraisal of the phylogeny and lifestyle of the first amphibians.", "journal": "J. Vert. Paleontol.", "volume": 24, "pageA": 56, "pageB": 72
+				{
+					"authors": "Vallin, G., &amp; M. Laurin.", "date": 2004,
+					"title": "Cranial morphology and affinities of <i>Microbrachis</i>, and a reappraisal of the phylogeny and lifestyle of the first amphibians.",
+					"journal": "J. Vert. Paleontol.", "volume": 24, "pageA": 56, "pageB": 72
 				},
-				{"authors": "WADDELL P. J., Y. CAO, J. HAU., &amp; M. HASEGAWA.", "date": 1999, "title": "Using novel phylogenetic methods to evaluate mammalian mtDNA, including amino acid-invariant sites-LogDet plus site stripping, to detect internal conflicts in the data, with special reference to the positions of hedgehog, armadill., &amp; elephant.", "journal": "Syst. Biol.", "volume": 48, "pageA": 31, "pageB": 53
+				{
+					"authors": "Waddell, P. J., Y. Cao, J. Hauf, &amp; M. Hasegawa.", "date": 1999,
+					"title": "Using novel phylogenetic methods to evaluate mammalian mtDNA, including amino acid-invariant sites-LogDet plus site stripping, to detect internal conflicts in the data, with special reference to the positions of hedgehog, armadillo, and elephant.",
+					"journal": "Syst. Biol.", "volume": 48, "pageA": 31, "pageB": 53
 				},
-				{"authors": "WARHEIT, K. I.", "date": 1992, "title": "The role of morphometrics and cladistics in the taxonomy of fossils: A paleornithological example.", "journal": "Syst. Biol.", "volume": 41, "pageA": 345, "pageB": 369
+				{
+					"authors": "Warheit, K. I.", "date": 1992,
+					"title": "The role of morphometrics and cladistics in the taxonomy of fossils: a paleornithological example.",
+					"journal": "Syst. Biol.", "volume": 41, "pageA": 345, "pageB": 369
 				},
-				{"authors": "W&icirc;JCIK, J. M., &amp; M. Wolsan.", "date": 1998, "title": "Evolution of shrews. Bialowieza, Poland: Mammal Research Institute, Polish Academy of Sciences.
+				{
+					"authors": "Wójcik, J. M., &amp; M. Wolsan", "date": 1998,
+					"title": "Evolution of shrews.",
+					"publisher": "Białowieża, Poland: Mammal Research Institute, Polish Academy of Sciences"
 				},
-				{"authors": "WILLEMS, W. R., A. WALLBERG, U. JONDELIUS, D. T. J. LITTLEWOOD, T. BACKELJAU, E. R. SCHOCKAER., &amp; T. J. Artois.", "date": 2006, "title": "Filling a gap in the phylogeny of flatworms: relationships within the <i>Rhabdocoela</i> (<i>Platyhelminthes</i>), inferred from 18S ribosomal DNA sequences.", "journal": "Zool. Scr.", "volume": 35, "pageA": 1, "pageB": 17
+				{
+					"authors": "Willems, W. R., A. Wallberg, U. Jondelius, D. T. J. Littlewood, T. Backeljau, E. R. Schockaert, &amp; T. J. Artois",
+					"date": 2006,
+					"title": "Filling a gap in the phylogeny of flatworms: relationships within the <i>Rhabdocoela</i> (<i>Platyhelminthes</i>), inferred from 18S ribosomal DNA sequences.",
+					"journal": "Zool. Scr.", "volume": 35, "pageA": 1, "pageB": 17
 				},
-				{"authors": "WILLIAMS, B. A., &amp; R. F. KAY.", "date": 1995, "title": "The taxon <i>Anthropoidea</i> and the crown clade concept.", "journal": "Evol. Anthropol.", "volume": 3, "pageA": 188, "pageB": 190
+				{
+					"authors": "Williams, B. A., &amp; R. F. Kay", "date": 1995,
+					"title": "The taxon <i>Anthropoidea</i> and the crown clade concept.",
+					"journal": "Evol. Anthropol.", "volume": 3, "pageA": 188, "pageB": 190
 				},
-				{"authors": "WILSON, J. A., &amp; P. C. SERENO.", "date": 1998, "title": "Early evolution and higher-level phylogeny of sauropod dinosaurs. Jo. Vert. Paleontol. 18 (supplement): 1-68.
+				{
+					"authors": "Wilson, J. A., &amp; P. C. Sereno",
+					"date": 1998, "title": "Early evolution and higher-level phylogeny of sauropod dinosaurs.",
+					"journal": "J. Vert. Paleontol.", "volume": 18, "issue": "supplement", "pageA": 1, "pageB": 68
 				},
-				{"authors": "WOLFE, A. D., S. L. DATWYLE., &amp; C. P. RANDLE.", "date": 2002, "title": "A phylogenetic and biogeographic analysis of the <i>Cheloneae</i> (<i>Scrophulariaceae</i>) based on ITS and matK sequence data.", "journal": "Syst. Bot.", "volume": 27, "pageA": 138, "pageB": 148
+				{
+					"authors": "Wolfe, A. D., S. L. Datwyler, &amp; C. P. Randle", "date": 2002,
+					"title": "A phylogenetic and biogeographic analysis of the <i>Cheloneae</i> (<i>Scrophulariaceae</i>) based on ITS and matK sequence data.",
+					"journal": "Syst. Bot.", "volume": 27, "pageA": 138, "pageB": 148
 				},
-				{"authors": "Wolsan, M.", "date": 1993, "title": "Phylogeny and classification of early European <i>Mustelida</i> (<i>Mammalia</i>: <i>Carnivora</i>).", "journal": "Acta Theriol.", "volume": 38, "pageA": 345, "pageB": 384
+				{
+					"authors": "Wolsan, M.", "date": 1993,
+					"title": "Phylogeny and classification of early European <i>Mustelida</i> (<i>Mammalia</i>: <i>Carnivora</i>).",
+					"journal": "Acta Theriol.", "volume": 38, "pageA": 345, "pageB": 384
 				},
-				{"authors": "Wyss, A. R.", "date": 2001, "title": "Digging up fresh clues about the origin of mammals.", "journal": "Science", "volume": 292, "pageA": 1496, "pageB": 1497
+				{
+					"authors": "Wyss, A. R.", "date": 2001,
+					"title": "Digging up fresh clues about the origin of mammals.",
+					"journal": "Science", "volume": 292, "pageA": 1496, "pageB": 1497
 				},
-				{"authors": "Wyss, A. R., &amp; J. J. FLYNN.", "date": 1993, "title": "A phylogentic analysis and definition of the <i>Carnivora</i>.", "pageA": 32, "pageB": 52, "in": {"F. S. Szalay, M. J. Novace., &amp; M. C. McKenna (eds.), Mammal phylogeny: placentals. Springer-Verlag, New York.
+				{
+					"authors": "Wyss, A. R., &amp; J. J. Flynn", "date": 1993,
+					"title": "A phylogenetic analysis and definition of the <i>Carnivora</i>.",
+					"pageA": 32, "pageB": 52,
+					"in":
+					{
+						"editors": "F. S. Szalay, M. J. Novacek, &amp; M. C. McKenna",
+						"title": "Mammal Phylogeny: Placentals.",
+						"publisher": "New York: Springer-Verlag"
+					}
 				},
-				{"authors": "Wyss, A. R., &amp; J. J. FLYNN.", "date": 1995, "title": "&quot;<i>Anthropoidea</i>:&quot; a name, not an entity.", "journal": "Evol. Anthropol.", "volume": 3, "pageA": 187, "pageB": 188			
+				{
+					"authors": "Wyss, A. R., &amp; J. J. Flynn", "date": 1995,
+					"title": "&quot;<i>Anthropoidea</i>:&quot; a name, not an entity.",
+					"journal": "Evol. Anthropol.", "volume": 3, "pageA": 187, "pageB": 188			
 				}
 			]
 		},
@@ -1290,7 +1427,7 @@
 				},{"authors": "FOREY, P. L.", "date": 2002, "title": "PhyloCode--pain, no gain.", "journal": "Taxon", "volume": 51, "pageA": 43, "pageB": 54
 				},{"authors": "GAO, K. Q., &amp; Y. L. SUN.", "date": 2003, "title": "Is the PhyloCode better than Linnaean system?", "journal": "New development and debate on biological nomenclatural issues. Chinese Sci. Bull.", "volume": 48, "pageA": 308, "pageB": 312
 				},{"authors": "Ghiselin, M. T.", "date": 1995, "title": "Ostensive definitions of the names of species and clades.", "journal": "Biol. Phil.", "volume": 10, "pageA": 219, "pageB": 222
-				},{"authors": "GREUTER, W.", "date": 2004, "title": "Recent developments in international biological nomenclature.", "journal": "Turk. Jo. Bot.", "volume": 28, "pageA": 17, "pageB": 26
+				},{"authors": "GREUTER, W.", "date": 2004, "title": "Recent developments in international biological nomenclature.", "journal": "Turk. J. Bot.", "volume": 28, "pageA": 17, "pageB": 26
 				},{"authors": "JANOVEC, J. P., L. G. CLAR., &amp; S. A. MORI.", "date": 2003, "title": "Is the neotropical flora ready for the PhyloCode?", "journal": "Bot. Rev.", "volume": 69, "pageA": 22, "pageB": 43
 				},{"authors": "J&Oslash;RGENSEN, P. M.", "date": 2002, "title": "Two nomenclatural systems? Taxon 51: 737.
 				},{"authors": "J&Oslash;RGENSEN, P. M.", "date": 2004, "title": "Rankless names in the Code? Taxon 53: 162.
