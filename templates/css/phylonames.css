@@ -1,6 +1,7 @@
 a{color:#dd9040}
 body{margin:50px 0;background-repeat:repeat-y}
 h1, h2, h3, h4, h5, h6 {margin-top:0;padding-top:0}
+i i {font-style:normal}
 input[type="image"] {vertical-align:middle}
 section{padding-top:50px}
 #content{padding:0 3em 100px}
@@ -11,7 +12,6 @@ section{padding-top:50px}
 .muted{opacity:0.4;filter:alpha(opacity=40)}
 .navbar-inverse{background:#444}
 .scientific{font-style:italic}
-
 /*
  * Side navigation
  *
