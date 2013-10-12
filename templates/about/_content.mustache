@@ -2,7 +2,7 @@
 					<h1>About the ISPN</h1>
 					<p>
 						The <strong>International Society for Phylogenetic Nomenclature</strong> was established to encourage and facilitate the development and use of, and communication about, phylogenetic nomenclature.
-						Toward this end, the ISPN organizes periodic <strong>scientific meetings</strong> and is overseeing the completion and implementation of a <strong>code of rules</strong> to govern phylogenetic nomenclature &mdash; the <a href="http://phylocode.org"><i>PhyloCode</i></a>.
+						Toward this end, the ISPN organizes periodic <strong>scientific meetings</strong> and is overseeing the completion and implementation of a <strong>code of rules</strong> to govern phylogenetic nomenclature &mdash; the <strong><a href="http://phylocode.org"><i>PhyloCode</i></a></strong>.
 					</p>
 					<p>
 						The ISPN is governed by a <strong><a href="#council">Council</a></strong>, of which all members except the Program Director are elected.
@@ -62,7 +62,7 @@
 						</dd>
 						{{/council.officers}}
 					</dl>
-					<h3>Council Members at Large</h3>
+					<h3>Council Members at Large <small>(by year of term expiration)</small></h3>
 					<dl class="dl-horizontal">
 						{{#council.atlarge}}
 						<dt>{{year}}</dt>
@@ -78,7 +78,12 @@
 					<h2>ISPN Committees</h2>
 					{{#committees}}
 					<section id="{{code}}">
-						<h3>{{name}}</h3>
+						<h3>
+							{{name}}
+							{{#note}}
+							<small>({{note}})</small>
+							{{/note}}
+						</h3>
 						<dl class="dl-horizontal">
 							{{#sections}}
 							<dt>{{name}}</dt>

@@ -18,7 +18,7 @@
 		[
 			{
 				"title": "President",
-				"name": "Mieczyslaw Wolsan",
+				"name": "Mięczysław Wolsan",
 				"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
 				"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
 			},
@@ -62,8 +62,7 @@
 					},
 					{
 						"name": "David Marjanović",
-						"organization": "Museum für Naturkunde, Berlin",
-						"email": { "name": "david.marjanovic", "domain": "mfn-berlin.de" }
+						"email": { "name": "david.marjanovic", "domain": "gmx.at" }
 					}
 				]
 			},
@@ -106,6 +105,7 @@
 		{
 			"name": "Committee on Phylogenetic Nomenclature",
 			"code": "cpn",
+			"note": "by year of term expiration",
 			"sections":
 			[
 				{
@@ -129,8 +129,7 @@
 						},
 						{
 							"name": "David Marjanović",
-							"organization": "Museum für Naturkunde, Berlin",
-							"email": { "name": "david.marjanovic", "domain": "mfn-berlin.de" }
+							"email": { "name": "david.marjanovic", "domain": "gmx.at" }
 						}
 					]
 				},
@@ -141,7 +140,7 @@
 						{
 							"name": "Brian Andres",
 							"organization": "University of South Florida",
-							"email": { "name": "brian.andres", "domain": "aya.yale.edu" }
+							"email": { "name": "brianandres", "domain": "usf.edu" }
 						},
 						{
 							"name": "Nico Cellinese",
@@ -180,7 +179,7 @@
 							"email": { "name": "dequeirozk", "domain": "si.edu" }
 						},
 						{
-							"name": "Mieczyslaw Wolsan",
+							"name": "Mięczysław Wolsan",
 							"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
 							"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
 						}
@@ -236,8 +235,7 @@
 						},
 						{
 							"name": "David Marjanović",
-							"organization": "Museum für Naturkunde, Berlin",
-							"email": { "name": "david.marjanovic", "domain": "mfn-berlin.de" }
+							"email": { "name": "david.marjanovic", "domain": "gmx.at" }
 						}
 					]
 				}
