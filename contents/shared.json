@@ -53,7 +53,7 @@
 			"summary": "Philip Cantino reports on the progress of the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</i>.",
 			"action": "Read the Report",
 			"href": "/news/items/2012-02-01",
-			"featured": false
+			"featured": true
 		},
 		{
 			"id": "2011-11-16",
@@ -80,7 +80,7 @@
 			"summary": "Version 4c of the draft <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i> has been posted online.",
 			"action": "Read the Draft",
 			"href": "//phylocode.org",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2008-07-23",
