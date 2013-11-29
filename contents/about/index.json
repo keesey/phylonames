@@ -18,7 +18,7 @@
 		[
 			{
 				"title": "President",
-				"name": "Mięczysław Wolsan",
+				"name": "Mieczysław Wolsan",
 				"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
 				"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
 			},
@@ -179,7 +179,7 @@
 							"email": { "name": "dequeirozk", "domain": "si.edu" }
 						},
 						{
-							"name": "Mięczysław Wolsan",
+							"name": "Mieczysław Wolsan",
 							"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
 							"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
 						}
