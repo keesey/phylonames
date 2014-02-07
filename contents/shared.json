@@ -1,7 +1,7 @@
 {
 	"site-title": "International Society for Phylogenetic Nomenclature",
 	"site-title-abbr": "ISPN",
-	"year": 2013,
+	"year": 2014,
 	"navbar": [
 		{
 			"label": "About the ISPN",
@@ -29,6 +29,15 @@
 	"news":
 	[
 		{
+			"id": "2014-02-11",
+			"date": "11 Feb 2014",
+			"title": "PhyloCode 5.0 Beta Version",
+			"summary": "A new version of the <i>PhyloCode</i> will be posted once the Preface and Index have been completed. A beta version is available on request.",
+			"action": "Read More",
+			"href": "/news/items/2014-02-11",
+			"featured": true
+		},
+		{
 			"id": "2013-10-17",
 			"date": "17 Oct 2013",
 			"title": "Companion Volume: Progress Report",
@@ -53,7 +62,7 @@
 			"summary": "Philip Cantino reports on the progress of the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</i>.",
 			"action": "Read the Report",
 			"href": "/news/items/2012-02-01",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2011-11-16",
