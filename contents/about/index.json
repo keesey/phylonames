@@ -18,21 +18,21 @@
 		[
 			{
 				"title": "President",
-				"name": "Mieczysław Wolsan",
-				"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
-				"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
-			},
-			{
-				"title": "Past-President",
-				"name": "Kevin Padian",
-				"organization": "University of California, Berkeley",
-				"email": { "name": "kpadian", "domain": "berkeley.edu" }
-			},
-			{
-				"title": "President-Elect",
 				"name": "Michael Donoghue",
 				"organization": "Yale University",
 				"email": { "name": "michael.donoghue", "domain": "yale.edu" }
+			},
+			{
+				"title": "Past-President",
+				"name": "Mieczysław Wolsan",
+				"organization": "Polish Academy of Sciences",
+				"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
+			},
+			{
+				"title": "President-Elect",
+				"name": "Philip Cantino",
+				"organization": "Ohio University",
+				"email": { "name": "cantino", "domain": "ohio.edu" }
 			},
 			{
 				"title": "Secretary",
@@ -41,44 +41,26 @@
 				"email": { "name": "michel.laurin", "domain": "upmc.fr" }
 			},
 			{
-				"title": "Treasurer",
+				"title": "Treasurer/Webmaster",
 				"name": "Michael Keesey",
 				"email": { "name": "keesey", "domain": "gmail.com" }
-			},
-			{
-				"title": "Program Director"
 			}
 		],
 		"atlarge":
 		[
 			{
-				"year": 2014,
-				"members":
-				[
-					{
-						"name": "Philip Cantino",
-						"organization": "Ohio University",
-						"email": { "name": "cantino", "domain": "ohio.edu" }
-					},
-					{
-						"name": "David Marjanović",
-						"email": { "name": "david.marjanovic", "domain": "gmx.at" }
-					}
-				]
-			},
-			{
 				"year": 2015,
 				"members":
 				[
 					{
-						"name": "Pamela Soltis",
-						"organization": "Florida Museum of Natural History",
-						"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
-					},
-					{
 						"name": "David Hillis",
 						"organization": "University of Texas",
 						"email": { "name": "dhillis", "domain": "mail.utexas.edu" }
+					},
+					{
+						"name": "Pamela Soltis",
+						"organization": "University of Florida",
+						"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
 					}
 				]
 			},
@@ -97,6 +79,22 @@
 						"email": { "name": "dtank", "domain": "uidaho.edu" }
 					}
 				]
+			},
+			{
+				"year": 2017,
+				"members":
+				[
+					{
+						"name": "Erika Edwards",
+						"organization": "Brown University",
+						"email": { "name": "erika_edwards", "domain": "brown.edu" }
+					},
+					{
+						"name": "Thomas Near",
+						"organization": "Yale University",
+						"email": { "name": "thomas.near", "domain": "yale.edu" }
+					}
+				]
 			}
 		]
 	},
@@ -108,31 +106,6 @@
 			"note": "by year of term expiration",
 			"sections":
 			[
-				{
-					"name": 2014,
-					"members":
-					[
-						{
-							"name": "Frank (Andy) Anderson",
-							"organization": "Southern Illinois University",
-							"email": { "name": "feander", "domain": "siu.edu" }
-						},
-						{
-							"name": "Philip Cantino",
-							"organization": "Ohio University",
-							"email": { "name": "cantino", "domain": "ohio.edu" }
-						},
-						{
-							"name": "Michel Laurin",
-							"organization": "CNRS, Paris",
-							"email": { "name": "michel.laurin", "domain": "upmc.fr" }
-						},
-						{
-							"name": "David Marjanović",
-							"email": { "name": "david.marjanovic", "domain": "gmx.at" }
-						}
-					]
-				},
 				{
 					"name": 2015,
 					"members":
@@ -164,6 +137,11 @@
 					"members":
 					[
 						{
+							"name": "Kevin de Queiroz",
+							"organization": "Smithsonian Institution",
+							"email": { "name": "dequeirozk", "domain": "si.edu" }
+						},
+						{
 							"name": "Sean Graham",
 							"organization": "University of British Columbia",
 							"email": { "name": "sean.graham", "domain": "ubc.ca" }
@@ -174,14 +152,35 @@
 							"email": { "name": "olmstead", "domain": "u.washington.edu" }
 						},
 						{
-							"name": "Kevin de Queiroz",
-							"organization": "Smithsonian Institution",
-							"email": { "name": "dequeirozk", "domain": "si.edu" }
+							"name": "Mieczysław Wolsan",
+							"organization": "Polish Academy of Sciences",
+							"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
+						}
+					]
+				},
+				{
+					"name": 2017,
+					"members":
+					[
+						{
+							"name": "John Hall",
+							"organization": "University of Maryland",
+							"email": { "name": "jdhall", "domain": "umd.edu" }
 						},
 						{
-							"name": "Mieczysław Wolsan",
-							"organization": "Muzeum i Instytut Zoologii Polskiej Akademii Nauk",
-							"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
+							"name": "David Hibbett",
+							"organization": "Clark University",
+							"email": { "name": "dhibbett", "domain": "clarku.edu" }
+						},
+						{
+							"name": "David Marjanović",
+							"organization": "Museum für Naturkunde, Berlin",
+							"email": { "name": "david.marjanovic", "domain": "gmx.at" }
+						},
+						{
+							"name": "Greg Rouse",
+							"organization": "University of California, San Diego",
+							"email": { "name": "grouse", "domain": "ucsd.edu" }
 						}
 					]
 				}
@@ -215,27 +214,6 @@
 							"name": "William Piel",
 							"organization": "Yale University",
 							"email": { "name": "william.piel", "domain": "yale.edu" }
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Publicity Committee",
-			"code": "publicity",
-			"sections":
-			[
-				{
-					"name": "Members",
-					"members":
-					[
-						{
-							"name": "Michael Keesey",
-							"email": { "name": "keesey", "domain": "gmail.com" }
-						},
-						{
-							"name": "David Marjanović",
-							"email": { "name": "david.marjanovic", "domain": "gmx.at" }
 						}
 					]
 				}
