@@ -18,21 +18,21 @@
 		[
 			{
 				"title": "President",
+				"name": "Philip Cantino",
+				"organization": "Ohio University",
+				"email": { "name": "cantino", "domain": "ohio.edu" }
+			},
+			{
+				"title": "Past-President",
 				"name": "Michael Donoghue",
 				"organization": "Yale University",
 				"email": { "name": "michael.donoghue", "domain": "yale.edu" }
 			},
 			{
-				"title": "Past-President",
-				"name": "Mieczysław Wolsan",
-				"organization": "Polish Academy of Sciences",
-				"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
-			},
-			{
 				"title": "President-Elect",
-				"name": "Philip Cantino",
-				"organization": "Ohio University",
-				"email": { "name": "cantino", "domain": "ohio.edu" }
+				"name": "Kevin de Queiroz",
+				"organization": "Smithsonian Institution",
+				"email": { "name": "dequeirozk", "domain": "si.edu" }
 			},
 			{
 				"title": "Secretary",
@@ -48,22 +48,6 @@
 		],
 		"atlarge":
 		[
-			{
-				"year": 2015,
-				"members":
-				[
-					{
-						"name": "David Hillis",
-						"organization": "University of Texas",
-						"email": { "name": "dhillis", "domain": "mail.utexas.edu" }
-					},
-					{
-						"name": "Pamela Soltis",
-						"organization": "University of Florida",
-						"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
-					}
-				]
-			},
 			{
 				"year": 2016,
 				"members":
@@ -95,6 +79,22 @@
 						"email": { "name": "thomas.near", "domain": "yale.edu" }
 					}
 				]
+			},
+			{
+				"year": 2018,
+				"members":
+				[
+					{
+						"name": "Wendy Clement",
+						"organization": "College of New Jersey",
+						"email": { "name": "clementw", "domain": "tcnj.edu" }
+					},
+					{
+						"name": "Torsten Eriksson",
+						"organization": "University Museum of Bergen",
+						"email": { "name": "torsten.eriksson", "domain": "uib.no" }
+					}
+				]
 			}
 		]
 	},
@@ -106,32 +106,6 @@
 			"note": "by year of term expiration",
 			"sections":
 			[
-				{
-					"name": 2015,
-					"members":
-					[
-						{
-							"name": "Brian Andres",
-							"organization": "University of South Florida",
-							"email": { "name": "brianandres", "domain": "usf.edu" }
-						},
-						{
-							"name": "Nico Cellinese",
-							"organization": "Florida Museum of Natural History",
-							"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
-						},
-						{
-							"name": "James A. Doyle",
-							"organization": "University of California, Davis",
-							"email": { "name": "jadoyle", "domain": "ucdavis.edu" }
-						},
-						{
-							"name": "David Hillis",
-							"organization": "University of Texas",
-							"email": { "name": "dhillis", "domain": "mail.utexas.edu" }
-						}
-					]
-				},
 				{
 					"name": 2016,
 					"members":
@@ -181,6 +155,32 @@
 							"name": "Greg Rouse",
 							"organization": "University of California, San Diego",
 							"email": { "name": "grouse", "domain": "ucsd.edu" }
+						}
+					]
+				},
+				{
+					"name": 2018,
+					"members":
+					[
+						{
+							"name": "Sina Adl",
+							"organization": "University of Saskatchewan",
+							"email": { "name": "sina.adl", "domain": "usask.ca" }
+						},
+						{
+							"name": "Philip Cantino",
+							"organization": "Ohio University",
+							"email": { "name": "cantino", "domain": "ohio.edu" }
+						},
+						{
+							"name": "Nico Cellinese",
+							"organization": "University of Florida",
+							"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
+						},
+						{
+							"name": "Michel Laurin",
+							"organization": "CNRS, Paris",
+							"email": { "name": "michel.laurin", "domain": "upmc.fr" }
 						}
 					]
 				}

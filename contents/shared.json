@@ -29,13 +29,22 @@
 	"news":
 	[
 		{
+			"id": "2015-08-30",
+			"date": "30 Aug 2015",
+			"title": "Election Results",
+			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2016 election results are available.",
+			"action": "More Information",
+			"href": "/about#council",
+			"featured": true
+		},
+		{
 			"id": "2014-10-24",
 			"date": "24 Oct 2014",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2015 election results are available.",
 			"action": "More Information",
 			"href": "/about#council",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2014-08-18",
