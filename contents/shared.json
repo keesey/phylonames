@@ -38,6 +38,15 @@
 			"featured": true
 		},
 		{
+			"id": "2016-02-27",
+			"date": "27 Feb 2016",
+			"title": "Companion Volume: Progress Report",
+			"summary": "Philip Cantino reports on the progress of <i>Phylonyms</i>, the companion volume to the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i>.",
+			"action": "Read the Report",
+			"href": "/news/items/2016-02-27",
+			"featured": true
+		},
+		{
 			"id": "2015-08-30",
 			"date": "30 Aug 2015",
 			"title": "Election Results",
@@ -62,7 +71,7 @@
 			"summary": "Philip Cantino reports on the progress of <i>Phylonyms</i>, the companion volume to the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i>.",
 			"action": "Read the Report",
 			"href": "/news/items/2014-08-18",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2014-02-25",
