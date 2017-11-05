@@ -18,27 +18,27 @@
 		[
 			{
 				"title": "President",
-				"name": "Kevin de Queiroz",
-				"organization": "Smithsonian Institution",
-				"email": { "name": "dequeirozk", "domain": "si.edu" }
-			},
-			{
-				"title": "Past-President",
-				"name": "Philip Cantino",
-				"organization": "Ohio University",
-				"email": { "name": "cantino", "domain": "ohio.edu" }
-			},
-			{
-				"title": "President-Elect",
 				"name": "David Tank",
 				"organization": "University of Idaho",
 				"email": { "name": "dtank", "domain": "uidaho.edu" }
 			},
 			{
+				"title": "Past-President",
+				"name": "Kevin de Queiroz",
+				"organization": "Smithsonian Institution",
+				"email": { "name": "dequeirozk", "domain": "si.edu" }
+			},
+			{
+				"title": "President-Elect",
+				"name": "Sina Adl",
+				"organization": "University of Saskatchewan)",
+				"email": { "name": "sina.adl", "domain": "usask.ca" }
+			},
+			{
 				"title": "Secretary",
 				"name": "Michel Laurin",
 				"organization": "CNRS, Paris",
-				"email": { "name": "michel.laurin", "domain": "mnhn.fr" }
+				"email": { "name": "michel.laurin", "domain": "upmc.fr" }
 			},
 			{
 				"title": "Treasurer",
@@ -54,22 +54,6 @@
 		],
 		"atlarge":
 		[
-			{
-				"year": 2017,
-				"members":
-				[
-					{
-						"name": "Erika Edwards",
-						"organization": "Brown University",
-						"email": { "name": "erika_edwards", "domain": "brown.edu" }
-					},
-					{
-						"name": "Thomas Near",
-						"organization": "Yale University",
-						"email": { "name": "thomas.near", "domain": "yale.edu" }
-					}
-				]
-			},
 			{
 				"year": 2018,
 				"members":
@@ -91,14 +75,30 @@
 				"members":
 				[
 					{
-						"name": "Pam Soltis",
-						"organization": "University of Florida",
-						"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
-					},
-					{
 						"name": "Micah Dunthorn",
 						"organization": "University of Kaiserslautern, Germany",
 						"email": { "name": "colpodea", "domain": "gmail.com" }
+					},
+					{
+						"name": "Pam Soltis",
+						"organization": "University of Florida",
+						"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
+					}
+				]
+			},
+			{
+				"year": 2020,
+				"members":
+				[
+					{
+						"name": "David Hibbett",
+						"organization": "Clark University",
+						"email": { "name": "dhibbett", "domain": "clarku.edu" }
+					},
+					{
+						"name": "Greg Rouse",
+						"organization": "University of California, San Diego",
+						"email": { "name": "grouse", "domain": "ucsd.edu" }
 					}
 				]
 			}
@@ -112,32 +112,6 @@
 			"note": "by year of term expiration",
 			"sections":
 			[
-				{
-					"name": 2017,
-					"members":
-					[
-						{
-							"name": "John Hall",
-							"organization": "University of Maryland",
-							"email": { "name": "jdhall", "domain": "umd.edu" }
-						},
-						{
-							"name": "David Hibbett",
-							"organization": "Clark University",
-							"email": { "name": "dhibbett", "domain": "clarku.edu" }
-						},
-						{
-							"name": "David Marjanović",
-							"organization": "Museum für Naturkunde, Berlin",
-							"email": { "name": "david.marjanovic", "domain": "gmx.at" }
-						},
-						{
-							"name": "Greg Rouse",
-							"organization": "University of California, San Diego",
-							"email": { "name": "grouse", "domain": "ucsd.edu" }
-						}
-					]
-				},
 				{
 					"name": 2018,
 					"members":
@@ -160,7 +134,7 @@
 						{
 							"name": "Michel Laurin",
 							"organization": "CNRS, Paris",
-							"email": { "name": "michel.laurin", "domain": "mnhn.fr" }
+							"email": { "name": "michel.laurin", "domain": "upmc.fr" }
 						}
 					]
 				},
@@ -176,7 +150,7 @@
 						{
 							"name": "Richard Olmstead",
 							"organization": "University of Washington",
-							"email": { "name": "olmstead", "domain": "u.washington.edu" }
+							"email": { "name": "olmstead", "domain": "uw.edu" }
 						},
 						{
 							"name": "George Sangster",
@@ -187,6 +161,32 @@
 							"name": "Mieczysław Wolsan",
 							"organization": "Polish Academy of Sciences",
 							"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
+						}
+					]
+				},
+				{
+					"name": 2020,
+					"members":
+					[
+						{
+							"name": "James Doyle",
+							"organization": "University of California, Davis)",
+							"email": { "name": "jadoyle", "domain": "ucdavis.edu" }
+						},
+						{
+							"name": "Micah Dunthorn",
+							"organization": "University of Kaiserslautern, Germany",
+							"email": { "name": "colpodea", "domain": "gmail.com" }
+						},
+						{
+							"name": "Sean Graham",
+							"organization": "University of British Columbia",
+							"email": { "name": "swgraham", "domain": "mail.ubc.ca" }
+						},
+						{
+							"name": "Max Cardoso Langer",
+							"organization": "Universidade de São Paulo",
+							"email": { "name": "mclanger", "domain": "ffclrp.usp.br" }
 						}
 					]
 				}

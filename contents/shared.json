@@ -29,6 +29,15 @@
 	"news":
 	[
 		{
+			"id": "2017-10-22",
+			"date": "22 Oct 2017",
+			"title": "Election Results",
+			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2018 election results are available.",
+			"action": "More Information",
+			"href": "/about#council",
+			"featured": true
+		},
+		{
 			"id": "2017-06-16",
 			"date": "16 Jun 2017",
 			"title": "Companion Volume: Progress Report",
@@ -44,7 +53,7 @@
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2017 election results are available.",
 			"action": "More Information",
 			"href": "/about#council",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2016-02-27",
