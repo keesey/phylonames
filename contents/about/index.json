@@ -38,7 +38,7 @@
 				"title": "Secretary",
 				"name": "Michel Laurin",
 				"organization": "CNRS, Paris",
-				"email": { "name": "michel.laurin", "domain": "upmc.fr" }
+				"email": { "name": "michel.laurin", "domain": "mnhn.fr" }
 			},
 			{
 				"title": "Treasurer",
@@ -134,7 +134,7 @@
 						{
 							"name": "Michel Laurin",
 							"organization": "CNRS, Paris",
-							"email": { "name": "michel.laurin", "domain": "upmc.fr" }
+							"email": { "name": "michel.laurin", "domain": "mnhn.fr" }
 						}
 					]
 				},
