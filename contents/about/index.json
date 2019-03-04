@@ -18,27 +18,27 @@
 		[
 			{
 				"title": "President",
+				"name": "Sina Adl",
+				"organization": "University of Saskatchewan",
+				"email": { "name": "sina.adl", "domain": "usask.ca" }
+			},
+			{
+				"title": "Past-President",
 				"name": "David Tank",
 				"organization": "University of Idaho",
 				"email": { "name": "dtank", "domain": "uidaho.edu" }
 			},
 			{
-				"title": "Past-President",
-				"name": "Kevin de Queiroz",
-				"organization": "Smithsonian Institution",
-				"email": { "name": "dequeirozk", "domain": "si.edu" }
-			},
-			{
 				"title": "President-Elect",
-				"name": "Sina Adl",
-				"organization": "University of Saskatchewan)",
-				"email": { "name": "sina.adl", "domain": "usask.ca" }
+				"name": "Thomas J. Near",
+				"organization": "Yale University",
+				"email": { "name": "thomas.near", "domain": "yale.edu" }
 			},
 			{
 				"title": "Secretary",
 				"name": "Michel Laurin",
 				"organization": "CNRS, Paris",
-				"email": { "name": "michel.laurin", "domain": "mnhn.fr" }
+				"email": { "name": "michel.laurin", "domain": "upmc.fr" }
 			},
 			{
 				"title": "Treasurer",
@@ -55,29 +55,13 @@
 		"atlarge":
 		[
 			{
-				"year": 2018,
-				"members":
-				[
-					{
-						"name": "Wendy Clement",
-						"organization": "College of New Jersey",
-						"email": { "name": "clementw", "domain": "tcnj.edu" }
-					},
-					{
-						"name": "Torsten Eriksson",
-						"organization": "University Museum of Bergen",
-						"email": { "name": "torsten.eriksson", "domain": "uib.no" }
-					}
-				]
-			},
-			{
 				"year": 2019,
 				"members":
 				[
 					{
 						"name": "Micah Dunthorn",
 						"organization": "University of Kaiserslautern, Germany",
-						"email": { "name": "colpodea", "domain": "gmail.com" }
+						"email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
 					},
 					{
 						"name": "Pam Soltis",
@@ -101,6 +85,22 @@
 						"email": { "name": "grouse", "domain": "ucsd.edu" }
 					}
 				]
+			},
+			{
+				"year": 2021,
+				"members":
+				[
+					{
+						"name": "Brian Andres",
+						"organization": "University of Keele",
+						"email": { "name": "brian.andres", "domain": "aya.yale.edu" }
+					},
+					{
+						"name": "Sandy Carlson",
+						"organization": "University of California, Davis",
+						"email": { "name": "sjcarlson", "domain": "ucdavis.edu" }
+					}
+				]
 			}
 		]
 	},
@@ -112,32 +112,6 @@
 			"note": "by year of term expiration",
 			"sections":
 			[
-				{
-					"name": 2018,
-					"members":
-					[
-						{
-							"name": "Sina Adl",
-							"organization": "University of Saskatchewan",
-							"email": { "name": "sina.adl", "domain": "usask.ca" }
-						},
-						{
-							"name": "Philip Cantino",
-							"organization": "Ohio University",
-							"email": { "name": "cantino", "domain": "ohio.edu" }
-						},
-						{
-							"name": "Nico Cellinese",
-							"organization": "University of Florida",
-							"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
-						},
-						{
-							"name": "Michel Laurin",
-							"organization": "CNRS, Paris",
-							"email": { "name": "michel.laurin", "domain": "mnhn.fr" }
-						}
-					]
-				},
 				{
 					"name": 2019,
 					"members":
@@ -176,7 +150,7 @@
 						{
 							"name": "Micah Dunthorn",
 							"organization": "University of Kaiserslautern, Germany",
-							"email": { "name": "colpodea", "domain": "gmail.com" }
+							"email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
 						},
 						{
 							"name": "Sean Graham",
@@ -187,6 +161,32 @@
 							"name": "Max Cardoso Langer",
 							"organization": "Universidade de São Paulo",
 							"email": { "name": "mclanger", "domain": "ffclrp.usp.br" }
+						}
+					]
+				},
+				{
+					"name": 2021,
+					"members":
+					[
+						{
+							"name": "David Cannatella",
+							"organization": "University of Texas",
+							"email": { "name": "catfish", "domain": "utexas.edu" }
+						},
+						{
+							"name": "Philip Cantino",
+							"organization": "Ohio University",
+							"email": { "name": "cantino", "domain": "ohio.edu" }
+						},
+						{
+							"name": "Nico Cellinese",
+							"organization": "University of Florida",
+							"email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
+						},
+						{
+							"name": "Susan Richardson",
+							"organization": "(Florida Atlantic University",
+							"email": { "name": "srichardson55", "domain": "gmail.com" }
 						}
 					]
 				}
