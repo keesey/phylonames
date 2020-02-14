@@ -29,13 +29,22 @@
 	"news":
 	[
 		{
+			"id": "2020-02-14",
+			"date": "14 Feb 2020",
+			"title": "Election Results",
+			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2020 election results are available.",
+			"action": "More Information",
+			"href": "/about#council",
+			"featured": true
+		},
+		{
 			"id": "2019-03-03",
 			"date": "3 Mar 2019",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2019 election results are available.",
 			"action": "More Information",
 			"href": "/about#council",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2019-01-21",
@@ -174,7 +183,7 @@
 		},
 		{
 			"id": "2008-07-23",
-			"date": "23 July 2008",
+			"date": "23 Jul 2008",
 			"title": "Third Meeting",
 			"summary": "The third meeting of the <abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> was held at Dalhousie University in Halifax, Nova Scotia, 20&ndash;22 July 2008.",
 			"action": "Programme (<abbr class=\"initialism\">PDF</abbr>)",

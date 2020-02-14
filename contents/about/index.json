@@ -17,22 +17,22 @@
 		"officers":
 		[
 			{
-				"title": "President",
-				"name": "Sina Adl",
-				"organization": "University of Saskatchewan",
-				"email": { "name": "sina.adl", "domain": "usask.ca" }
-			},
-			{
-				"title": "Past-President",
-				"name": "David Tank",
-				"organization": "University of Idaho",
-				"email": { "name": "dtank", "domain": "uidaho.edu" }
-			},
-			{
 				"title": "President-Elect",
+				"name": "Pam Soltis",
+				"organization": "University of Florida",
+				"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
+			},
+			{
+				"title": "President",
 				"name": "Thomas J. Near",
 				"organization": "Yale University",
 				"email": { "name": "thomas.near", "domain": "yale.edu" }
+			},
+			{
+				"title": "Past-President",
+				"name": "Sina Adl",
+				"organization": "University of Saskatchewan",
+				"email": { "name": "sina.adl", "domain": "usask.ca" }
 			},
 			{
 				"title": "Secretary",
@@ -55,18 +55,34 @@
 		"atlarge":
 		[
 			{
-				"year": 2019,
+				"year": 2022,
 				"members":
 				[
 					{
-						"name": "Micah Dunthorn",
-						"organization": "University of Kaiserslautern, Germany",
-						"email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
+						"name": "Kevin de Queiroz",
+						"organization": "Smithsonian Institution",
+						"email": { "name": "dequeirozk", "domain": "si.edu" }
 					},
 					{
-						"name": "Pam Soltis",
-						"organization": "University of Florida",
-						"email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
+						"name": "Richard Olmstead",
+						"organization": "University of Washington",
+						"email": { "name": "olmstead", "domain": "uw.edu" }
+				}
+				]
+			},
+			{
+				"year": 2021,
+				"members":
+				[
+					{
+						"name": "Brian Andres",
+						"organization": "University of Keele",
+						"email": { "name": "brian.andres", "domain": "aya.yale.edu" }
+					},
+					{
+						"name": "Sandy Carlson",
+						"organization": "University of California, Davis",
+						"email": { "name": "sjcarlson", "domain": "ucdavis.edu" }
 					}
 				]
 			},
@@ -85,22 +101,6 @@
 						"email": { "name": "grouse", "domain": "ucsd.edu" }
 					}
 				]
-			},
-			{
-				"year": 2021,
-				"members":
-				[
-					{
-						"name": "Brian Andres",
-						"organization": "University of Keele",
-						"email": { "name": "brian.andres", "domain": "aya.yale.edu" }
-					},
-					{
-						"name": "Sandy Carlson",
-						"organization": "University of California, Davis",
-						"email": { "name": "sjcarlson", "domain": "ucdavis.edu" }
-					}
-				]
 			}
 		]
 	},
@@ -113,54 +113,28 @@
 			"sections":
 			[
 				{
-					"name": 2019,
+					"name": 2022,
 					"members":
 					[
 						{
-							"name": "Kevin de Queiroz",
-							"organization": "Smithsonian Institution",
-							"email": { "name": "dequeirozk", "domain": "si.edu" }
+							"name": "Michael Lee",
+							"organization": "Flinders University and South Australian Museum",
+							"email": { "name": "mike.lee", "domain": "samuseum.sa.gov.au" }
 						},
 						{
-							"name": "Richard Olmstead",
-							"organization": "University of Washington",
-							"email": { "name": "olmstead", "domain": "uw.edu" }
+							"name": "David Marjanović",
+							"organization": "Museum für Naturkunde",
+							"email": { "name": "david.marjanovic", "domain": "mfn.berlin" }
 						},
 						{
-							"name": "George Sangster",
-							"organization": "Swedish Museum of Natural History",
-							"email": { "name": "g.sangster", "domain": "planet.nl" }
+							"name": "Greg Rouse",
+							"organization": "University of California, San Diego",
+							"email": { "name": "grouse", "domain": "ucsd.edu" }
 						},
 						{
 							"name": "Mieczysław Wolsan",
 							"organization": "Polish Academy of Sciences",
 							"email": { "name": "wolsan", "domain": "miiz.waw.pl" }
-						}
-					]
-				},
-				{
-					"name": 2020,
-					"members":
-					[
-						{
-							"name": "James Doyle",
-							"organization": "University of California, Davis)",
-							"email": { "name": "jadoyle", "domain": "ucdavis.edu" }
-						},
-						{
-							"name": "Micah Dunthorn",
-							"organization": "University of Kaiserslautern, Germany",
-							"email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
-						},
-						{
-							"name": "Sean Graham",
-							"organization": "University of British Columbia",
-							"email": { "name": "swgraham", "domain": "mail.ubc.ca" }
-						},
-						{
-							"name": "Max Cardoso Langer",
-							"organization": "Universidade de São Paulo",
-							"email": { "name": "mclanger", "domain": "ffclrp.usp.br" }
 						}
 					]
 				},
@@ -185,8 +159,34 @@
 						},
 						{
 							"name": "Susan Richardson",
-							"organization": "(Florida Atlantic University",
+							"organization": "Florida Atlantic University",
 							"email": { "name": "srichardson55", "domain": "gmail.com" }
+						}
+					]
+				},
+				{
+					"name": 2020,
+					"members":
+					[
+						{
+							"name": "James Doyle",
+							"organization": "University of California, Davis",
+							"email": { "name": "jadoyle", "domain": "ucdavis.edu" }
+						},
+						{
+							"name": "Micah Dunthorn",
+							"organization": "University of Kaiserslautern, Germany",
+							"email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
+						},
+						{
+							"name": "Sean Graham",
+							"organization": "University of British Columbia",
+							"email": { "name": "swgraham", "domain": "mail.ubc.ca" }
+						},
+						{
+							"name": "Max Cardoso Langer",
+							"organization": "Universidade de São Paulo",
+							"email": { "name": "mclanger", "domain": "ffclrp.usp.br" }
 						}
 					]
 				}
@@ -213,7 +213,7 @@
 					"members":
 					[
 						{
-							"name": "Michael Keesey",
+							"name": "Mike Keesey",
 							"email": { "name": "keesey", "domain": "gmail.com" }
 						},
 						{
