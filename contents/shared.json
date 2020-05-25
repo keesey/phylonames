@@ -4,21 +4,35 @@
 	"year": 2020,
 	"navbar": [
 		{
-			"label": "About the ISPN",
+			"label": "PhyloCode",
+			"href": "/code",
+			"glyphicon": "list-alt"
+		},
+		{
+			"label": "About",
 			"href": "/about",
 			"glyphicon": "question-sign"
 		},
 		{
-			"label": "How to Join",
+			"label": "Join",
 			"href": "/membership",
 			"glyphicon": "log-in"
 
 		},
 		{
+			"label": "Events",
+			"href": "/events",
+			"glyphicon": "calendar"
+		},
+		{
+			"label": "Documents",
+			"href": "/documents",
+			"glyphicon": "file"
+		},
+		{
 			"label": "Literature",
 			"href": "/literature",
 			"glyphicon": "book"
-
 		},
 		{
 			"label": "News",
@@ -28,6 +42,24 @@
 	],
 	"news":
 	[
+		{
+			"id": "2020-05-227-b",
+			"date": "27 May 2020",
+			"title": "Publication of the PhyloCode",
+			"summary": "<cite>The International Code of Phylogenetic Nomenclature</cite> has been published.",
+			"action": "More Information",
+			"href": "https://doi.org/10.1201/9780429446320",
+			"featured": true
+		},
+		{
+			"id": "2020-05-27-a",
+			"date": "27 May 2020",
+			"title": "Publication of the Companion Volume",
+			"summary": "<cite>Phylonyms: A Companion to the <abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>, has been published.",
+			"action": "More Information",
+			"href": "https://doi.org/10.1201/9780429446276",
+			"featured": true
+		},
 		{
 			"id": "2020-02-14",
 			"date": "14 Feb 2020",
@@ -50,10 +82,10 @@
 			"id": "2019-01-21",
 			"date": "21 Jan 2019",
 			"title": "PhyloCode Version 5 Draft Posted",
-			"summary": "Version 5 of the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i> has been made avaliable online. Version 6 is in progress.",
+			"summary": "Version 5 of the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite> has been made avaliable online. Version 6 is in progress.",
 			"action": "More Information",
 			"href": "https://www.ohio.edu/phylocode/documents.html",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2017-10-22",
@@ -68,10 +100,10 @@
 			"id": "2017-06-16",
 			"date": "16 Jun 2017",
 			"title": "Companion Volume: Progress Report",
-			"summary": "Philip Cantino reports on the progress of <i>Phylonyms</i>, the companion volume to the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i>.",
+			"summary": "Philip Cantino reports on the progress of <cite>Phylonyms</cite>, the companion volume to the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>.",
 			"action": "Read the Report",
 			"href": "/news/items/2017-06-16",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2016-10-16",
@@ -86,7 +118,7 @@
 			"id": "2016-02-27",
 			"date": "27 Feb 2016",
 			"title": "Companion Volume: Progress Report",
-			"summary": "Philip Cantino reports on the progress of <i>Phylonyms</i>, the companion volume to the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i>.",
+			"summary": "Philip Cantino reports on the progress of <cite>Phylonyms</cite>, the companion volume to the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>.",
 			"action": "Read the Report",
 			"href": "/news/items/2016-02-27",
 			"featured": false
@@ -113,7 +145,7 @@
 			"id": "2014-08-18",
 			"date": "18 Aug 2014",
 			"title": "Companion Volume: Progress Report",
-			"summary": "Philip Cantino reports on the progress of <i>Phylonyms</i>, the companion volume to the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i>.",
+			"summary": "Philip Cantino reports on the progress of <cite>Phylonyms</cite>, the companion volume to the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>.",
 			"action": "Read the Report",
 			"href": "/news/items/2014-08-18",
 			"featured": false
@@ -121,8 +153,8 @@
 		{
 			"id": "2014-02-25",
 			"date": "25 Feb 2014",
-			"title": "<i>PhyloCode</i> 5.0 Beta Version",
-			"summary": "A new version of the <i>PhyloCode</i> will be posted once the Preface and Index have been completed. A beta version is available on request.",
+			"title": "<cite>PhyloCode</cite> 5.0 Beta Version",
+			"summary": "A new version of the <cite>PhyloCode</cite> will be posted once the Preface and Index have been completed. A beta version is available on request.",
 			"action": "Read More",
 			"href": "/news/items/2014-02-25",
 			"featured": false
@@ -131,7 +163,7 @@
 			"id": "2013-10-17",
 			"date": "17 Oct 2013",
 			"title": "Companion Volume: Progress Report",
-			"summary": "Philip Cantino reports on the progress of <i>Phylonyms</i>, the companion volume to the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i>. The manuscript is scheduled to be submitted to the publisher by 1 September 2014.",
+			"summary": "Philip Cantino reports on the progress of <cite>Phylonyms</i>, the companion volume to the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>. The manuscript is scheduled to be submitted to the publisher by 1 September 2014.",
 			"action": "Read the Report",
 			"href": "/news/items/2013-10-17",
 			"featured": false
@@ -149,7 +181,7 @@
 			"id": "2012-02-01",
 			"date": "1 Feb 2012",
 			"title": "Companion Volume: Progress Report",
-			"summary": "Philip Cantino reports on the progress of the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</i>.",
+			"summary": "Philip Cantino reports on the progress of the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</cite>.",
 			"action": "Read the Report",
 			"href": "/news/items/2012-02-01",
 			"featured": false
@@ -158,7 +190,7 @@
 			"id": "2011-11-16",
 			"date": "16 Nov 2011",
 			"title": "Species Amendment Proposed",
-			"summary": "A proposal to amend the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i> with respect to species has been posted.",
+			"summary": "A proposal to amend the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite> with respect to species has been posted.",
 			"action": "More Information",
 			"href": "/news/items/2011-11-16",
 			"featured": false
@@ -167,7 +199,7 @@
 			"id": "2011-09-06",
 			"date": "6 Sep 2011",
 			"title": "Companion Volume: Progress Report",
-			"summary": "Kevin de Queiroz reports on the progress of the <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</i>.",
+			"summary": "Kevin de Queiroz reports on the progress of the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr> Companion Volume</cite>.",
 			"action": "Read the Report",
 			"href": "/news/items/2011-09-06",
 			"featured": false
@@ -175,10 +207,10 @@
 		{
 			"id": "2010-02-02",
 			"date": "2 Feb 2010",
-			"title": "<i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i> Version 4c",
-			"summary": "Version 4c of the draft <i><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></i> has been posted online.",
+			"title": "<cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite> Version 4c",
+			"summary": "Version 4c of the draft <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite> has been posted online.",
 			"action": "Read the Draft",
-			"href": "//phylocode.org",
+			"href": "/documents",
 			"featured": false
 		},
 		{

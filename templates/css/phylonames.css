@@ -1,7 +1,9 @@
 a{color:#dd9040}
+abbr{text-decoration: none}
 body{margin:50px 0;background-repeat:repeat-y}
 h1, h2, h3, h4, h5, h6 {margin-top:0;padding-top:0}
-i i {font-style:normal}
+cite {font-style: italic}
+i i, cite i {font-style:normal}
 input[type="image"] {vertical-align:middle}
 section{padding-top:50px}
 #content{padding:0 3em 100px}
