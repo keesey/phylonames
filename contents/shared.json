@@ -43,29 +43,47 @@
 	"news":
 	[
 		{
+			"id": "2020-06-08-b",
+			"date": "8 June 2020",
+			"title": "New books: PhyloCode and Phylonyms",
+			"summary": "New books present the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>, an evolution-based system for naming organisms.",
+			"action": "Read More",
+			"href": "https://www.floridamuseum.ufl.edu/science/phylocode-system-for-naming-organisms/",
+			"featured": true
+		},
+		{
+			"id": "2020-06-08-a",
+			"date": "8 June 2020",
+			"title": "RegNum (Beta Release)",
+			"summary": "A beta version of the Registration Database is online.",
+			"action": "Explore",
+			"href": "https://www.phyloregnum.org/",
+			"featured": true
+		},
+		{
 			"id": "2020-05-27-b",
 			"date": "27 May 2020",
 			"title": "Publication of the PhyloCode",
 			"summary": "<cite>The International Code of Phylogenetic Nomenclature</cite> has been published.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "https://doi.org/10.1201/9780429446320",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2020-05-27-a",
 			"date": "27 May 2020",
 			"title": "Publication of the Companion Volume",
 			"summary": "<cite>Phylonyms: A Companion to the <abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>, has been published.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "https://doi.org/10.1201/9780429446276",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2020-02-14",
 			"date": "14 Feb 2020",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2020 election results are available.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/about#council",
 			"featured": true
 		},
@@ -74,7 +92,7 @@
 			"date": "3 Mar 2019",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2019 election results are available.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/about#council",
 			"featured": false
 		},
@@ -83,7 +101,7 @@
 			"date": "21 Jan 2019",
 			"title": "PhyloCode Version 5 Draft Posted",
 			"summary": "Version 5 of the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite> has been made avaliable online. Version 6 is in progress.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "https://www.ohio.edu/phylocode/documents.html",
 			"featured": false
 		},
@@ -92,7 +110,7 @@
 			"date": "22 Oct 2017",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2018 election results are available.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/about#council",
 			"featured": false
 		},
@@ -110,7 +128,7 @@
 			"date": "16 Oct 2016",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2017 election results are available.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/about#council",
 			"featured": false
 		},
@@ -128,7 +146,7 @@
 			"date": "30 Aug 2015",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2016 election results are available.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/about#council",
 			"featured": false
 		},
@@ -137,7 +155,7 @@
 			"date": "24 Oct 2014",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2015 election results are available.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/about#council",
 			"featured": false
 		},
@@ -173,7 +191,7 @@
 			"date": "11 Oct 2013",
 			"title": "Election Results",
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2014 election results are available.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/about#council",
 			"featured": false
 		},
@@ -191,7 +209,7 @@
 			"date": "16 Nov 2011",
 			"title": "Species Amendment Proposed",
 			"summary": "A proposal to amend the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite> with respect to species has been posted.",
-			"action": "More Information",
+			"action": "Read More",
 			"href": "/news/items/2011-11-16",
 			"featured": false
 		},
