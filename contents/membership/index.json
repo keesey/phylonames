@@ -12,6 +12,33 @@
 			"bn": "PP-BuyNowBF"
 		},
 		{
+			"id": "regular2years",
+			"name": "Regular Member (2 years)",
+			"description": "$36 per year, a savings of $8",
+			"amount": 72,
+			"item_name": "Regular membership, 2 years",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "regular3years",
+			"name": "Regular Member (3 years)",
+			"description": "$34 per year, a savings of $18",
+			"amount": 102,
+			"item_name": "Regular membership, 3 years",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
+			"id": "regular5years",
+			"name": "Regular Member (5 years)",
+			"description": "$32 per year, a savings of $40",
+			"amount": 160,
+			"item_name": "Regular membership, 5 years",
+			"btn": "btn_paynow_SM",
+			"bn": "PP-BuyNowBF"
+		},
+		{
 			"id": "family",
 			"name": "Regular Family Member",
 			"description": "Spouse or domestic partner of a <a href=\"#regular\">Regular</a>, <a href=\"#sustaining\">Sustaining</a>, Founding, or <a href=\"#life\">Life Member</a>.",
