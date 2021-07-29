@@ -43,6 +43,15 @@
 	"news":
 	[
 		{
+			"id": "2021-02-14",
+			"date": "14 Feb 2021",
+			"title": "Election Results",
+			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2021 election results are available.",
+			"action": "Read More",
+			"href": "/about#council",
+			"featured": true
+		},
+		{
 			"id": "2020-06-08-b",
 			"date": "8 June 2020",
 			"title": "New books: PhyloCode and Phylonyms",
@@ -85,7 +94,7 @@
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2020 election results are available.",
 			"action": "Read More",
 			"href": "/about#council",
-			"featured": true
+			"featured": false
 		},
 		{
 			"id": "2019-03-03",
