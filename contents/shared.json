@@ -41,13 +41,40 @@
   ],
   "news": [
     {
+      "id": "2023-04-06",
+      "date": "6 Apr 2023",
+      "title": "First issue of the <cite>Bulletin of Phylogenetic Nomenclature</cite>",
+      "summary": "The inaugural issue of the <cite>Bulletin of Phylogenetic Nomenclature</cite> has been published, including two articles and an editorial.",
+      "action": "Read the Issue",
+      "href": "https://mapress.com/bpn/issue/view/bpn.1.1",
+      "featured": true
+    },
+    {
+      "id": "2023-03-10",
+      "date": "10 Mar 2023",
+      "title": "Second article of the <cite>Bulletin of Phylogenetic Nomenclature</cite>",
+      "summary": "Spiny Tails and Clades: A Fully Sampled Phylogeny of Hoplocercine Lizards (<i>Iguanidae</i> / <i>Hoplocercinae</i>) and its Taxonomic and Nomenclatural Implications",
+      "action": "Read the Article",
+      "href": "https://dx.doi.org/10.11646/BPN.1.1.2",
+      "featured": true
+    },
+    {
+      "id": "2022-08-19",
+      "date": "19 Aug 2022",
+      "title": "First article of the <cite>Bulletin of Phylogenetic Nomenclature</cite>",
+      "summary": "Addition to “The Phylogenetics of <i>Teleosauroidea</i> (<i>Crocodylomorpha</i>; <i>Thalattosuchia</i>) and Implications for Their Ecology and Evolution”",
+      "action": "Read the Article",
+      "href": "https://dx.doi.org/10.11646/BPN.1.1.1",
+      "featured": true
+    },
+    {
       "id": "2022-01-19",
       "date": "19 Jan 2022",
-      "title": "Bulletin of Phylogenetic Nomenclature",
+      "title": "<cite>Bulletin of Phylogenetic Nomenclature</cite>",
       "summary": "The <cite>Bulletin of Phylogenetic Nomenclature</cite> is now taking submissions for its inaugural issue.",
       "action": "Read More",
       "href": "https://mapress.com/bpn",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2021-01-15",
@@ -56,16 +83,16 @@
       "summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2021 election results are available.",
       "action": "Read More",
       "href": "/about#council",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2020-06-08-b",
       "date": "8 June 2020",
-      "title": "New books: PhyloCode and Phylonyms",
+      "title": "New books: <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite> and <cite><abbr title=\"Phylonyms: a Companion to the PhyloCode\">Phylonyms</abbr></cite>",
       "summary": "New books present the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>, an evolution-based system for naming organisms.",
       "action": "Read More",
       "href": "https://www.floridamuseum.ufl.edu/science/phylocode-system-for-naming-organisms/",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2020-06-08-a",
@@ -79,7 +106,7 @@
     {
       "id": "2020-05-27-b",
       "date": "27 May 2020",
-      "title": "Publication of the PhyloCode",
+      "title": "Publication of the <cite><abbr title=\"International Code of Phylogenetic Nomenclature\">PhyloCode</abbr></cite>",
       "summary": "<cite>The International Code of Phylogenetic Nomenclature</cite> has been published.",
       "action": "Read More",
       "href": "https://doi.org/10.1201/9780429446320",
