@@ -1,0 +1,21 @@
+{
+  "author": "T. Michael Keesey <keesey+phylonames@gmail.com>",
+  "devDependencies": {
+    "mime": "^1",
+    "punch": "^0.5.46"
+  },
+  "description": "Website of the International Society for Phylogenetic Nomenclature",
+  "license": "MIT",
+  "main": "contents/index.json",
+  "name": "phylonames",
+  "private": false,
+  "repository": "https://github.com/keesey/phylonames",
+  "resolutions": {
+    "mime": "^1"
+  },
+  "scripts": {
+    "build": "punch g",
+    "start": "punch s"
+  },
+  "version": "1.0.0"
+}
