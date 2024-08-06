@@ -41,6 +41,24 @@
   ],
   "news": [
     {
+      "id": "2024-08-05",
+      "date": "5 Aug 2023",
+      "title": "New article in the <cite>Bulletin of Phylogenetic Nomenclature</cite>",
+      "summary": "Phylogenetic nomenclature of <i>Notosuchia</i> (<i>Crocodylomorpha</i>; <i>Crocodyliformes</i>)",
+      "action": "Read the Article",
+      "href": "https://www.mapress.com/bpn/article/view/bpn.1.3.2",
+      "featured": true
+    },
+		{
+			"id": "2024-07-23",
+			"date": "23 Jun 2024",
+			"title": "Election Results",
+			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2024 election results are available.",
+			"action": "Read More",
+			"href": "/about#council",
+			"featured": true
+		},
+    {
       "id": "2023-04-06",
       "date": "6 Apr 2023",
       "title": "First issue of the <cite>Bulletin of Phylogenetic Nomenclature</cite>",
@@ -56,7 +74,7 @@
       "summary": "Spiny Tails and Clades: A Fully Sampled Phylogeny of Hoplocercine Lizards (<i>Iguanidae</i> / <i>Hoplocercinae</i>) and its Taxonomic and Nomenclatural Implications",
       "action": "Read the Article",
       "href": "https://dx.doi.org/10.11646/BPN.1.1.2",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2022-08-19",
@@ -65,7 +83,7 @@
       "summary": "Addition to “The Phylogenetics of <i>Teleosauroidea</i> (<i>Crocodylomorpha</i>; <i>Thalattosuchia</i>) and Implications for Their Ecology and Evolution”",
       "action": "Read the Article",
       "href": "https://dx.doi.org/10.11646/BPN.1.1.1",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2022-01-19",

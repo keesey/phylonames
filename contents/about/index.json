@@ -15,27 +15,27 @@
     "officers": [
       {
         "title": "President-Elect",
+        "name": "Michel Laurin",
+        "organization": "Muséum National d'Histoire Naturelle",
+        "email": { "name": "michel.laurin", "domain": "mnhn.fr" }
+      },
+      {
+        "title": "President",
         "name": "Mieczysław Wolsan",
         "organization": "Polish Academy of Sciences",
         "email": { "name": "wolsan", "domain": "miiz.waw.pl" }
       },
       {
-        "title": "President",
+        "title": "Past-President",
         "name": "Pam Soltis",
         "organization": "University of Florida",
         "email": { "name": "psoltis", "domain": "flmnh.ufl.edu" }
       },
       {
-        "title": "Past-President",
-        "name": "Thomas J. Near",
-        "organization": "Yale University",
-        "email": { "name": "thomas.near", "domain": "yale.edu" }
-      },
-      {
         "title": "Secretary",
-        "name": "Michel Laurin",
-        "organization": "CNRS, Paris",
-        "email": { "name": "michel.laurin", "domain": "mnhn.fr" }
+        "name": "Wendy Clement",
+        "organization": "The College of New Jersey",
+        "email": { "name": "clementw", "domain": "tcnj.edu" }
       },
       {
         "title": "Treasurer",
@@ -45,53 +45,23 @@
       },
       {
         "title": "Webmaster",
-        "name": "Michael Keesey",
+        "name": "T. Michael Keesey",
         "email": { "name": "keesey", "domain": "gmail.com" }
       }
     ],
     "atlarge": [
       {
-        "year": 2023,
+        "year": 2024,
         "members": [
           {
-            "name": "Christopher Brochu",
-            "organization": "University of Iowa",
-            "email": { "name": "chris-brochu", "domain": "uiowa.edu" }
-          },
+            "name": "David Marjanović",
+            "organization": "Museum für Naturkunde",
+            "email": { "name": "david.marjanovic", "domain": "mfn.berlin" }
+        },
           {
-            "name": "Philip Cantino",
-            "organization": "Ohio University",
-            "email": { "name": "cantino", "domain": "ohio.edu" }
-          }
-        ]
-      },
-      {
-        "year": 2022,
-        "members": [
-          {
-            "name": "Kevin de Queiroz",
-            "organization": "Smithsonian Institution",
-            "email": { "name": "dequeirozk", "domain": "si.edu" }
-          },
-          {
-            "name": "Richard Olmstead",
-            "organization": "University of Washington",
-            "email": { "name": "olmstead", "domain": "uw.edu" }
-          }
-        ]
-      },
-      {
-        "year": 2021,
-        "members": [
-          {
-            "name": "Brian Andres",
-            "organization": "University of Sheffield",
-            "email": { "name": "brian.andres", "domain": "aya.yale.edu" }
-          },
-          {
-            "name": "Sandy Carlson",
-            "organization": "University of California, Davis",
-            "email": { "name": "sjcarlson", "domain": "ucdavis.edu" }
+            "name": "Qiuyun (Jenny) Xiang",
+            "organization": "North Carolina State University",
+            "email": { "name": "jenny_xiang", "domain": "ncsu.edu" }
           }
         ]
       }
@@ -104,77 +74,27 @@
       "note": "by year of term expiration",
       "sections": [
         {
-          "name": 2023,
+          "name": 2024,
           "members": [
             {
-              "name": "Sina Adl",
-              "organization": "University of Saskatchewan",
-              "email": { "name": "mike.lee", "domain": "samuseum.sa.gov.au" }
+              "name": "Andrew Crowl",
+              "organization": "North Carolina State University",
+              "email": { "name": "andy.crowl", "domain": "gmail.com" }
             },
             {
-              "name": "Kevin de Queiroz",
-              "organization": "Smithsonian Institution",
-              "email": { "name": "dequeirozk", "domain": "si.edu" }
+              "name": "David Hibbett",
+              "organization": "Clark University",
+              "email": { "name": "dhibbett", "domain": "clarku.edu" }
             },
             {
-              "name": "Micah Dunthorn",
-              "organization": "University of Kaiserslautern, Germany",
-              "email": { "name": "dunthorn", "domain": "rhrk.uni-kl.de" }
-            },
+              "name": "Richard Olmstead",
+              "organization": "University of Washington",
+              "email": { "name": "olmstead", "domain": "uw.edu" }
+              },
             {
-              "name": "Max Cardoso Langer",
-              "organization": "Universidade de São Paulo",
-              "email": { "name": "mclanger", "domain": "ffclrp.usp.br" }
-            }
-          ]
-        },
-        {
-          "name": 2022,
-          "members": [
-            {
-              "name": "Michael Lee",
-              "organization": "Flinders University and South Australian Museum",
-              "email": { "name": "mike.lee", "domain": "samuseum.sa.gov.au" }
-            },
-            {
-              "name": "David Marjanović",
-              "organization": "Museum für Naturkunde",
-              "email": { "name": "david.marjanovic", "domain": "mfn.berlin" }
-            },
-            {
-              "name": "Greg Rouse",
-              "organization": "University of California, San Diego",
-              "email": { "name": "grouse", "domain": "ucsd.edu" }
-            },
-            {
-              "name": "Mieczysław Wolsan",
-              "organization": "Polish Academy of Sciences",
-              "email": { "name": "wolsan", "domain": "miiz.waw.pl" }
-            }
-          ]
-        },
-        {
-          "name": 2021,
-          "members": [
-            {
-              "name": "David Cannatella",
-              "organization": "University of Texas",
-              "email": { "name": "catfish", "domain": "utexas.edu" }
-            },
-            {
-              "name": "Philip Cantino",
-              "organization": "Ohio University",
-              "email": { "name": "cantino", "domain": "ohio.edu" }
-            },
-            {
-              "name": "Nico Cellinese",
-              "organization": "University of Florida",
-              "email": { "name": "ncellinese", "domain": "flmnh.ufl.edu" }
-            },
-            {
-              "name": "Susan Richardson",
-              "organization": "Florida Atlantic University",
-              "email": { "name": "richards", "domain": "fau.edu" }
+              "name": "Gregory Stull",
+              "organization": "U.S. Department of Agriculture",
+              "email": { "name": "stullg", "domain": "si.edu" }
             }
           ]
         }
@@ -198,7 +118,7 @@
           "name": "Members",
           "members": [
             {
-              "name": "Mike Keesey",
+              "name": "T. Michael Keesey",
               "email": { "name": "keesey", "domain": "gmail.com" }
             },
             {
