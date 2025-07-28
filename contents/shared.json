@@ -41,6 +41,15 @@
   ],
   "news": [
     {
+      "id": "2024-10-02",
+      "date": "2 Oct 2024",
+      "title": "New book: <cite>The Advent of PhyloCode</cite>",
+      "summary": "This book will reach a broader readership of those using nomenclature but who remain unaware of its theoretical foundations.",
+      "action": "More Information",
+      "href": "https://doi.org/10.1201/9781003092827",
+      "featured": true
+    },
+    {
       "id": "2024-08-15",
       "date": "15 Aug 2024",
       "title": "New article in the <cite>Bulletin of Phylogenetic Nomenclature</cite>",
@@ -65,7 +74,7 @@
 			"summary": "<abbr title=\"International Society for Phylogenetic Nomenclature\">ISPN</abbr> 2024 election results are available.",
 			"action": "Read More",
 			"href": "/about#council",
-			"featured": true
+			"featured": false
 		},
     {
       "id": "2024-02-12",
