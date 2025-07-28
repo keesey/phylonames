@@ -40,6 +40,7 @@
 			({{date}}).
 			{{^journal}}<em>{{/journal}}{{{title}}}{{^journal}}</em>{{/journal}}
 			{{#publisher}}{{publisher}}.{{/publisher}}
+			{{#pages}}{{pages}}<abbr title="pages">pp</abbr>.{{/pages}}
 			{{#journal}}
 			<em>{{journal}}</em> <strong>{{volume}}</strong>{{#issue}}({{issue}}){{/issue}}: {{pageA}}{{#pageB}}&ndash;{{pageB}}{{/pageB}}.
 			{{/journal}}
@@ -49,8 +50,8 @@
 			{{#editors}}{{{editors}}} (eds.){{/editors}}
 			<em>{{{title}}}</em>
 			{{#publisher}}{{publisher}}.{{/publisher}}
-			{{#url}}[<a href="{{url}}">{{url}}</a>]{{/url}}
 			{{/in}}
+			{{#url}}[<a href="{{url}}">{{url}}</a>]{{/url}}
 			{{{note}}}
 		</li>
 	{{/citations}}

@@ -47,8 +47,15 @@
 					"date": 2004,
 					"title": "Time for Linnaeus to leave the stage.",
 					"journal": "New Scientist",
-					"issue": "11 Sep 2004",
-					"pageA": 12, "pageB": 13
+					"issue": "11 Sep 2004"
+				},
+				{
+					"authors": "Laurin, M.",
+					"date": 2023,
+					"title": "The Advent of <cite>PhyloCode</cite>: The Continuing Evolution of Biological Nomenclature",
+					"publisher": "CRC Press, Boca Raton, FL",
+					"pages": 226,
+					"url": "https://doi.org/10.1201/9781003092827"
 				},
 				{
 					"authors": "Laurin, M., &amp; H. N. Bryant",
@@ -270,7 +277,12 @@
 					"pageA": 124, "pageB": 130
 				},
 				{
-					"authors": "Bryant, H. N.", "date": 1996, "title": "Explicitness, stability, &amp; universality in the phylogenetic definition and usage of taxon names: a case study of the phylogenetic taxonomy of the <i>Carnivora</i> (<i>Mammalia</i>).", "journal": "Syst. Biol.", "volume": 45, "pageA": 174, "pageB": 189
+					"authors": "Bryant, H. N.",
+					"date": 1996,
+					"title": "Explicitness, stability, &amp; universality in the phylogenetic definition and usage of taxon names: a case study of the phylogenetic taxonomy of the <i>Carnivora</i> (<i>Mammalia</i>).",
+					"journal": "Syst. Biol.",
+					"volume": 45,
+					"pageA": 174, "pageB": 189
 				},
 				{
 					"authors": "Bryant, H. N.",
@@ -513,7 +525,7 @@
 					"journal": "Syst. Biol.", "volume": 55, "pageA": 774, "pageB": 784
 				},
 				{
-					"authors": "LANGER, M. C.", "date": 2001,
+					"authors": "Langer, M. C.", "date": 2001,
 					"title": "Linnaeus and the <i>PhyloCode</i>: where are the differences?",
 					"journal": "Taxon", "volume": 50, "pageA": 1091, "pageB": 1096
 				},
@@ -574,6 +586,12 @@
 					"date": 2010,
 					"title": "The subjective nature of Linnaean categories and its impact in evolutionary biology and biodiversity studies.",
 					"journal": "Contributions to Zoology", "volume": 79, "pageA": 131, "pageB": 146
+				},
+				{
+					"authors": "Laurin, M.",
+					"date": 2024,
+					"title": "The Advent of PhyloCode: The Continuing Evolution of Biological Nomenclature",
+					"publisher": "CRC Press: Boca Raton, FL, USA; Abingdon, UK"
 				},
 				{
 					"authors": "Laurin, M., &amp; J. S. Anderson.",
@@ -654,7 +672,7 @@
 					"authors": "Schander, C.", "date": 1998, "title": "Mandatory categories and impossible hierarchies&mdash;a reply to Sosef.", "journal": "Taxon", "volume": 47, "pageA": 407, "pageB": 410
 				},
 				{
-					"authors": "Schander, C., &amp; M. Thollesson.", "date": 1995, "title": "Phylogenetic taxonomy&mdash;some comments.", "journal": "Zool. Scr.", "volume": 24, "pageA": 263, "pageB": 268
+					"authors": "Schander, C., &amp; M. Thollesson", "date": 1995, "title": "Phylogenetic taxonomy&mdash;some comments.", "journal": "Zool. Scr.", "volume": 24, "pageA": 263, "pageB": 268
 				},
 				{
 					"authors": "Sereno, P. C.", "date": 1998, "title": "A rationale for phylogenetic definitions, with application to the higher-level taxonomy of <i>Dinosauria</i>.", "journal": "N. Jb. Geol. Paläont. Abh.", "volume": 210, "pageA": 41, "pageB": 83
@@ -666,7 +684,7 @@
 					"authors": "Sereno, P. C.", "date": 2005, "title": "The logical basis of phylogenetic taxonomy.", "journal": "Syst. Biol.", "volume": 54, "pageA": 595, "pageB": 619
 				},
 				{
-					"authors": "Stevens, P. F.", "date": 2002, "title": "Why do we name organisms?", "journal": "Some reminders from the past.", "journal": "Taxon", "volume": 51, "pageA": 11, "pageB": 26
+					"authors": "Stevens, P. F.", "date": 2002, "title": "Why do we name organisms? Some reminders from the past.", "journal": "Taxon", "volume": 51, "pageA": 11, "pageB": 26
 				},
 				{
 					"authors": "Sundberg, P., &amp; F. Pleijel.", "date": 1994, "title": "Phylogenetic classification and the definition of taxon names.", "journal": "Zool. Scr.", "volume": 23, "pageA": 19, "pageB": 25
@@ -1709,6 +1727,18 @@
 					"authors": "Schander, C.", "date": 1998,
 					"title": "Types, emendations and names&mdash;a reply to Lidén et al.",
 					"journal": "Taxon", "volume": 47, "pageA": 401, "pageB": 406
+				}
+			]
+		},
+		{
+			"id": "bookreviews",
+			"title": "Book Reviews",
+			"citations": [
+				{
+					"authors": "Carlson, S. J.",
+					"date": 2025,
+					"title": "Book Review: Laurin, M. <cite>The Advent of PhyloCode: The Continuing Evolution of Biological Nomenclature</cite>",
+					"journal": "Foss. Stud.", "volume": 3, "pageA": 3, "pageB": 3
 				}
 			]
 		}
